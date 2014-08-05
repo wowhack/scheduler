@@ -21,6 +21,16 @@
     Prefer large artists
   </div>
 
+  <div class="well well-lg">
+    I really would like to attend these concerts:
+    <ul ng-repeat="preferredConcert in preferredConcerts">
+      <li>
+        {{ preferredConcert['artist-name'] }}
+        <button type="button" class="btn btn-sm btn-danger" ng-click="removePreferredConcert(preferredConcert['artist-id'])">X</button>
+      </li>
+    </ul>
+  </div>
+
   <div class="row">
     <p><a class="btn btn-lg btn-success" ng-click="loginToSpotify()">Spotify Login</a></p>
   </div>

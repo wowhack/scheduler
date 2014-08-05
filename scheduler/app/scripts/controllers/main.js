@@ -43,6 +43,38 @@ angular.module('schedulerApp')
       }
     ];
 
+    $scope.preferredConcerts = [
+      {
+        "venue": "azalea",
+        "artist-id": "the-horrors",
+        "event-day": 0,
+        "artist-name": "The Horrors",
+        "spotify-uris": [
+          "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+        ],
+        "start-time": 930,
+        "end-time": 990,
+        "artist-popularity": 44
+      },
+      {
+        "venue": "azalea",
+        "artist-id": "tinariwen",
+        "event-day": 0,
+        "artist-name": "Tinariwen",
+        "spotify-uris": [
+          "spotify:artist:2sf2owtFSCvz2MLfxmNdkb"
+        ],
+        "start-time": 1050,
+        "end-time": 1120,
+        "artist-popularity": 42
+      }
+    ];
+    $scope.removePreferredConcert = function(artistId) {
+      $scope.preferredConcerts = $scope.preferredConcerts.filter(function(concert) {
+        return concert['artist-id'] != artistId;
+      });
+    }
+
     $scope.loginToSpotify = function() {
       var redirect = encodeURIComponent($window.location.href) + '{?}';
       $window.location.href = 'http://localhost:8888/login?redirect=' + redirect;
