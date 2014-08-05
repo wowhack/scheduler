@@ -13,16 +13,16 @@ concerts.forEach(function(concert) {
 
 function giveweights() {
   var weights = new Object();
-	for(var i in concerts){
-		weights[concerts[i]['artist-id']] = 1;
-	}
+  for(var i in concerts){
+    weights[concerts[i]['artist-id']] = 1;
+  }
   return weights;
 }
 
 function distance(a, b) {
   // return time in minutes to travel between a and b
-	if(a == b) return 0;
-	else return 1;
+  if(a == b) return 0;
+  else return 1;
 }
 
 function bestWeightAtTimeAndPlace(time, where) {
@@ -43,9 +43,9 @@ function bestWeightAtTimeAndPlace(time, where) {
 }
 
 function findOptimalSchedule(weights) {
-	concerts.sort(function(a, b) {
-		return a['start-time'] - b['start-time'];
-	});
+  concerts.sort(function(a, b) {
+    return a['start-time'] - b['start-time'];
+  });
 
   for(var now in concerts){
     var where = concerts[now]['venue'];
