@@ -4,6 +4,7 @@ var querystring = require('querystring');
 var cookies = require('cookie-parser');
 var login = require('./routes/login');
 var artists = require('./routes/artists');
+var activities = require('./routes/activities');
 var auth_callback = require('./routes/auth_callback');
 var refresh_token = require('./routes/refresh_token');
 
@@ -19,6 +20,7 @@ app.use(express.static(__dirname + '/public'));
 app.use(cookies());
 app.use(login(settings));
 app.use(artists());
+app.use(activities());
 app.use(auth_callback(settings, login.state_key));
 app.use(refresh_token(settings));
 
