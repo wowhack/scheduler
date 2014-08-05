@@ -6,7 +6,9 @@ function bestWeightAtTimeAndPlace(distance, venues, time, where) {
   var ret = 0;
   var now = -1;
   for(var v in venues){
-    var lastendtime = time - distance(where, v);
+    var calculatedDistance = distance(where, v);
+    if (typeof calculatedDistance !== "number") throw new Error("Invalid distance");
+    var lastendtime = time - calculatedDistance;
     var i;
     for(i = venues[v].length - 1; i >= 0 && venues[v][i]['end'] > lastendtime; i--){};
     if(i < 0) continue;

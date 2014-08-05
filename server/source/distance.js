@@ -6,18 +6,19 @@ function failDistance(a, b) {
   else return 1;
 }
 
-function distance(venues, mode, a, b) {
+function distance(venues, mode, distanceMultiplier, a, b) {
   // return time in minutes to travel between a and b
   if (a == b) return 0;
 
   var distancesFromA = venues[a].distances[mode];
-  if (!distancesFromA || !(b in distancesFromA)) return failDistance(a, b);
+  if (!distancesFromA || !(b in distancesFromA)) return failDistance(a, b) * distanceMultiplier;
 
-  return distancesFromA[b].duration;
+  return distancesFromA[b].duration * distanceMultiplier;
 }
 
-function makeDistanceFunction(venues, mode) {
-  return distance.bind(undefined, venues, "walking");
+function makeDistanceFunction(venues, mode, distanceMultiplier) {
+  if (typeof distanceMultiplier !== "number") throw new Error("Invalid distance multiplier");
+  return distance.bind(undefined, venues, mode, distanceMultiplier);
 }
 
 module.exports.distance = distance;
