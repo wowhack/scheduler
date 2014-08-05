@@ -11,13 +11,7 @@ function giveweights(concerts) {
   return weights;
 }
 
-function distance(a, b) {
-  // return time in minutes to travel between a and b
-  if(a == b) return 0;
-  else return 1;
-}
-
-function bestWeightAtTimeAndPlace(venues, time, where) {
+function bestWeightAtTimeAndPlace(distance, venues, time, where) {
   // return maximum weightsum that can be obtained by concerts finishing before time
   var ret = 0;
   var now = -1;
@@ -34,7 +28,7 @@ function bestWeightAtTimeAndPlace(venues, time, where) {
   return Array(ret, now);
 }
 
-function findOptimalSchedule(concerts, weights) {
+function findOptimalSchedule(distance, concerts, weights) {
   var venues = {};
 
   concerts.forEach(function(concert) {
@@ -46,7 +40,7 @@ function findOptimalSchedule(concerts, weights) {
 
   for(var now in concerts){
     var where = concerts[now]['venue'];
-    var y = bestWeightAtTimeAndPlace(venues, concerts[now]['start-time'], where);
+    var y = bestWeightAtTimeAndPlace(distance, venues, concerts[now]['start-time'], where);
     var p = {
       'begin': concerts[now]['start-time'],
       'end': concerts[now]['end-time'],
@@ -75,5 +69,13 @@ function findOptimalSchedule(concerts, weights) {
   schedule.reverse();
   return schedule;
 }
+
+
+function distance(a, b) {
+  // return time in minutes to travel between a and b
+  if(a == b) return 0;
+  else return 1;
+}
+
 var concerts = JSON.parse(String(fs.readFileSync("data/concerts.json")));
-findOptimalSchedule(concerts, giveweights(concerts));
+findOptimalSchedule(distance, concerts, giveweights(concerts));
