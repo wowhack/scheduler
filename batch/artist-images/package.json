@@ -1,0 +1,10 @@
+{
+  "author": "The Players",
+  "name": "wow-hack-2014-arist-image-downloader",
+  "description": "Download the artist images from the WoW website.",
+  "version": "0.0.1",
+  "main": "download.js",
+  "dependencies": {
+    "request": "~2.34.0"
+  }
+}
