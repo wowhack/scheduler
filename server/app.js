@@ -15,7 +15,15 @@ var settings = {
   scope: 'user-library-read'
 };
 
+function allow(req, res, next) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+  res.setHeader('Access-Control-Allow-Credentials', true);
+  next();
+}
+
 var app = express();
+app.use(allow);
 app.use(express.static(__dirname + '/public'));
 app.use(cookies());
 app.use(login(settings));
