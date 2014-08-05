@@ -1,3 +1,6 @@
+// Script that was used to merge concert data with concert times.
+// It's no longer useful, and only here for reference.
+
 var fs = require("fs");
 
 var concerts = JSON.parse(String(fs.readFileSync("data/concerts.json")));

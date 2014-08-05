@@ -3,96 +3,3104 @@
     "festival-area": true,
     "longitude": "11.946123",
     "latitude": "57.686014",
-    "name": "Azalea"
+    "name": "Azalea",
+    "distances": {
+      "driving": {
+        "dungen": {
+          "distance": 2216,
+          "duration": 271
+        },
+        "flamingo": {
+          "distance": 0,
+          "duration": 0
+        },
+        "linne": {
+          "distance": 354,
+          "duration": 76
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "jazzhuset": {
+          "distance": 3328,
+          "duration": 376
+        },
+        "liseberg-polketten": {
+          "distance": 5657,
+          "duration": 652
+        },
+        "nefertiti": {
+          "distance": 3131,
+          "duration": 370
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "rondo": {
+          "distance": 5183,
+          "duration": 596
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "tradgarn-stora-scen": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5399,
+          "duration": 594
+        }
+      },
+      "walking": {
+        "dungen": {
+          "distance": 289,
+          "duration": 223
+        },
+        "flamingo": {
+          "distance": 211,
+          "duration": 151
+        },
+        "linne": {
+          "distance": 341,
+          "duration": 243
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 3876,
+          "duration": 2547
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 3876,
+          "duration": 2547
+        },
+        "jazzhuset": {
+          "distance": 2246,
+          "duration": 1638
+        },
+        "liseberg-polketten": {
+          "distance": 4027,
+          "duration": 3018
+        },
+        "nefertiti": {
+          "distance": 2151,
+          "duration": 1578
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1872,
+          "duration": 1341
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1872,
+          "duration": 1341
+        },
+        "rondo": {
+          "distance": 3697,
+          "duration": 2766
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2985,
+          "duration": 2164
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2985,
+          "duration": 2164
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3202,
+          "duration": 2323
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3202,
+          "duration": 2323
+        }
+      },
+      "bicycling": {
+        "dungen": {
+          "distance": 289,
+          "duration": 70
+        },
+        "flamingo": {
+          "distance": 211,
+          "duration": 41
+        },
+        "linne": {
+          "distance": 341,
+          "duration": 67
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7343,
+          "duration": 1514
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7343,
+          "duration": 1514
+        },
+        "jazzhuset": {
+          "distance": 2333,
+          "duration": 470
+        },
+        "liseberg-polketten": {
+          "distance": 4440,
+          "duration": 980
+        },
+        "nefertiti": {
+          "distance": 2163,
+          "duration": 488
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1872,
+          "duration": 381
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1872,
+          "duration": 381
+        },
+        "rondo": {
+          "distance": 4017,
+          "duration": 885
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2997,
+          "duration": 593
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2997,
+          "duration": 593
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3378,
+          "duration": 681
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3378,
+          "duration": 681
+        }
+      }
+    }
   },
   "dungen": {
     "festival-area": true,
     "longitude": "11.947541257019111",
     "latitude": "57.68775792910367",
-    "name": "Dungen"
+    "name": "Dungen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 2216,
+          "duration": 271
+        },
+        "flamingo": {
+          "distance": 2143,
+          "duration": 266
+        },
+        "linne": {
+          "distance": 1987,
+          "duration": 237
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9829,
+          "duration": 799
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9829,
+          "duration": 799
+        },
+        "jazzhuset": {
+          "distance": 2138,
+          "duration": 301
+        },
+        "liseberg-polketten": {
+          "distance": 4467,
+          "duration": 577
+        },
+        "nefertiti": {
+          "distance": 1941,
+          "duration": 295
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2205,
+          "duration": 321
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2205,
+          "duration": 321
+        },
+        "rondo": {
+          "distance": 3993,
+          "duration": 521
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3126,
+          "duration": 398
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3126,
+          "duration": 398
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3905,
+          "duration": 464
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3905,
+          "duration": 464
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 289,
+          "duration": 223
+        },
+        "flamingo": {
+          "distance": 344,
+          "duration": 236
+        },
+        "linne": {
+          "distance": 594,
+          "duration": 415
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 3666,
+          "duration": 2376
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 3666,
+          "duration": 2376
+        },
+        "jazzhuset": {
+          "distance": 2080,
+          "duration": 1505
+        },
+        "liseberg-polketten": {
+          "distance": 3861,
+          "duration": 2885
+        },
+        "nefertiti": {
+          "distance": 1985,
+          "duration": 1445
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1706,
+          "duration": 1208
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1706,
+          "duration": 1208
+        },
+        "rondo": {
+          "distance": 3531,
+          "duration": 2633
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2819,
+          "duration": 2031
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2819,
+          "duration": 2031
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3036,
+          "duration": 2190
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3036,
+          "duration": 2190
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 289,
+          "duration": 70
+        },
+        "flamingo": {
+          "distance": 344,
+          "duration": 54
+        },
+        "linne": {
+          "distance": 594,
+          "duration": 103
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7254,
+          "duration": 1457
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7254,
+          "duration": 1457
+        },
+        "jazzhuset": {
+          "distance": 2167,
+          "duration": 425
+        },
+        "liseberg-polketten": {
+          "distance": 4274,
+          "duration": 935
+        },
+        "nefertiti": {
+          "distance": 1997,
+          "duration": 443
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1783,
+          "duration": 324
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1783,
+          "duration": 324
+        },
+        "rondo": {
+          "distance": 3851,
+          "duration": 840
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2831,
+          "duration": 548
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2831,
+          "duration": 548
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3289,
+          "duration": 624
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3289,
+          "duration": 624
+        }
+      }
+    }
   },
   "flamingo": {
     "festival-area": true,
-    "longitude":"11.946907",
-    "latitude":"57.685011",
-    "name": "flamingo"
+    "longitude": "11.946907",
+    "latitude": "57.685011",
+    "name": "flamingo",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 0,
+          "duration": 0
+        },
+        "dungen": {
+          "distance": 2143,
+          "duration": 266
+        },
+        "linne": {
+          "distance": 354,
+          "duration": 76
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "jazzhuset": {
+          "distance": 3328,
+          "duration": 376
+        },
+        "liseberg-polketten": {
+          "distance": 5657,
+          "duration": 652
+        },
+        "nefertiti": {
+          "distance": 3131,
+          "duration": 370
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "rondo": {
+          "distance": 5183,
+          "duration": 596
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "tradgarn-stora-scen": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5399,
+          "duration": 594
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 211,
+          "duration": 151
+        },
+        "dungen": {
+          "distance": 344,
+          "duration": 236
+        },
+        "linne": {
+          "distance": 250,
+          "duration": 179
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 3931,
+          "duration": 2594
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 3931,
+          "duration": 2594
+        },
+        "jazzhuset": {
+          "distance": 2301,
+          "duration": 1685
+        },
+        "liseberg-polketten": {
+          "distance": 4082,
+          "duration": 3065
+        },
+        "nefertiti": {
+          "distance": 2206,
+          "duration": 1625
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1927,
+          "duration": 1388
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1927,
+          "duration": 1388
+        },
+        "rondo": {
+          "distance": 3752,
+          "duration": 2813
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3040,
+          "duration": 2211
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3040,
+          "duration": 2211
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3257,
+          "duration": 2370
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3257,
+          "duration": 2370
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 211,
+          "duration": 41
+        },
+        "dungen": {
+          "distance": 344,
+          "duration": 54
+        },
+        "linne": {
+          "distance": 250,
+          "duration": 49
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7398,
+          "duration": 1530
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7398,
+          "duration": 1530
+        },
+        "jazzhuset": {
+          "distance": 2388,
+          "duration": 486
+        },
+        "liseberg-polketten": {
+          "distance": 4495,
+          "duration": 996
+        },
+        "nefertiti": {
+          "distance": 2218,
+          "duration": 504
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1927,
+          "duration": 397
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1927,
+          "duration": 397
+        },
+        "rondo": {
+          "distance": 4072,
+          "duration": 901
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3052,
+          "duration": 609
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3052,
+          "duration": 609
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3433,
+          "duration": 697
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3433,
+          "duration": 697
+        }
+      }
+    }
   },
   "linne": {
     "festival-area": true,
-    "longitude":"11.945043",
-    "latitude":"57.683627",
-    "name": "Linné"
+    "longitude": "11.945043",
+    "latitude": "57.683627",
+    "name": "Linné",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 354,
+          "duration": 76
+        },
+        "dungen": {
+          "distance": 1987,
+          "duration": 237
+        },
+        "flamingo": {
+          "distance": 354,
+          "duration": 76
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9707,
+          "duration": 650
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9707,
+          "duration": 650
+        },
+        "jazzhuset": {
+          "distance": 3172,
+          "duration": 353
+        },
+        "liseberg-polketten": {
+          "distance": 5501,
+          "duration": 629
+        },
+        "nefertiti": {
+          "distance": 2975,
+          "duration": 347
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3239,
+          "duration": 373
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3239,
+          "duration": 373
+        },
+        "rondo": {
+          "distance": 5027,
+          "duration": 573
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 4160,
+          "duration": 450
+        },
+        "tradgarn-stora-scen": {
+          "distance": 4160,
+          "duration": 450
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5243,
+          "duration": 571
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5243,
+          "duration": 571
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 341,
+          "duration": 243
+        },
+        "dungen": {
+          "distance": 594,
+          "duration": 415
+        },
+        "flamingo": {
+          "distance": 250,
+          "duration": 179
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4181,
+          "duration": 2785
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4181,
+          "duration": 2785
+        },
+        "jazzhuset": {
+          "distance": 2551,
+          "duration": 1876
+        },
+        "liseberg-polketten": {
+          "distance": 4332,
+          "duration": 3256
+        },
+        "nefertiti": {
+          "distance": 2456,
+          "duration": 1816
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2177,
+          "duration": 1579
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2177,
+          "duration": 1579
+        },
+        "rondo": {
+          "distance": 4002,
+          "duration": 3004
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3290,
+          "duration": 2402
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3290,
+          "duration": 2402
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3507,
+          "duration": 2561
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3507,
+          "duration": 2561
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 341,
+          "duration": 67
+        },
+        "dungen": {
+          "distance": 594,
+          "duration": 103
+        },
+        "flamingo": {
+          "distance": 250,
+          "duration": 49
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7648,
+          "duration": 1590
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7648,
+          "duration": 1590
+        },
+        "jazzhuset": {
+          "distance": 2638,
+          "duration": 546
+        },
+        "liseberg-polketten": {
+          "distance": 4745,
+          "duration": 1056
+        },
+        "nefertiti": {
+          "distance": 2468,
+          "duration": 564
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2177,
+          "duration": 457
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2177,
+          "duration": 457
+        },
+        "rondo": {
+          "distance": 4322,
+          "duration": 961
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3302,
+          "duration": 669
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3302,
+          "duration": 669
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3683,
+          "duration": 757
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3683,
+          "duration": 757
+        }
+      }
+    }
   },
   "gothenburg-film-studios-studio-1": {
     "festival-area": false,
     "longitude": "11.933482",
     "latitude": "57.708324",
-    "name": "Gothenburg Film Studios Studio 1"
+    "name": "Gothenburg Film Studios Studio 1",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "dungen": {
+          "distance": 9829,
+          "duration": 799
+        },
+        "flamingo": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "linne": {
+          "distance": 9707,
+          "duration": 650
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 7083,
+          "duration": 634
+        },
+        "liseberg-polketten": {
+          "distance": 9127,
+          "duration": 578
+        },
+        "nefertiti": {
+          "distance": 6923,
+          "duration": 637
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "pustervik-stora-scenen": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "rondo": {
+          "distance": 9559,
+          "duration": 673
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "tradgarn-stora-scen": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5798,
+          "duration": 461
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 3876,
+          "duration": 2547
+        },
+        "dungen": {
+          "distance": 3666,
+          "duration": 2376
+        },
+        "flamingo": {
+          "distance": 3931,
+          "duration": 2594
+        },
+        "linne": {
+          "distance": 4181,
+          "duration": 2785
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 2890,
+          "duration": 1934
+        },
+        "liseberg-polketten": {
+          "distance": 5024,
+          "duration": 3497
+        },
+        "nefertiti": {
+          "distance": 2479,
+          "duration": 1591
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "rondo": {
+          "distance": 4694,
+          "duration": 3245
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2843,
+          "duration": 1822
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 7343,
+          "duration": 1514
+        },
+        "dungen": {
+          "distance": 7254,
+          "duration": 1457
+        },
+        "flamingo": {
+          "distance": 7398,
+          "duration": 1530
+        },
+        "linne": {
+          "distance": 7648,
+          "duration": 1590
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 5714,
+          "duration": 1237
+        },
+        "liseberg-polketten": {
+          "distance": 6832,
+          "duration": 1495
+        },
+        "nefertiti": {
+          "distance": 5294,
+          "duration": 1070
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "pustervik-stora-scenen": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "rondo": {
+          "distance": 6483,
+          "duration": 1420
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "tradgarn-stora-scen": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 4280,
+          "duration": 855
+        }
+      }
+    }
   },
   "gothenburg-film-studios-studio-3": {
     "festival-area": false,
     "longitude": "11.933482",
     "latitude": "57.708324",
-    "name": "Gothenburg Film Studios Studio 3"
+    "name": "Gothenburg Film Studios Studio 3",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "dungen": {
+          "distance": 9829,
+          "duration": 799
+        },
+        "flamingo": {
+          "distance": 9863,
+          "duration": 673
+        },
+        "linne": {
+          "distance": 9707,
+          "duration": 650
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 7083,
+          "duration": 634
+        },
+        "liseberg-polketten": {
+          "distance": 9127,
+          "duration": 578
+        },
+        "nefertiti": {
+          "distance": 6923,
+          "duration": 637
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "pustervik-stora-scenen": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "rondo": {
+          "distance": 9559,
+          "duration": 673
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "tradgarn-stora-scen": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5798,
+          "duration": 461
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 3876,
+          "duration": 2547
+        },
+        "dungen": {
+          "distance": 3666,
+          "duration": 2376
+        },
+        "flamingo": {
+          "distance": 3931,
+          "duration": 2594
+        },
+        "linne": {
+          "distance": 4181,
+          "duration": 2785
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 2890,
+          "duration": 1934
+        },
+        "liseberg-polketten": {
+          "distance": 5024,
+          "duration": 3497
+        },
+        "nefertiti": {
+          "distance": 2479,
+          "duration": 1591
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "rondo": {
+          "distance": 4694,
+          "duration": 3245
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "tradgarn-stora-scen": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2843,
+          "duration": 1822
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 7343,
+          "duration": 1514
+        },
+        "dungen": {
+          "distance": 7254,
+          "duration": 1457
+        },
+        "flamingo": {
+          "distance": 7398,
+          "duration": 1530
+        },
+        "linne": {
+          "distance": 7648,
+          "duration": 1590
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 0,
+          "duration": 0
+        },
+        "jazzhuset": {
+          "distance": 5714,
+          "duration": 1237
+        },
+        "liseberg-polketten": {
+          "distance": 6832,
+          "duration": 1495
+        },
+        "nefertiti": {
+          "distance": 5294,
+          "duration": 1070
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "pustervik-stora-scenen": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "rondo": {
+          "distance": 6483,
+          "duration": 1420
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "tradgarn-stora-scen": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 4280,
+          "duration": 855
+        }
+      }
+    }
   },
   "jazzhuset": {
     "festival-area": false,
     "longitude": "11.967653",
     "latitude": "57.699650",
-    "name": "Jazzhuset"
+    "name": "Jazzhuset",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 3328,
+          "duration": 376
+        },
+        "dungen": {
+          "distance": 2138,
+          "duration": 301
+        },
+        "flamingo": {
+          "distance": 3328,
+          "duration": 376
+        },
+        "linne": {
+          "distance": 3172,
+          "duration": 353
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7083,
+          "duration": 634
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7083,
+          "duration": 634
+        },
+        "liseberg-polketten": {
+          "distance": 2474,
+          "duration": 314
+        },
+        "nefertiti": {
+          "distance": 925,
+          "duration": 157
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1221,
+          "duration": 181
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1221,
+          "duration": 181
+        },
+        "rondo": {
+          "distance": 2000,
+          "duration": 258
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1509,
+          "duration": 203
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1509,
+          "duration": 203
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3772,
+          "duration": 411
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3772,
+          "duration": 411
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 2246,
+          "duration": 1638
+        },
+        "dungen": {
+          "distance": 2080,
+          "duration": 1505
+        },
+        "flamingo": {
+          "distance": 2301,
+          "duration": 1685
+        },
+        "linne": {
+          "distance": 2551,
+          "duration": 1876
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 2890,
+          "duration": 1934
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 2890,
+          "duration": 1934
+        },
+        "liseberg-polketten": {
+          "distance": 2209,
+          "duration": 1641
+        },
+        "nefertiti": {
+          "distance": 604,
+          "duration": 442
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 969,
+          "duration": 696
+        },
+        "pustervik-stora-scenen": {
+          "distance": 969,
+          "duration": 696
+        },
+        "rondo": {
+          "distance": 1879,
+          "duration": 1389
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 808,
+          "duration": 579
+        },
+        "tradgarn-stora-scen": {
+          "distance": 808,
+          "duration": 579
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1630,
+          "duration": 1199
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1630,
+          "duration": 1199
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 2333,
+          "duration": 470
+        },
+        "dungen": {
+          "distance": 2167,
+          "duration": 425
+        },
+        "flamingo": {
+          "distance": 2388,
+          "duration": 486
+        },
+        "linne": {
+          "distance": 2638,
+          "duration": 546
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5714,
+          "duration": 1237
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5714,
+          "duration": 1237
+        },
+        "liseberg-polketten": {
+          "distance": 2391,
+          "duration": 566
+        },
+        "nefertiti": {
+          "distance": 1071,
+          "duration": 274
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1324,
+          "duration": 280
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1324,
+          "duration": 280
+        },
+        "rondo": {
+          "distance": 1968,
+          "duration": 471
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 833,
+          "duration": 248
+        },
+        "tradgarn-stora-scen": {
+          "distance": 833,
+          "duration": 248
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2830,
+          "duration": 580
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2830,
+          "duration": 580
+        }
+      }
+    }
   },
   "liseberg-polketten": {
     "festival-area": false,
     "longitude": "11.995368",
     "latitude": "57.694945",
-    "name": "Liseberg (Polketten)"
+    "name": "Liseberg (Polketten)",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 5657,
+          "duration": 652
+        },
+        "dungen": {
+          "distance": 4467,
+          "duration": 577
+        },
+        "flamingo": {
+          "distance": 5657,
+          "duration": 652
+        },
+        "linne": {
+          "distance": 5501,
+          "duration": 629
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9127,
+          "duration": 578
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9127,
+          "duration": 578
+        },
+        "jazzhuset": {
+          "distance": 2474,
+          "duration": 314
+        },
+        "nefertiti": {
+          "distance": 3489,
+          "duration": 423
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3785,
+          "duration": 447
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3785,
+          "duration": 447
+        },
+        "rondo": {
+          "distance": 1571,
+          "duration": 203
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2266,
+          "duration": 273
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2266,
+          "duration": 273
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5216,
+          "duration": 409
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5216,
+          "duration": 409
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 4027,
+          "duration": 3018
+        },
+        "dungen": {
+          "distance": 3861,
+          "duration": 2885
+        },
+        "flamingo": {
+          "distance": 4082,
+          "duration": 3065
+        },
+        "linne": {
+          "distance": 4332,
+          "duration": 3256
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5024,
+          "duration": 3497
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5024,
+          "duration": 3497
+        },
+        "jazzhuset": {
+          "distance": 2209,
+          "duration": 1641
+        },
+        "nefertiti": {
+          "distance": 2703,
+          "duration": 2053
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3090,
+          "duration": 2339
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3090,
+          "duration": 2339
+        },
+        "rondo": {
+          "distance": 521,
+          "duration": 389
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1945,
+          "duration": 1465
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1945,
+          "duration": 1465
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3197,
+          "duration": 2416
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3197,
+          "duration": 2416
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 4440,
+          "duration": 980
+        },
+        "dungen": {
+          "distance": 4274,
+          "duration": 935
+        },
+        "flamingo": {
+          "distance": 4495,
+          "duration": 996
+        },
+        "linne": {
+          "distance": 4745,
+          "duration": 1056
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 6832,
+          "duration": 1495
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 6832,
+          "duration": 1495
+        },
+        "jazzhuset": {
+          "distance": 2391,
+          "duration": 566
+        },
+        "nefertiti": {
+          "distance": 2872,
+          "duration": 851
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3248,
+          "duration": 923
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3248,
+          "duration": 923
+        },
+        "rondo": {
+          "distance": 502,
+          "duration": 239
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2662,
+          "duration": 806
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2662,
+          "duration": 806
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3631,
+          "duration": 1067
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3631,
+          "duration": 1067
+        }
+      }
+    }
   },
   "nefertiti": {
     "festival-area": false,
     "longitude": "11.961412",
     "latitude": "57.701607",
-    "name": "Nefertiti"
+    "name": "Nefertiti",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 3131,
+          "duration": 370
+        },
+        "dungen": {
+          "distance": 1941,
+          "duration": 295
+        },
+        "flamingo": {
+          "distance": 3131,
+          "duration": 370
+        },
+        "linne": {
+          "distance": 2975,
+          "duration": 347
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 6923,
+          "duration": 637
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 6923,
+          "duration": 637
+        },
+        "jazzhuset": {
+          "distance": 925,
+          "duration": 157
+        },
+        "liseberg-polketten": {
+          "distance": 3489,
+          "duration": 423
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 690,
+          "duration": 112
+        },
+        "pustervik-stora-scenen": {
+          "distance": 690,
+          "duration": 112
+        },
+        "rondo": {
+          "distance": 2564,
+          "duration": 353
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1698,
+          "duration": 230
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1698,
+          "duration": 230
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2375,
+          "duration": 370
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2375,
+          "duration": 370
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 2151,
+          "duration": 1578
+        },
+        "dungen": {
+          "distance": 1985,
+          "duration": 1445
+        },
+        "flamingo": {
+          "distance": 2206,
+          "duration": 1625
+        },
+        "linne": {
+          "distance": 2456,
+          "duration": 1816
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 2479,
+          "duration": 1591
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 2479,
+          "duration": 1591
+        },
+        "jazzhuset": {
+          "distance": 604,
+          "duration": 442
+        },
+        "liseberg-polketten": {
+          "distance": 2703,
+          "duration": 2053
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 650,
+          "duration": 464
+        },
+        "pustervik-stora-scenen": {
+          "distance": 650,
+          "duration": 464
+        },
+        "rondo": {
+          "distance": 2374,
+          "duration": 1760
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1132,
+          "duration": 801
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1132,
+          "duration": 801
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1270,
+          "duration": 927
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1270,
+          "duration": 927
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 2163,
+          "duration": 488
+        },
+        "dungen": {
+          "distance": 1997,
+          "duration": 443
+        },
+        "flamingo": {
+          "distance": 2218,
+          "duration": 504
+        },
+        "linne": {
+          "distance": 2468,
+          "duration": 564
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5294,
+          "duration": 1070
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5294,
+          "duration": 1070
+        },
+        "jazzhuset": {
+          "distance": 1071,
+          "duration": 274
+        },
+        "liseberg-polketten": {
+          "distance": 2872,
+          "duration": 851
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 992,
+          "duration": 177
+        },
+        "pustervik-stora-scenen": {
+          "distance": 992,
+          "duration": 177
+        },
+        "rondo": {
+          "distance": 2431,
+          "duration": 514
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1148,
+          "duration": 193
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1148,
+          "duration": 193
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1497,
+          "duration": 302
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1497,
+          "duration": 302
+        }
+      }
+    }
   },
   "pustervik-lilla-scenen": {
     "festival-area": false,
     "longitude": "11.954207",
     "latitude": "57.700715",
-    "name": "Pustervik Lilla Scenen"
+    "name": "Pustervik Lilla Scenen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "dungen": {
+          "distance": 2205,
+          "duration": 321
+        },
+        "flamingo": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "linne": {
+          "distance": 3239,
+          "duration": 373
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "jazzhuset": {
+          "distance": 1221,
+          "duration": 181
+        },
+        "liseberg-polketten": {
+          "distance": 3785,
+          "duration": 447
+        },
+        "nefertiti": {
+          "distance": 690,
+          "duration": 112
+        },
+        "pustervik-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 3319,
+          "duration": 452
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2434,
+          "duration": 340
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 1872,
+          "duration": 1341
+        },
+        "dungen": {
+          "distance": 1706,
+          "duration": 1208
+        },
+        "flamingo": {
+          "distance": 1927,
+          "duration": 1388
+        },
+        "linne": {
+          "distance": 2177,
+          "duration": 1579
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "jazzhuset": {
+          "distance": 969,
+          "duration": 696
+        },
+        "liseberg-polketten": {
+          "distance": 3090,
+          "duration": 2339
+        },
+        "nefertiti": {
+          "distance": 650,
+          "duration": 464
+        },
+        "pustervik-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 2761,
+          "duration": 2079
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1330,
+          "duration": 982
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 1872,
+          "duration": 381
+        },
+        "dungen": {
+          "distance": 1783,
+          "duration": 324
+        },
+        "flamingo": {
+          "distance": 1927,
+          "duration": 397
+        },
+        "linne": {
+          "distance": 2177,
+          "duration": 457
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "jazzhuset": {
+          "distance": 1324,
+          "duration": 280
+        },
+        "liseberg-polketten": {
+          "distance": 3248,
+          "duration": 923
+        },
+        "nefertiti": {
+          "distance": 992,
+          "duration": 177
+        },
+        "pustervik-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 2830,
+          "duration": 645
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1577,
+          "duration": 312
+        }
+      }
+    }
   },
   "pustervik-stora-scenen": {
     "festival-area": false,
     "longitude": "11.954207",
     "latitude": "57.700715",
-    "name": "Pustervik Stora Scenen"
+    "name": "Pustervik Stora Scenen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "dungen": {
+          "distance": 2205,
+          "duration": 321
+        },
+        "flamingo": {
+          "distance": 3395,
+          "duration": 396
+        },
+        "linne": {
+          "distance": 3239,
+          "duration": 373
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 7691,
+          "duration": 640
+        },
+        "jazzhuset": {
+          "distance": 1221,
+          "duration": 181
+        },
+        "liseberg-polketten": {
+          "distance": 3785,
+          "duration": 447
+        },
+        "nefertiti": {
+          "distance": 690,
+          "duration": 112
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 3319,
+          "duration": 452
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2434,
+          "duration": 340
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 1872,
+          "duration": 1341
+        },
+        "dungen": {
+          "distance": 1706,
+          "duration": 1208
+        },
+        "flamingo": {
+          "distance": 1927,
+          "duration": 1388
+        },
+        "linne": {
+          "distance": 2177,
+          "duration": 1579
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 1985,
+          "duration": 1204
+        },
+        "jazzhuset": {
+          "distance": 969,
+          "duration": 696
+        },
+        "liseberg-polketten": {
+          "distance": 3090,
+          "duration": 2339
+        },
+        "nefertiti": {
+          "distance": 650,
+          "duration": 464
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 2761,
+          "duration": 2079
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1330,
+          "duration": 982
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 1872,
+          "duration": 381
+        },
+        "dungen": {
+          "distance": 1783,
+          "duration": 324
+        },
+        "flamingo": {
+          "distance": 1927,
+          "duration": 397
+        },
+        "linne": {
+          "distance": 2177,
+          "duration": 457
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5584,
+          "duration": 1167
+        },
+        "jazzhuset": {
+          "distance": 1324,
+          "duration": 280
+        },
+        "liseberg-polketten": {
+          "distance": 3248,
+          "duration": 923
+        },
+        "nefertiti": {
+          "distance": 992,
+          "duration": 177
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "rondo": {
+          "distance": 2830,
+          "duration": 645
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1577,
+          "duration": 312
+        }
+      }
+    }
   },
   "rondo": {
     "festival-area": false,
     "longitude": "11.992554",
     "latitude": "57.697025",
-    "name": "Rondo"
+    "name": "Rondo",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 5183,
+          "duration": 596
+        },
+        "dungen": {
+          "distance": 3993,
+          "duration": 521
+        },
+        "flamingo": {
+          "distance": 5183,
+          "duration": 596
+        },
+        "linne": {
+          "distance": 5027,
+          "duration": 573
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 9559,
+          "duration": 673
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 9559,
+          "duration": 673
+        },
+        "jazzhuset": {
+          "distance": 2000,
+          "duration": 258
+        },
+        "liseberg-polketten": {
+          "distance": 1571,
+          "duration": 203
+        },
+        "nefertiti": {
+          "distance": 2564,
+          "duration": 353
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 3319,
+          "duration": 452
+        },
+        "pustervik-stora-scenen": {
+          "distance": 3319,
+          "duration": 452
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2110,
+          "duration": 238
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2110,
+          "duration": 238
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 5060,
+          "duration": 374
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 5060,
+          "duration": 374
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 3697,
+          "duration": 2766
+        },
+        "dungen": {
+          "distance": 3531,
+          "duration": 2633
+        },
+        "flamingo": {
+          "distance": 3752,
+          "duration": 2813
+        },
+        "linne": {
+          "distance": 4002,
+          "duration": 3004
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4694,
+          "duration": 3245
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4694,
+          "duration": 3245
+        },
+        "jazzhuset": {
+          "distance": 1879,
+          "duration": 1389
+        },
+        "liseberg-polketten": {
+          "distance": 521,
+          "duration": 389
+        },
+        "nefertiti": {
+          "distance": 2374,
+          "duration": 1760
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2761,
+          "duration": 2079
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2761,
+          "duration": 2079
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1616,
+          "duration": 1223
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1616,
+          "duration": 1223
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2868,
+          "duration": 2174
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2868,
+          "duration": 2174
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 4017,
+          "duration": 885
+        },
+        "dungen": {
+          "distance": 3851,
+          "duration": 840
+        },
+        "flamingo": {
+          "distance": 4072,
+          "duration": 901
+        },
+        "linne": {
+          "distance": 4322,
+          "duration": 961
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 6483,
+          "duration": 1420
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 6483,
+          "duration": 1420
+        },
+        "jazzhuset": {
+          "distance": 1968,
+          "duration": 471
+        },
+        "liseberg-polketten": {
+          "distance": 502,
+          "duration": 239
+        },
+        "nefertiti": {
+          "distance": 2431,
+          "duration": 514
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2830,
+          "duration": 645
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2830,
+          "duration": 645
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2337,
+          "duration": 641
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2337,
+          "duration": 641
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 3306,
+          "duration": 902
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 3306,
+          "duration": 902
+        }
+      }
+    }
   },
   "tradgarn-lilla-scen": {
     "festival-area": false,
     "longitude": "11.975859",
     "latitude": "57.704364",
-    "name": "Trädgår'n Lilla Scen"
+    "name": "Trädgår'n Lilla Scen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "dungen": {
+          "distance": 3126,
+          "duration": 398
+        },
+        "flamingo": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "linne": {
+          "distance": 4160,
+          "duration": 450
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "jazzhuset": {
+          "distance": 1509,
+          "duration": 203
+        },
+        "liseberg-polketten": {
+          "distance": 2266,
+          "duration": 273
+        },
+        "nefertiti": {
+          "distance": 1698,
+          "duration": 230
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "rondo": {
+          "distance": 2110,
+          "duration": 238
+        },
+        "tradgarn-stora-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2745,
+          "duration": 385
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 2985,
+          "duration": 2164
+        },
+        "dungen": {
+          "distance": 2819,
+          "duration": 2031
+        },
+        "flamingo": {
+          "distance": 3040,
+          "duration": 2211
+        },
+        "linne": {
+          "distance": 3290,
+          "duration": 2402
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "jazzhuset": {
+          "distance": 808,
+          "duration": 579
+        },
+        "liseberg-polketten": {
+          "distance": 1945,
+          "duration": 1465
+        },
+        "nefertiti": {
+          "distance": 1132,
+          "duration": 801
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "rondo": {
+          "distance": 1616,
+          "duration": 1223
+        },
+        "tradgarn-stora-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1567,
+          "duration": 1167
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 2997,
+          "duration": 593
+        },
+        "dungen": {
+          "distance": 2831,
+          "duration": 548
+        },
+        "flamingo": {
+          "distance": 3052,
+          "duration": 609
+        },
+        "linne": {
+          "distance": 3302,
+          "duration": 669
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "jazzhuset": {
+          "distance": 833,
+          "duration": 248
+        },
+        "liseberg-polketten": {
+          "distance": 2662,
+          "duration": 806
+        },
+        "nefertiti": {
+          "distance": 1148,
+          "duration": 193
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "rondo": {
+          "distance": 2337,
+          "duration": 641
+        },
+        "tradgarn-stora-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2105,
+          "duration": 419
+        }
+      }
+    }
   },
   "tradgarn-stora-scen": {
     "festival-area": false,
     "longitude": "11.975859",
     "latitude": "57.704364",
-    "name": "Trädgår'n Stora Scen"
+    "name": "Trädgår'n Stora Scen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "dungen": {
+          "distance": 3126,
+          "duration": 398
+        },
+        "flamingo": {
+          "distance": 4316,
+          "duration": 473
+        },
+        "linne": {
+          "distance": 4160,
+          "duration": 450
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 6237,
+          "duration": 520
+        },
+        "jazzhuset": {
+          "distance": 1509,
+          "duration": 203
+        },
+        "liseberg-polketten": {
+          "distance": 2266,
+          "duration": 273
+        },
+        "nefertiti": {
+          "distance": 1698,
+          "duration": 230
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2452,
+          "duration": 329
+        },
+        "rondo": {
+          "distance": 2110,
+          "duration": 238
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2745,
+          "duration": 385
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 2985,
+          "duration": 2164
+        },
+        "dungen": {
+          "distance": 2819,
+          "duration": 2031
+        },
+        "flamingo": {
+          "distance": 3040,
+          "duration": 2211
+        },
+        "linne": {
+          "distance": 3290,
+          "duration": 2402
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 3452,
+          "duration": 2286
+        },
+        "jazzhuset": {
+          "distance": 808,
+          "duration": 579
+        },
+        "liseberg-polketten": {
+          "distance": 1945,
+          "duration": 1465
+        },
+        "nefertiti": {
+          "distance": 1132,
+          "duration": 801
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1519,
+          "duration": 1120
+        },
+        "rondo": {
+          "distance": 1616,
+          "duration": 1223
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 1567,
+          "duration": 1167
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 2997,
+          "duration": 593
+        },
+        "dungen": {
+          "distance": 2831,
+          "duration": 548
+        },
+        "flamingo": {
+          "distance": 3052,
+          "duration": 609
+        },
+        "linne": {
+          "distance": 3302,
+          "duration": 669
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4868,
+          "duration": 982
+        },
+        "jazzhuset": {
+          "distance": 833,
+          "duration": 248
+        },
+        "liseberg-polketten": {
+          "distance": 2662,
+          "duration": 806
+        },
+        "nefertiti": {
+          "distance": 1148,
+          "duration": 193
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1547,
+          "duration": 324
+        },
+        "rondo": {
+          "distance": 2337,
+          "duration": 641
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 0,
+          "duration": 0
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 2105,
+          "duration": 419
+        }
+      }
+    }
   },
   "goteborgsoperan-lilla-scenen": {
     "festival-area": false,
     "longitude": "11.963249",
     "latitude": "57.710825",
-    "name": "Göteborgsoperan Lilla Scenen"
+    "name": "Göteborgsoperan Lilla Scenen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "dungen": {
+          "distance": 3905,
+          "duration": 464
+        },
+        "flamingo": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "linne": {
+          "distance": 5243,
+          "duration": 571
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "jazzhuset": {
+          "distance": 3772,
+          "duration": 411
+        },
+        "liseberg-polketten": {
+          "distance": 5216,
+          "duration": 409
+        },
+        "nefertiti": {
+          "distance": 2375,
+          "duration": 370
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "rondo": {
+          "distance": 5060,
+          "duration": 374
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 3202,
+          "duration": 2323
+        },
+        "dungen": {
+          "distance": 3036,
+          "duration": 2190
+        },
+        "flamingo": {
+          "distance": 3257,
+          "duration": 2370
+        },
+        "linne": {
+          "distance": 3507,
+          "duration": 2561
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "jazzhuset": {
+          "distance": 1630,
+          "duration": 1199
+        },
+        "liseberg-polketten": {
+          "distance": 3197,
+          "duration": 2416
+        },
+        "nefertiti": {
+          "distance": 1270,
+          "duration": 927
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "rondo": {
+          "distance": 2868,
+          "duration": 2174
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 3378,
+          "duration": 681
+        },
+        "dungen": {
+          "distance": 3289,
+          "duration": 624
+        },
+        "flamingo": {
+          "distance": 3433,
+          "duration": 697
+        },
+        "linne": {
+          "distance": 3683,
+          "duration": 757
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "jazzhuset": {
+          "distance": 2830,
+          "duration": 580
+        },
+        "liseberg-polketten": {
+          "distance": 3631,
+          "duration": 1067
+        },
+        "nefertiti": {
+          "distance": 1497,
+          "duration": 302
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "rondo": {
+          "distance": 3306,
+          "duration": 902
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "goteborgsoperan-stora-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      }
+    }
   },
   "goteborgsoperan-stora-scenen": {
     "festival-area": false,
     "longitude": "11.963249",
     "latitude": "57.710825",
-    "name": "Göteborgsoperan Stora Scenen"
+    "name": "Göteborgsoperan Stora Scenen",
+    "distances": {
+      "driving": {
+        "azalea": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "dungen": {
+          "distance": 3905,
+          "duration": 464
+        },
+        "flamingo": {
+          "distance": 5399,
+          "duration": 594
+        },
+        "linne": {
+          "distance": 5243,
+          "duration": 571
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 5798,
+          "duration": 461
+        },
+        "jazzhuset": {
+          "distance": 3772,
+          "duration": 411
+        },
+        "liseberg-polketten": {
+          "distance": 5216,
+          "duration": 409
+        },
+        "nefertiti": {
+          "distance": 2375,
+          "duration": 370
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "pustervik-stora-scenen": {
+          "distance": 2434,
+          "duration": 340
+        },
+        "rondo": {
+          "distance": 5060,
+          "duration": 374
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2745,
+          "duration": 385
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      },
+      "walking": {
+        "azalea": {
+          "distance": 3202,
+          "duration": 2323
+        },
+        "dungen": {
+          "distance": 3036,
+          "duration": 2190
+        },
+        "flamingo": {
+          "distance": 3257,
+          "duration": 2370
+        },
+        "linne": {
+          "distance": 3507,
+          "duration": 2561
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 2843,
+          "duration": 1822
+        },
+        "jazzhuset": {
+          "distance": 1630,
+          "duration": 1199
+        },
+        "liseberg-polketten": {
+          "distance": 3197,
+          "duration": 2416
+        },
+        "nefertiti": {
+          "distance": 1270,
+          "duration": 927
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1330,
+          "duration": 982
+        },
+        "rondo": {
+          "distance": 2868,
+          "duration": 2174
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "tradgarn-stora-scen": {
+          "distance": 1567,
+          "duration": 1167
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      },
+      "bicycling": {
+        "azalea": {
+          "distance": 3378,
+          "duration": 681
+        },
+        "dungen": {
+          "distance": 3289,
+          "duration": 624
+        },
+        "flamingo": {
+          "distance": 3433,
+          "duration": 697
+        },
+        "linne": {
+          "distance": 3683,
+          "duration": 757
+        },
+        "gothenburg-film-studios-studio-1": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "gothenburg-film-studios-studio-3": {
+          "distance": 4280,
+          "duration": 855
+        },
+        "jazzhuset": {
+          "distance": 2830,
+          "duration": 580
+        },
+        "liseberg-polketten": {
+          "distance": 3631,
+          "duration": 1067
+        },
+        "nefertiti": {
+          "distance": 1497,
+          "duration": 302
+        },
+        "pustervik-lilla-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "pustervik-stora-scenen": {
+          "distance": 1577,
+          "duration": 312
+        },
+        "rondo": {
+          "distance": 3306,
+          "duration": 902
+        },
+        "tradgarn-lilla-scen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "tradgarn-stora-scen": {
+          "distance": 2105,
+          "duration": 419
+        },
+        "goteborgsoperan-lilla-scenen": {
+          "distance": 0,
+          "duration": 0
+        }
+      }
+    }
   }
 }
