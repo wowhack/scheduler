@@ -6,10 +6,6 @@ var fs = require("fs");
 var concerts = JSON.parse(String(fs.readFileSync("data/concerts.json")));
 var venues = {};
 
-concerts.forEach(function(concert) {
-  venues[concert['venue']] = [];
-});
-
 function giveweights() {
   var weights = new Object();
   for(var i in concerts){
@@ -42,6 +38,9 @@ function bestWeightAtTimeAndPlace(time, where) {
 }
 
 function findOptimalSchedule(weights) {
+  concerts.forEach(function(concert) {
+    venues[concert['venue']] = [];
+  });
   concerts.sort(function(a, b) {
     return a['start-time'] - b['start-time'];
   });
