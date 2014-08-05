@@ -34,7 +34,7 @@ function findOptimalSchedule(distance, concerts, weights) {
     var p = {
       'begin': concerts[now]['start-time'],
       'end': concerts[now]['end-time'],
-      'w': y[0] + weights[concerts[now]['artist-id']],
+      'w': y[0] + (weights[concerts[now]['artist-id']] || 1),
       'now': now
     }
     venues[where].push(p);
