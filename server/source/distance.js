@@ -13,7 +13,7 @@ function distance(venues, mode, distanceMultiplier, a, b) {
   var distancesFromA = venues[a].distances[mode];
   if (!distancesFromA || !(b in distancesFromA)) return failDistance(a, b) * distanceMultiplier;
 
-  return distancesFromA[b].duration * distanceMultiplier;
+  return distancesFromA[b].duration / 60 * distanceMultiplier;
 }
 
 function makeDistanceFunction(venues, mode, distanceMultiplier) {
