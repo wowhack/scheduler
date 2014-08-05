@@ -1,5 +1,5 @@
 var fs = require("fs");
-var times = require("./times");
+var times = require("../server/source/times");
 
 function distance(a, b) {
   // return time in minutes to travel between a and b
