@@ -15,7 +15,11 @@ function get_artists(req, res, next) {
     console.log(token16 + ': got ' + body.items.length + ' tracks');
     body.items.forEach(function(item) {
       (item.track.artists || []).forEach(function(artist) {
-        artists[artist.uri] = { name: artist.name };
+        if (artists[artist.uri]) {
+          artists[artist.uri].count++;
+        } else {
+          artists[artist.uri] = { name: artist.name, count: 1 };
+        }
       });
     });
 
@@ -26,6 +30,7 @@ function get_artists(req, res, next) {
 
     var count = Object.keys(artists).length;
     console.log(token16 + ': got ' + count + ' artists; done');
+    console.log(artists);
     res.send(artists);
   };
 
