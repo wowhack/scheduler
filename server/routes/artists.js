@@ -1,0 +1,41 @@
+var express = require('express');
+var request = require('request');
+
+function get_artists(req, res, next) {
+  var artists = {};
+  var headers = { 'Authorization': 'Bearer ' + req.query.token };
+  var token16 = req.query.token.substr(0, 16);
+
+  function fetch(error, response, body) {
+    if (error) {
+      next(error)
+      return;
+    }
+
+    console.log(token16 + ': got ' + body.items.length + ' tracks');
+    body.items.forEach(function(item) {
+      (item.track.artists || []).forEach(function(artist) {
+        artists[artist.uri] = { name: artist.name };
+      });
+    });
+
+    if (body.next) {
+      request.get({ url: body.next, headers: headers, json: true }, fetch);
+      return;
+    }
+
+    var count = Object.keys(artists).length;
+    console.log(token16 + ': got ' + count + ' artists; done');
+    res.send(artists);
+  };
+
+  console.log(token16 + ': fetching tracks');
+  var url = 'https://api.spotify.com/v1/me/tracks?limit=50';
+  request.get({ url: url, headers: headers, json: true }, fetch);
+};
+
+module.exports = function() {
+  var router = express.Router();
+  router.get('/artists', get_artists);
+  return router;
+};
