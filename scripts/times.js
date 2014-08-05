@@ -4,7 +4,6 @@
 var fs = require("fs");
 
 var concerts = JSON.parse(String(fs.readFileSync("data/concerts.json")));
-var concertTimes = JSON.parse(String(fs.readFileSync("data/concert_times.json")));
 var venues = {};
 
 concerts.forEach(function(concert) {
