@@ -6,7 +6,7 @@
     "event-time": "15:30",
     "artist-id": "the-horrors",
     "artist-name": "The Horrors",
-    "spotify-uri": "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
+    "spotify-uri": ["spotify:artist:7EFB09NxZrMi9pGlOnuBpd"]
   },
   {
     "venue": "azalea",
@@ -15,7 +15,7 @@
     "event-time": "17:30",
     "artist-id": "tinariwen",
     "artist-name": "Tinariwen",
-    "spotify-uri": "spotify:artist:2sf2owtFSCvz2MLfxmNdkb"
+    "spotify-uri": ["spotify:artist:2sf2owtFSCvz2MLfxmNdkb"]
   },
   {
     "venue": "azalea",
@@ -24,7 +24,7 @@
     "event-time": "20:00",
     "artist-id": "the-national",
     "artist-name": "The National",
-    "spotify-uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    "spotify-uri": ["spotify:artist:2cCUtGK9sDU2EoElnk0GNB"]
   },
   {
     "venue": "dungen",
@@ -69,7 +69,7 @@
     "event-time": "17:30",
     "artist-id": "silvana-imam",
     "artist-name": "Silvana Imam",
-    "spotify-uri": "spotify:artist:14vNE9iqS5eGAL6OogiN8g"
+    "spotify-uri": ["spotify:artist:14vNE9iqS5eGAL6OogiN8g"]
   },
   {
     "venue": "dungen",
@@ -87,7 +87,7 @@
     "event-time": "18:30",
     "artist-id": "mando-diao",
     "artist-name": "Mando Diao (Dj-set)",
-    "spotify-uri": "spotify:artist:5I4eibDkC7gg0hmczTZuND"
+    "spotify-uri": ["spotify:artist:5I4eibDkC7gg0hmczTZuND"]
   },
   {
     "venue": "dungen",
@@ -105,7 +105,7 @@
     "event-time": "16:30",
     "artist-id": "markus-krunegard",
     "artist-name": "Markus Krunegård",
-    "spotify-uri": "spotify:artist:3P6ePaE5unCm7vjccfcBAe"
+    "spotify-uri": ["spotify:artist:3P6ePaE5unCm7vjccfcBAe"]
   },
   {
     "venue": "flamingo",
@@ -114,7 +114,7 @@
     "event-time": "18:45",
     "artist-id": "motorhead",
     "artist-name": "Motörhead",
-    "spotify-uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+    "spotify-uri": ["spotify:artist:1DFr97A9HnbV3SKTJFu62M"]
   },
   {
     "venue": "flamingo",
@@ -123,7 +123,7 @@
     "event-time": "21:20",
     "artist-id": "queens-of-the-stone-age",
     "artist-name": "Queens of the Stone Age",
-    "spotify-uri": "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+    "spotify-uri": ["spotify:artist:4pejUc4iciQfgdX6OKulQn"]
   },
   {
     "venue": "linne",
@@ -132,7 +132,7 @@
     "event-time": "14:45",
     "artist-id": "polica",
     "artist-name": "Poliça",
-    "spotify-uri": "spotify:artist:34vLhockmYhf3LgznwyNaQ"
+    "spotify-uri": ["spotify:artist:34vLhockmYhf3LgznwyNaQ"]
   },
   {
     "venue": "linne",
@@ -141,7 +141,7 @@
     "event-time": "16:15",
     "artist-id": "brody-dalle",
     "artist-name": "Brody Dalle",
-    "spotify-uri": "spotify:artist:2mGlvfts36oW5O7KKPzfLk"
+    "spotify-uri": ["spotify:artist:2mGlvfts36oW5O7KKPzfLk"]
   },
   {
     "venue": "linne",
@@ -159,7 +159,7 @@
     "event-time": "19:00",
     "artist-id": "rebecca-och-fiona",
     "artist-name": "Rebecca & Fiona",
-    "spotify-uri": "spotify:artist:6rgEPiKjowlMKZC1DF6W75"
+    "spotify-uri": ["spotify:artist:6rgEPiKjowlMKZC1DF6W75"]
   },
   {
     "venue": "linne",
@@ -168,7 +168,7 @@
     "event-time": "20:30",
     "artist-id": "darkside",
     "artist-name": "DARKSIDE",
-    "spotify-uri": "spotify:artist:2933wDUojoQmvqSdTAE5NB"
+    "spotify-uri": ["spotify:artist:2933wDUojoQmvqSdTAE5NB"]
   },
   {
     "venue": "linne",
@@ -177,7 +177,7 @@
     "event-time": "22:00",
     "artist-id": "joey-bada$$",
     "artist-name": "Joey Bada$$",
-    "spotify-uri": "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
+    "spotify-uri": ["spotify:artist:2P5sC9cVZDToPxyomzF1UH"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -186,7 +186,7 @@
     "event-time": "23:30",
     "artist-id": "zebra-katz",
     "artist-name": "Zebra Katz",
-    "spotify-uri": "spotify:artist:5Tz4zMiRWqiQVAymWZz99a"
+    "spotify-uri": ["spotify:artist:5Tz4zMiRWqiQVAymWZz99a"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -204,7 +204,7 @@
     "event-time": "02:00",
     "artist-id": "teddybears",
     "artist-name": "Teddybears",
-    "spotify-uri": "spotify:artist:3gqv1kgivAc92KnUm4elKv"
+    "spotify-uri": ["spotify:artist:3gqv1kgivAc92KnUm4elKv"]
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -240,7 +240,7 @@
     "event-time": "23:00",
     "artist-id": "bo-ningen",
     "artist-name": "Bo Ningen",
-    "spotify-uri": "spotify:artist:7bvXpj7XZfmaZ2HOcqgY1a"
+    "spotify-uri": ["spotify:artist:7bvXpj7XZfmaZ2HOcqgY1a"]
   },
   {
     "venue": "jazzhuset",
@@ -249,7 +249,7 @@
     "event-time": "00:15",
     "artist-id": "doa",
     "artist-name": "D.O.A",
-    "spotify-uri": "spotify:artist:3g92p1YpivbOqVLiYVd4Yk"
+    "spotify-uri": ["spotify:artist:3g92p1YpivbOqVLiYVd4Yk"]
   },
   {
     "venue": "jazzhuset",
@@ -258,7 +258,7 @@
     "event-time": "01:30",
     "artist-id": "agent-orange",
     "artist-name": "Agent Orange",
-    "spotify-uri": "spotify:artist:1pBsvSnrhmgDZqisT13SFA"
+    "spotify-uri": ["spotify:artist:1pBsvSnrhmgDZqisT13SFA"]
   },
   {
     "venue": "liseberg-polketten",
@@ -267,7 +267,7 @@
     "event-time": "23:00",
     "artist-id": "speedy-ortiz",
     "artist-name": "Speedy Ortiz",
-    "spotify-uri": "spotify:artist:6YHfq8Pg3lZPo1u0PaQ8ob"
+    "spotify-uri": ["spotify:artist:6YHfq8Pg3lZPo1u0PaQ8ob"]
   },
   {
     "venue": "liseberg-polketten",
@@ -276,7 +276,7 @@
     "event-time": "00:15",
     "artist-id": "hozier",
     "artist-name": "Hozier",
-    "spotify-uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+    "spotify-uri": ["spotify:artist:2FXC3k01G6Gw61bmprjgqS"]
   },
   {
     "venue": "liseberg-polketten",
@@ -285,7 +285,7 @@
     "event-time": "01:30",
     "artist-id": "nicole-saboune",
     "artist-name": "Nicole Sabouné",
-    "spotify-uri": "spotify:artist:2lPG3ptKlBdxvQ8XlH8nEk"
+    "spotify-uri": ["spotify:artist:2lPG3ptKlBdxvQ8XlH8nEk"]
   },
   {
     "venue": "nefertiti",
@@ -294,7 +294,7 @@
     "event-time": "23:00",
     "artist-id": "mendoza",
     "artist-name": "Mendoza",
-    "spotify-uri": "spotify:artist:27rZm9ZBp2ygQFfa8IgkxK"
+    "spotify-uri": ["spotify:artist:27rZm9ZBp2ygQFfa8IgkxK"]
   },
   {
     "venue": "nefertiti",
@@ -303,7 +303,7 @@
     "event-time": "01:30",
     "artist-id": "lilla-namo",
     "artist-name": "Lilla Namo",
-    "spotify-uri": "spotify:artist:2DsNd8GBB1y1J0XMq0nT6s"
+    "spotify-uri": ["spotify:artist:2DsNd8GBB1y1J0XMq0nT6s"]
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -312,7 +312,7 @@
     "event-time": "23:45",
     "artist-id": "the-garden",
     "artist-name": "The Garden",
-    "spotify-uri": "spotify:artist:4UVlSeEFDPmlkYKaRMRoOz"
+    "spotify-uri": ["spotify:artist:4UVlSeEFDPmlkYKaRMRoOz"]
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -321,7 +321,7 @@
     "event-time": "01:15",
     "artist-id": "marissa-nadler",
     "artist-name": "Marissa Nadler",
-    "spotify-uri": "spotify:track:684Zy1Gues4OFxDFNG2mlA"
+    "spotify-uri": ["spotify:track:684Zy1Gues4OFxDFNG2mlA"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -330,7 +330,7 @@
     "event-time": "23:00",
     "artist-id": "highasakite",
     "artist-name": "Highasakite",
-    "spotify-uri": "spotify:artist:5awQWdBpLqN2KFVRN8w56T"
+    "spotify-uri": ["spotify:artist:5awQWdBpLqN2KFVRN8w56T"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -339,7 +339,7 @@
     "event-time": "00:30",
     "artist-id": "jonathan-wilson",
     "artist-name": "Jonathan Wilson",
-    "spotify-uri": "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
+    "spotify-uri": ["spotify:artist:6KJIIOCWsWtNc7ICINtPEw"]
   },
   {
     "venue": "rondo",
@@ -348,7 +348,7 @@
     "event-time": "22:15",
     "artist-id": "amen-dunes",
     "artist-name": "Amen Dunes",
-    "spotify-uri": "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
+    "spotify-uri": ["spotify:artist:1jwOuEBcOKq0BeudSarbEM"]
   },
   {
     "venue": "rondo",
@@ -357,7 +357,7 @@
     "event-time": "23:15",
     "artist-id": "les-big-byrd",
     "artist-name": "Les Big Byrd",
-    "spotify-uri": "spotify:artist:3g2slv6elrXxGnXqy7Q2ap"
+    "spotify-uri": ["spotify:artist:3g2slv6elrXxGnXqy7Q2ap"]
   },
   {
     "venue": "rondo",
@@ -375,7 +375,7 @@
     "event-time": "01:30",
     "artist-id": "hurula",
     "artist-name": "Hurula",
-    "spotify-uri": "spotify:artist:5haVwjDd8z1dsR0uQewwoP"
+    "spotify-uri": ["spotify:artist:5haVwjDd8z1dsR0uQewwoP"]
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -384,7 +384,7 @@
     "event-time": "23:00",
     "artist-id": "colleagues",
     "artist-name": "Colleagues",
-    "spotify-uri": "spotify:artist:6tANwKMqvV8oW0b7Np1ETB"
+    "spotify-uri": ["spotify:artist:6tANwKMqvV8oW0b7Np1ETB"]
   },
   {
     "artist-id": "21",
@@ -392,7 +392,7 @@
     "event-time": "00:30",
     "artist-id": "forest-swords",
     "artist-name": "Forest Swords",
-    "spotify-uri": "spotify:artist:2VarlUiM6Lw0SA7BvwVPRP"
+    "spotify-uri": ["spotify:artist:2VarlUiM6Lw0SA7BvwVPRP"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -401,7 +401,7 @@
     "event-time": "23:45",
     "artist-id": "ison-fille",
     "artist-name": "Ison & Fille",
-    "spotify-uri": "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
+    "spotify-uri": ["spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -410,7 +410,7 @@
     "event-time": "01:15",
     "artist-id": "oskar-linnros",
     "artist-name": "Oskar Linnros",
-    "spotify-uri": "spotify:artist:3E8Mx37sikkaFoX5DRecLi"
+    "spotify-uri": ["spotify:artist:3E8Mx37sikkaFoX5DRecLi"]
   },
   {
     "venue": "azalea",
@@ -419,7 +419,7 @@
     "event-time": "14:00",
     "artist-id": "clean-bandit",
     "artist-name": "Clean Bandit",
-    "spotify-uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
+    "spotify-uri": ["spotify:artist:6MDME20pz9RveH9rEXvrOM"]
   },
   {
     "venue": "azalea",
@@ -428,7 +428,7 @@
     "event-time": "16:15",
     "artist-id": "bill-callahan",
     "artist-name": "Bill Callahan",
-    "spotify-uri": "spotify:artist:682LyslPNQ1DIHmJIN9H1P"
+    "spotify-uri": ["spotify:artist:682LyslPNQ1DIHmJIN9H1P"]
   },
   {
     "venue": "azalea",
@@ -437,7 +437,7 @@
     "event-time": "18:40",
     "artist-id": "les-ambassadeurs",
     "artist-name": "Les Ambassadeurs",
-    "spotify-uri": "spotify:artist:3Mt7Zv63zztQhheSXTRa1x"
+    "spotify-uri": ["spotify:artist:3Mt7Zv63zztQhheSXTRa1x"]
   },
   {
     "venue": "azalea",
@@ -446,7 +446,7 @@
     "event-time": "21:00",
     "artist-id": "icona-pop",
     "artist-name": "Icona Pop",
-    "spotify-uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw"
+    "spotify-uri": ["spotify:artist:1VBflYyxBhnDc9uVib98rw"]
   },
   {
     "venue": "dungen",
@@ -473,7 +473,7 @@
     "event-time": "14:00",
     "artist-id": "pional",
     "artist-name": "Pional",
-    "spotify-uri": "spotify:artist:49mZfy9v5oNXAxp8FadWwI"
+    "spotify-uri": ["spotify:artist:49mZfy9v5oNXAxp8FadWwI"]
   },
   {
     "venue": "dungen",
@@ -482,7 +482,7 @@
     "event-time": "15:00",
     "artist-id": "jamie-xx",
     "artist-name": "Jamie xx",
-    "spotify-uri": "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+    "spotify-uri": ["spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"]
   },
   {
     "venue": "dungen",
@@ -491,7 +491,7 @@
     "event-time": "16:00",
     "artist-id": "boska",
     "artist-name": "Boska",
-    "spotify-uri": "spotify:artist:4tgvbMpKddL31KuEtIjcJG"
+    "spotify-uri": ["spotify:artist:4tgvbMpKddL31KuEtIjcJG"]
   },
   {
     "venue": "flamingo",
@@ -500,7 +500,7 @@
     "event-time": "15:10",
     "artist-id": "neko-case",
     "artist-name": "Neko Case",
-    "spotify-uri": "spotify:artist:4Cedjq5BQL3MhapRvDpFED"
+    "spotify-uri": ["spotify:artist:4Cedjq5BQL3MhapRvDpFED"]
   },
   {
     "venue": "flamingo",
@@ -509,7 +509,7 @@
     "event-time": "17:25",
     "artist-id": "conor-oberst",
     "artist-name": "Conor Oberst",
-    "spotify-uri": "spotify:artist:2Z7gV3uEh1ckIaBzTUCE6R"
+    "spotify-uri": ["spotify:artist:2Z7gV3uEh1ckIaBzTUCE6R"]
   },
   {
     "venue": "flamingo",
@@ -518,7 +518,7 @@
     "event-time": "19:45",
     "artist-id": "janelle-monae",
     "artist-name": "Janelle Monáe",
-    "spotify-uri": "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
+    "spotify-uri": ["spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"]
   },
   {
     "venue": "flamingo",
@@ -527,7 +527,7 @@
     "event-time": "22:10",
     "artist-id": "outkast",
     "artist-name": "OutKast",
-    "spotify-uri": "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+    "spotify-uri": ["spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"]
   },
   {
     "venue": "linne",
@@ -536,7 +536,7 @@
     "event-time": "13:00",
     "artist-id": "Sharon-Van-Etten",
     "artist-name": "Sharon Van Etten",
-    "spotify-uri": "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
+    "spotify-uri": ["spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"]
   },
   {
     "venue": "linne",
@@ -545,7 +545,7 @@
     "event-time": "14:45",
     "artist-id": "mo",
     "artist-name": "MØ",
-    "spotify-uri": "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
+    "spotify-uri": ["spotify:artist:0bdfiayQAKewqEvaU6rXCv"]
   },
   {
     "venue": "linne",
@@ -554,7 +554,7 @@
     "event-time": "16:15",
     "artist-id": "blood-orange",
     "artist-name": "Blood Orange",
-    "spotify-uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+    "spotify-uri": ["spotify:artist:6LEeAFiJF8OuPx747e1wxR"]
   },
   {
     "venue": "linne",
@@ -563,7 +563,7 @@
     "event-time": "17:45",
     "artist-id": "mapei",
     "artist-name": "Mapei",
-    "spotify-uri": "spotify:artist:6baWjwY7WiVPCZcW7pqqhz"
+    "spotify-uri": ["spotify:artist:6baWjwY7WiVPCZcW7pqqhz"]
   },
   {
     "venue": "linne",
@@ -572,7 +572,7 @@
     "event-time": "19:30",
     "artist-id": "future",
     "artist-name": "Future",
-    "spotify-uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    "spotify-uri": ["spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"]
   },
   {
     "venue": "linne",
@@ -581,7 +581,7 @@
     "event-time": "21:10",
     "artist-id": "little-dragon",
     "artist-name": "Little Dragon",
-    "spotify-uri": "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
+    "spotify-uri": ["spotify:artist:6Tyzp9KzpiZ04DABQoedps"]
   },
   {
     "venue": "linne",
@@ -590,7 +590,7 @@
     "event-time": "23:00",
     "artist-id": "slowdive",
     "artist-name": "Slowdive",
-    "spotify-uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF"
+    "spotify-uri": ["spotify:artist:72X6FHxaShda0XeQw3vbeF"]
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -599,7 +599,7 @@
     "event-time": "23:45",
     "artist-id": "josefin-ohrn",
     "artist-name": "Josefin Öhrn & The Liberation",
-    "spotify-uri": "spotify:artist:6ExOR6M5umZFfNgXfjPcex"
+    "spotify-uri": ["spotify:artist:6ExOR6M5umZFfNgXfjPcex"]
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -608,7 +608,7 @@
     "event-time": "01:15",
     "artist-id": "mutual-benefit",
     "artist-name": "Mutual Benefit",
-    "spotify-uri": "spotify:artist:0AUwa5xmiy57qdGlOksvea"
+    "spotify-uri": ["spotify:artist:0AUwa5xmiy57qdGlOksvea"]
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -617,7 +617,7 @@
     "event-time": "00:30",
     "artist-id": "broken-twin",
     "artist-name": "Broken Twin",
-    "spotify-uri": "spotify:artist:4Y1f57EtKq7YF6DfftpopX"
+    "spotify-uri": ["spotify:artist:4Y1f57EtKq7YF6DfftpopX"]
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -635,7 +635,7 @@
     "event-time": "00:00",
     "artist-id": "1987",
     "artist-name": "1987",
-    "spotify-uri": "spotify:artist:1RTAxeIlQqWBYZoJVHJJvQ"
+    "spotify-uri": ["spotify:artist:1RTAxeIlQqWBYZoJVHJJvQ"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -644,7 +644,7 @@
     "event-time": "01:00",
     "artist-id": "i-break-horses",
     "artist-name": "I Break Horses",
-    "spotify-uri": "spotify:artist:1H58rS29XotmFJWT3KCnl0"
+    "spotify-uri": ["spotify:artist:1H58rS29XotmFJWT3KCnl0"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -653,7 +653,7 @@
     "event-time": "02:00",
     "artist-id": "machinedrum",
     "artist-name": "Machinedrum (DJ Set)",
-    "spotify-uri": "spotify:artist:06xa1OLBsMQJFXcl2tQkH4"
+    "spotify-uri": ["spotify:artist:06xa1OLBsMQJFXcl2tQkH4"]
   },
   {
     "venue": "jazzhuset",
@@ -662,7 +662,7 @@
     "event-time": "00:45",
     "artist-id": "mankind",
     "artist-name": "Mankind",
-    "spotify-uri": "spotify:artist:16ejaMBecQr5J0yvDbN1A7"
+    "spotify-uri": ["spotify:artist:16ejaMBecQr5J0yvDbN1A7"]
   },
   {
     "venue": "jazzhuset",
@@ -671,7 +671,7 @@
     "event-time": "02:00",
     "artist-id": "satan-takes-a-holiday",
     "artist-name": "Satan Takes a Holiday",
-    "spotify-uri": "spotify:artist:3BZBnC18MJDRtneF9r7Qx7"
+    "spotify-uri": ["spotify:artist:3BZBnC18MJDRtneF9r7Qx7"]
   },
   {
     "venue": "liseberg-polketten",
@@ -680,7 +680,7 @@
     "event-time": "23:45",
     "artist-id": "glowlers",
     "artist-name": "The Growlers",
-    "spotify-uri": "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
+    "spotify-uri": ["spotify:artist:2RhgnQNC74QoBlaUvT4MEe"]
   },
   {
     "venue": "liseberg-polketten",
@@ -689,7 +689,7 @@
     "event-time": "01:00",
     "artist-id": "royal-blood",
     "artist-name": "Royal Blood",
-    "spotify-uri": "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
+    "spotify-uri": ["spotify:artist:2S5hlvw4CMtMGswFtfdK15"]
   },
   {
     "venue": "liseberg-polketten",
@@ -698,7 +698,7 @@
     "event-time": "02:00",
     "artist-id": "mac-demarco",
     "artist-name": "Mac DeMarco",
-    "spotify-uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
+    "spotify-uri": ["spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"]
   },
   {
     "venue": "nefertiti",
@@ -716,7 +716,7 @@
     "event-day": "fredag",
     "artist-id": "lee-bains-III",
     "artist-name": "Lee Bains III & The Glory Fires",
-    "spotify-uri": "spotify:artist:1oTNCl6SRphYGb9NQ0toVE"
+    "spotify-uri": ["spotify:artist:1oTNCl6SRphYGb9NQ0toVE"]
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -725,7 +725,7 @@
     "event-day": "fredag",
     "artist-id": "rose-windows",
     "artist-name": "Rose Windows",
-    "spotify-uri": "spotify:artist:6G0lSlHIhV5EmNzvCPtwys"
+    "spotify-uri": ["spotify:artist:6G0lSlHIhV5EmNzvCPtwys"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -734,7 +734,7 @@
     "event-time": "00:00",
     "artist-id": "invsn",
     "artist-name": "INVSN",
-    "spotify-uri": "spotify:artist:0QT3ZWrppXpw96ZbC2LcSl"
+    "spotify-uri": ["spotify:artist:0QT3ZWrppXpw96ZbC2LcSl"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -743,7 +743,7 @@
     "event-time": "01:30",
     "artist-id": "metz",
     "artist-name": "Metz",
-    "spotify-uri": "spotify:artist:18TNVFTJ6WfeicsMRrdJHI"
+    "spotify-uri": ["spotify:artist:18TNVFTJ6WfeicsMRrdJHI"]
   },
   {
     "venue": "rondo",
@@ -752,7 +752,7 @@
     "event-time": "23:30",
     "artist-id": "yumi-zouma",
     "artist-name": "Yumi Zouma",
-    "spotify-uri": "spotify:artist:4tPyCwWrsvZ8OKYl7QRavL"
+    "spotify-uri": ["spotify:artist:4tPyCwWrsvZ8OKYl7QRavL"]
   },
   {
     "venue": "rondo",
@@ -761,7 +761,7 @@
     "event-time": "00:45",
     "artist-id": "naomi-pilgrim",
     "artist-name": "Naomi Pilgrim",
-    "spotify-uri": "spotify:artist:5QpXKWRjxAVZlmn5trAa16"
+    "spotify-uri": ["spotify:artist:5QpXKWRjxAVZlmn5trAa16"]
   },
   {
     "venue": "rondo",
@@ -770,7 +770,7 @@
     "event-time": "01:45",
     "artist-id": "how-to-dress-well",
     "artist-name": "How To Dress Well",
-    "spotify-uri": "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"
+    "spotify-uri": ["spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"]
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -779,7 +779,7 @@
     "event-time": "23:30",
     "artist-id": "samantha-crain",
     "artist-name": "Samantha Crain",
-    "spotify-uri": "spotify:artist:5dpLK5cD7FwWyDKv4qbodS"
+    "spotify-uri": ["spotify:artist:5dpLK5cD7FwWyDKv4qbodS"]
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -788,7 +788,7 @@
     "event-time": "01:00",
     "artist-id": "sumie",
     "artist-name": "Sumie",
-    "spotify-uri": "spotify:artist:1oEHAWdn0GWyRaL8JGOlan"
+    "spotify-uri": ["spotify:artist:1oEHAWdn0GWyRaL8JGOlan"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -797,7 +797,7 @@
     "event-time": "00:15",
     "artist-id": "St-Lucia",
     "artist-name": "St Lucia",
-    "spotify-uri": "spotify:artist:5WId4o5jdGVhptNU0uqKxu"
+    "spotify-uri": ["spotify:artist:5WId4o5jdGVhptNU0uqKxu"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -806,7 +806,7 @@
     "event-time": "01:45",
     "artist-id": "jungle",
     "artist-name": "Jungle",
-    "spotify-uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+    "spotify-uri": ["spotify:artist:59oA5WbbQvomJz2BuRG071"]
   },
   {
     "venue": "azalea",
@@ -824,7 +824,7 @@
     "event-time": "16:10",
     "artist-id": "linda-pira-ladies-first",
     "artist-name": "Linda Pira – Ladies First",
-    "spotify-uri": "spotify:artist:0qeei9KQnptjwb8MgkqEoy"
+    "spotify-uri": ["spotify:artist:0qeei9KQnptjwb8MgkqEoy"]
   },
   {
     "venue": "azalea",
@@ -833,7 +833,7 @@
     "event-time": "18:20",
     "artist-id": "neutral-milk-hotel",
     "artist-name": "Neutral Milk Hotel",
-    "spotify-uri": "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
+    "spotify-uri": ["spotify:artist:2ooIqOf4X2uz4mMptXCtie"]
   },
   {
     "venue": "azalea",
@@ -842,7 +842,7 @@
     "event-time": "20:40",
     "artist-id": "mos-def",
     "artist-name": "Yasiin Bey aka Mos Def",
-    "spotify-uri": "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
+    "spotify-uri": ["spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"]
   },
   {
     "venue": "dungen",
@@ -851,7 +851,7 @@
     "event-time": "12:00",
     "artist-id": "julius-sylvest",
     "artist-name": "Julius Sylvest",
-    "spotify-uri": "spotify:artist:533nJfX56F25FOytbE46tU"
+    "spotify-uri": ["spotify:artist:533nJfX56F25FOytbE46tU"]
   },
   {
     "venue": "dungen",
@@ -860,7 +860,7 @@
     "event-time": "13:00",
     "artist-id": "mai-nestor",
     "artist-name": "Mai Nestor",
-    "spotify-uri": "spotify:artist:4skVMdBBN0FyFIYAKiZlKX"
+    "spotify-uri": ["spotify:artist:4skVMdBBN0FyFIYAKiZlKX"]
   },
   {
     "venue": "dungen",
@@ -869,7 +869,7 @@
     "event-time": "14:00",
     "artist-id": "planningtorock",
     "artist-name": "Planningtorock",
-    "spotify-uri": "spotify:artist:7qHOphlWaJrfFa0BqpayDG"
+    "spotify-uri": ["spotify:artist:7qHOphlWaJrfFa0BqpayDG"]
   },
   {
     "venue": "dungen",
@@ -878,7 +878,7 @@
     "event-time": "15:00",
     "artist-id": "jaakko-eino-kalevi",
     "artist-name": "Jaakko Eino Kalevi",
-    "spotify-uri": "spotify:artist:20o7mwLphfnviZKGPw1gi3"
+    "spotify-uri": ["spotify:artist:20o7mwLphfnviZKGPw1gi3"]
   },
   {
     "venue": "dungen",
@@ -887,7 +887,7 @@
     "event-time": "16:00",
     "artist-id": "harald-bjork",
     "artist-name": "Harald Björk",
-    "spotify-uri": "spotify:artist:2VvFUDg4FDXzEQkQdgWz9h"
+    "spotify-uri": ["spotify:artist:2VvFUDg4FDXzEQkQdgWz9h"]
   },
   {
     "venue": "flamingo",
@@ -896,7 +896,7 @@
     "event-time": "15:00",
     "artist-id": "seasick-steve",
     "artist-name": "Seasick Steve",
-    "spotify-uri": "spotify:artist:6OVkHZQP8QoBYqr1ejCGDv"
+    "spotify-uri": ["spotify:artist:6OVkHZQP8QoBYqr1ejCGDv"]
   },
   {
     "venue": "flamingo",
@@ -905,7 +905,7 @@
     "event-time": "19:30",
     "artist-id": "veronica-maggio",
     "artist-name": "Veronica Maggio",
-    "spotify-uri": "spotify:artist:2OIWxN9xUhgUHkeUCWCaNs"
+    "spotify-uri": ["spotify:artist:2OIWxN9xUhgUHkeUCWCaNs"]
   },
   {
     "venue": "flamingo",
@@ -923,7 +923,7 @@
     "event-time": "13:00",
     "artist-id": "deafheaven",
     "artist-name": "Deafheaven",
-    "spotify-uri": "spotify:artist:4XpPveeg7RuYS3CgLo75t9"
+    "spotify-uri": ["spotify:artist:4XpPveeg7RuYS3CgLo75t9"]
   },
   {
     "venue": "linne",
@@ -932,7 +932,7 @@
     "event-time": "15:00",
     "artist-id": "slint",
     "artist-name": "Slint",
-    "spotify-uri": "spotify:artist:4IwOItqRhsIoRuD5HP4vyC"
+    "spotify-uri": ["spotify:artist:4IwOItqRhsIoRuD5HP4vyC"]
   },
   {
     "venue": "linne",
@@ -941,7 +941,7 @@
     "event-time": "17:15",
     "artist-id": "elliphant",
     "artist-name": "Elliphant",
-    "spotify-uri": "spotify:artist:134GdR5tUtxJrf8cpsfpyY"
+    "spotify-uri": ["spotify:artist:134GdR5tUtxJrf8cpsfpyY"]
   },
   {
     "venue": "linne",
@@ -950,7 +950,7 @@
     "event-time": "19:00",
     "artist-id": "jenny-wilson",
     "artist-name": "Jenny Wilson",
-    "spotify-uri": "spotify:artist:3axEmcxTibioxD1rZi1IOB"
+    "spotify-uri": ["spotify:artist:3axEmcxTibioxD1rZi1IOB"]
   },
   {
     "venue": "linne",
@@ -959,7 +959,7 @@
     "event-time": "20:40",
     "artist-id": "annika-norlin",
     "artist-name": "Annika Norlin",
-    "spotify-uri": "http://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
+    "spotify-uri": ["http://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"]
   },
   {
     "venue": "linne",
@@ -968,7 +968,7 @@
     "event-time": "23:00",
     "artist-id": "pusha-t",
     "artist-name": "Pusha T",
-    "spotify-uri": "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
+    "spotify-uri": ["spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"]
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -977,7 +977,7 @@
     "event-time": "00:15",
     "artist-id": "ry-x",
     "artist-name": "Ry X",
-    "spotify-uri": "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
+    "spotify-uri": ["spotify:artist:2KjAo6wVc9d2WcxdxSArpV"]
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -986,7 +986,7 @@
     "event-time": "01:45",
     "artist-id": "holly-herndon",
     "artist-name": "Holly Herndon",
-    "spotify-uri": "spotify:artist:2c9yn5DJQd5es7YMY92ikZ"
+    "spotify-uri": ["spotify:artist:2c9yn5DJQd5es7YMY92ikZ"]
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -995,7 +995,7 @@
     "event-time": "23:30",
     "artist-id": "nils-frahm",
     "artist-name": "Nils Frahm",
-    "spotify-uri": "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
+    "spotify-uri": ["spotify:artist:5gqhueRUZEa7VDnQt4HODp"]
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -1013,7 +1013,7 @@
     "event-time": "00:30",
     "artist-id": "marlene",
     "artist-name": "Marlene",
-    "spotify-uri": "spotify:artist:0pAV5GaO9ak8wk1NnF37Cl"
+    "spotify-uri": ["spotify:artist:0pAV5GaO9ak8wk1NnF37Cl"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -1022,7 +1022,7 @@
     "event-time": "01:30",
     "artist-id": "zhala",
     "artist-name": "Zhala",
-    "spotify-uri": "spotify:artist:2vI70V5Tc6jB3d2uzb2UEA"
+    "spotify-uri": ["spotify:artist:2vI70V5Tc6jB3d2uzb2UEA"]
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -1031,7 +1031,7 @@
     "event-time": "02:30",
     "artist-id": "seinabo-sey",
     "artist-name": "Seinabo Sey",
-    "spotify-uri": "spotify:artist:4X0v8sFoDZ6rIfkeOeVm2i"
+    "spotify-uri": ["spotify:artist:4X0v8sFoDZ6rIfkeOeVm2i"]
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -1059,7 +1059,7 @@
     "event-time": "23:30",
     "artist-id": "vulkano",
     "artist-name": "Vulkano",
-    "spotify-uri": "spotify:artist:2S4n5c3lzji3iJcUxV4cIX"
+    "spotify-uri": ["spotify:artist:2S4n5c3lzji3iJcUxV4cIX"]
   },
   {
     "venue": "jazzhuset",
@@ -1068,7 +1068,7 @@
     "event-time": "00:45",
     "artist-id": "circa-waves",
     "artist-name": "Circa Waves",
-    "spotify-uri": "spotify:artist:6hl5k4gLl1p3sjhHcb57t2"
+    "spotify-uri": ["spotify:artist:6hl5k4gLl1p3sjhHcb57t2"]
   },
   {
     "venue": "jazzhuset",
@@ -1077,7 +1077,7 @@
     "event-time": "02:00",
     "artist-id": "holograms",
     "artist-name": "Holograms",
-    "spotify-uri": "spotify:artist:5cRFFVu55n63SFAByWg112"
+    "spotify-uri": ["spotify:artist:5cRFFVu55n63SFAByWg112"]
   },
   {
     "venue": "liseberg-polketten",
@@ -1104,7 +1104,7 @@
     "event-time": "23:30",
     "artist-id": "john-wizards",
     "artist-name": "John Wizards",
-    "spotify-uri": "spotify:artist:4sPLhyVBoVtdlX0MaetdVK"
+    "spotify-uri": ["spotify:artist:4sPLhyVBoVtdlX0MaetdVK"]
   },
   {
     "venue": "nefertiti",
@@ -1113,7 +1113,7 @@
     "event-time": "00:30",
     "artist-id": "cristian-dinamarca",
     "artist-name": "Cristian Dinamarca",
-    "spotify-uri": "spotify:artist:6wAIR0sfzXRdiDBu65qSpp"
+    "spotify-uri": ["spotify:artist:6wAIR0sfzXRdiDBu65qSpp"]
   },
   {
     "venue": "nefertiti",
@@ -1122,7 +1122,7 @@
     "event-time": "01:30",
     "artist-id": "kelela",
     "artist-name": "Kelela",
-    "spotify-uri": "spotify:artist:1U0sIzpRtDkvu1hXXzxh60"
+    "spotify-uri": ["spotify:artist:1U0sIzpRtDkvu1hXXzxh60"]
   },
   {
     "venue": "nefertiti",
@@ -1131,7 +1131,7 @@
     "event-time": "02:30",
     "artist-id": "nguzunguzu",
     "artist-name": "NGUZUNGUZU",
-    "spotify-uri": "spotify:artist:5wJl2eFe6LqoSHSlk73vRr"
+    "spotify-uri": ["spotify:artist:5wJl2eFe6LqoSHSlk73vRr"]
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -1140,7 +1140,7 @@
     "event-time": "00:30",
     "artist-id": "alice-boman",
     "artist-name": "Alice Boman",
-    "spotify-uri": "spotify:artist:3WiytRnvoL0kT3oAGl9TCt"
+    "spotify-uri": ["spotify:artist:3WiytRnvoL0kT3oAGl9TCt"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -1149,7 +1149,7 @@
     "event-time": "23:45",
     "artist-id": "mighty-oaks",
     "artist-name": "Mighty Oaks",
-    "spotify-uri": "spotify:artist:5AVJt6VYXT4hMRP8D3MRAC"
+    "spotify-uri": ["spotify:artist:5AVJt6VYXT4hMRP8D3MRAC"]
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -1158,7 +1158,7 @@
     "event-time": "01:15",
     "artist-id": "real-estate",
     "artist-name": "Real Estate",
-    "spotify-uri": "spotify:artist:41SQP16hv1TioVYqdckmxT"
+    "spotify-uri": ["spotify:artist:41SQP16hv1TioVYqdckmxT"]
   },
   {
     "venue": "rondo",
@@ -1167,7 +1167,7 @@
     "event-time": "23:30",
     "artist-id": "christopher-sander",
     "artist-name": "Christopher Sander",
-    "spotify-uri": "spotify:artist:0LguImbYE4ZsVaSTJAB7YT"
+    "spotify-uri": ["spotify:artist:0LguImbYE4ZsVaSTJAB7YT"]
   },
   {
     "venue": "rondo",
@@ -1176,7 +1176,7 @@
     "event-time": "00:45",
     "artist-id": "emilie-nicolas ",
     "artist-name": "Emilie Nicolas",
-    "spotify-uri": "spotify:artist:4cXE1g28uYrIaUisUx5cJt"
+    "spotify-uri": ["spotify:artist:4cXE1g28uYrIaUisUx5cJt"]
   },
   {
     "venue": "rondo",
@@ -1185,7 +1185,7 @@
     "event-time": "02:00",
     "artist-id": "anders-wendin",
     "artist-name": "Anders Wendin",
-    "spotify-uri": "spotify:artist:3PDQFW0WKHjKs6gY2b2rFJ"
+    "spotify-uri": ["spotify:artist:3PDQFW0WKHjKs6gY2b2rFJ"]
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -1194,7 +1194,7 @@
     "event-time": "00:00",
     "artist-id": "beatrice-eli",
     "artist-name": "Beatrice Eli",
-    "spotify-uri": "spotify:artist:1lzoEy8yiIBiHOuaO4h5Wj"
+    "spotify-uri": ["spotify:artist:1lzoEy8yiIBiHOuaO4h5Wj"]
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -1203,7 +1203,7 @@
     "event-time": "01:15",
     "artist-id": "dante",
     "artist-name": "Dante",
-    "spotify-uri": "spotify:artist:6pLczwiw7MRvvstnzGrp7A"
+    "spotify-uri": ["spotify:artist:6pLczwiw7MRvvstnzGrp7A"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1212,7 +1212,7 @@
     "event-time": "23:30",
     "artist-id": "chloe-martini",
     "artist-name": "Chloe Martini",
-    "spotify-uri": "spotify:artist:6vhgsnZ2dLDaLDog3pqP2d"
+    "spotify-uri": ["spotify:artist:6vhgsnZ2dLDaLDog3pqP2d"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1221,7 +1221,7 @@
     "event-time": "00:45",
     "artist-id": "shlohmo",
     "artist-name": "Shlohmo",
-    "spotify-uri": "spotify:artist:6y80I9YZi4DOpbaSUlL725"
+    "spotify-uri": ["spotify:artist:6y80I9YZi4DOpbaSUlL725"]
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1230,7 +1230,7 @@
     "event-time": "02:00",
     "artist-id": "lorentz",
     "artist-name": "Lorentz",
-    "spotify-uri": "spotify:artist:2QDnY1LY2mnzeeKGZLHoc7"
+    "spotify-uri": ["spotify:artist:2QDnY1LY2mnzeeKGZLHoc7"]
   },
   {
     "venue": "nefertiti",
@@ -1239,6 +1239,6 @@
     "event-time": "00:15",
     "artist-id": "katie-got-bandz",
     "artist-name": "Katie Got Bandz",
-    "spotify-uri": "spotify:artist:48ObYO3GM7R76nRcfyvnM9"
+    "spotify-uri": ["spotify:artist:48ObYO3GM7R76nRcfyvnM9"]
   }
 ]
