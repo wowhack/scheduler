@@ -1,0 +1,98 @@
+{
+  "azalea": {
+    "festival-area": true,
+    "longitude": "11.946123",
+    "latitude": "57.686014",
+    "name": "Azalea"
+  },
+  "dungen": {
+    "festival-area": true,
+    "longitude": "11.947541257019111",
+    "latitude": "57.68775792910367",
+    "name": "Dungen"
+  },
+  "flamingo": {
+    "festival-area": true,
+    "longitude":"11.946907",
+    "latitude":"57.685011",
+    "name": "flamingo"
+  },
+  "linne": {
+    "festival-area": true,
+    "longitude":"11.945043",
+    "latitude":"57.683627",
+    "name": "Linné"
+  },
+  "gothenburg-film-studios-studio-1": {
+    "festival-area": false,
+    "longitude": "11.933482",
+    "latitude": "57.708324",
+    "name": "Gothenburg Film Studios Studio 1"
+  },
+  "gothenburg-film-studios-studio-3": {
+    "festival-area": false,
+    "longitude": "11.933482",
+    "latitude": "57.708324",
+    "name": "Gothenburg Film Studios Studio 3"
+  },
+  "jazzhuset": {
+    "festival-area": false,
+    "longitude": "11.967653",
+    "latitude": "57.699650",
+    "name": "Jazzhuset"
+  },
+  "liseberg-polketten": {
+    "festival-area": false,
+    "longitude": "11.995368",
+    "latitude": "57.694945",
+    "name": "Liseberg (Polketten)"
+  },
+  "nefertiti": {
+    "festival-area": false,
+    "longitude": "11.961412",
+    "latitude": "57.701607",
+    "name": "Nefertiti"
+  },
+  "pustervik-lilla-scenen": {
+    "festival-area": false,
+    "longitude": "11.954207",
+    "latitude": "57.700715",
+    "name": "Pustervik Lilla Scenen"
+  },
+  "pustervik-stora-scenen": {
+    "festival-area": false,
+    "longitude": "11.954207",
+    "latitude": "57.700715",
+    "name": "Pustervik Stora Scenen"
+  },
+  "rondo": {
+    "festival-area": false,
+    "longitude": "11.992554",
+    "latitude": "57.697025",
+    "name": "Rondo"
+  },
+  "tradgarn-lilla-scen": {
+    "festival-area": false,
+    "longitude": "11.975859",
+    "latitude": "57.704364",
+    "name": "Trädgår'n Lilla Scen"
+  },
+  "tradgarn-stora-scen": {
+    "festival-area": false,
+    "longitude": "11.975859",
+    "latitude": "57.704364",
+    "name": "Trädgår'n Stora Scen"
+  },
+  "goteborgsoperan-lilla-scenen": {
+    "festival-area": false,
+    "longitude": "11.963249",
+    "latitude": "57.710825",
+    "name": "Göteborgsoperan Lilla Scenen"
+  },
+  "goteborgsoperan-stora-scenen": {
+    "festival-area": false,
+    "longitude": "11.963249",
+    "latitude": "57.710825",
+    "name": "Göteborgsoperan Stora Scenen"
+  }
+}
