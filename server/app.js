@@ -29,7 +29,7 @@ app.use(cookies());
 app.use(login(settings));
 app.use(artists());
 app.use(activities());
-app.use(auth_callback(settings, login.state_key));
+app.use(auth_callback(settings, login));
 app.use(refresh_token(settings));
 
 console.log('Listening on 8888');

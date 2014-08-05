@@ -2,14 +2,16 @@ var express = require('express');
 var request = require('request');
 var querystring = require('querystring');
 
-function get_auth_callback(settings, state_key, req, res) {
-  var stored_state = req.cookies && req.cookies[state_key];
+function get_auth_callback(settings, login, req, res) {
+  var stored_state = req.cookies && req.cookies[login.state_key];
   if (!req.query.state || stored_state !== req.query.state) {
-    res.redirect('/#' + querystring.stringify({ error: 'state_mismatch' }));
+    var query = querystring.stringify({ error: 'state_mismatch' });
+    var redirect = redirect_template.replace('{?}', '?' + query);
+    res.redirect(redirect)
     return;
   }
 
-  res.clearCookie(state_key);
+  res.clearCookie(login.state_key);
   var authOptions = {
     url: 'https://accounts.spotify.com/api/token',
     form: {
@@ -23,40 +25,27 @@ function get_auth_callback(settings, state_key, req, res) {
   };
 
   request.post(authOptions, function(error, response, body) {
+    var redirect_template = req.cookies[login.redir_key];
     if (!error && response.statusCode === 200) {
       var access_token = body.access_token;
       var refresh_token = body.refresh_token;
 
-      var options = {
-        url: 'http://localhost:8888/artists?token=' + access_token,
-        json: true
-      };
-
-      // use the access token to access the Spotify Web API
-      request.get(options, function(error, response, body) {
-        console.log(body);
-      });
-
-      // we can also pass the token to the browser to make requests from there
-      res.redirect('/#' +
-        querystring.stringify({
-          access_token: access_token,
-          refresh_token: refresh_token
-        }));
+      var query = querystring.stringify({ access_token: access_token });
+      var redirect = redirect_template.replace('{?}', '?' + query);
+      res.redirect(redirect)
     } else {
-      res.redirect('/#' +
-        querystring.stringify({
-          error: 'invalid_token'
-        }));
+      var query = querystring.stringify({ error: 'invalid_token' });
+      var redirect = redirect_template.replace('{?}', '?' + query);
+      res.redirect(redirect)
     }
   });
 }
 
-module.exports = function(settings, state_key) {
+module.exports = function(settings, login) {
   var router = express.Router();
   router.get('/auth_callback', get_auth_callback.bind(
       undefined,
       settings,
-      state_key));
+      login));
   return router;
 };

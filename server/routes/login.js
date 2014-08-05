@@ -2,10 +2,12 @@ var express = require('express');
 var secret = require('../source/secret');
 var querystring = require('querystring');
 var state_key = 'spotify_auth_state';
+var redir_key = 'spotify_auth_redir';
 
 function get_login(settings, req, res) {
   var state = secret(16);
   res.cookie(state_key, state);
+  res.cookie(redir_key, decodeURIComponent(req.query.redirect));
 
   res.redirect('https://accounts.spotify.com/authorize?' + querystring.stringify({
     response_type: 'code',
@@ -25,3 +27,4 @@ module.exports = function(settings) {
 };
 
 module.exports.state_key = state_key;
+module.exports.redir_key = redir_key;
