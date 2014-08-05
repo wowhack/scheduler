@@ -3,6 +3,7 @@
   <head>
     <title>Example of the Authorization Code flow with Spotify</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="spinner.css">
     <style type="text/css">
       #login, #loggedin {
         display: none;
@@ -23,10 +24,9 @@
         <a href="/login" class="btn btn-primary">Log in with Spotify</a>
       </div>
       <div id="loggedin">
-        <div id="user-profile">
-        </div>
-        <div id="oauth">
-        </div>
+        <div id="user-profile"></div>
+        <div id="artists"></div>
+        <div id="oauth"></div>
         <button class="btn btn-default" id="obtain-new-token">Obtain new token using the refresh token</button>
       </div>
     </div>
@@ -49,6 +49,23 @@
           </dl>
         </div>
       </div>
+    </script>
+
+    <script id="artists-loading-template" type="text/x-handlebars-template">
+      <h1>Artists in "Your Music"</h1>
+      <div class="spinner">
+        <div class="dot1"></div>
+        <div class="dot2"></div>
+      </div>
+    </script>
+
+    <script id="artists-template" type="text/x-handlebars-template">
+      <h1>Artists in "Your Music"</h1>
+      {{#each artists}}
+        <table class="artist">
+          <tr><td>{{name}}</td></tr>
+        </table>
+      {{/each}}
     </script>
 
     <script id="oauth-template" type="text/x-handlebars-template">
@@ -82,7 +99,13 @@
             userProfileTemplate = Handlebars.compile(userProfileSource),
             userProfilePlaceholder = document.getElementById('user-profile');
 
-            oauthSource = document.getElementById('oauth-template').innerHTML,
+        var artistsSource = document.getElementById('artists-template').innerHTML,
+            artistsLoadingSource = document.getElementById('artists-loading-template').innerHTML,
+            artistsTemplate = Handlebars.compile(artistsSource),
+            artistsLoadingTemplate = Handlebars.compile(artistsLoadingSource),
+            artistsPlaceholder = document.getElementById('artists');
+
+        var oauthSource = document.getElementById('oauth-template').innerHTML,
             oauthTemplate = Handlebars.compile(oauthSource),
             oauthPlaceholder = document.getElementById('oauth');
 
@@ -96,28 +119,32 @@
           alert('There was an error during the authentication');
         } else {
           if (access_token) {
-            // render oauth info
             oauthPlaceholder.innerHTML = oauthTemplate({
               access_token: access_token,
               refresh_token: refresh_token
             });
 
             $.ajax({
+              url: 'http://localhost:8888/artists?token=' + access_token,
+              success: function(response) {
+                artistsPlaceholder.innerHTML = artistsTemplate({ artists: response });
+              }
+            });
+
+            $.ajax({
                 url: 'https://api.spotify.com/v1/me',
-                headers: {
-                  'Authorization': 'Bearer ' + access_token
-                },
+                headers: { 'Authorization': 'Bearer ' + access_token },
                 success: function(response) {
                   userProfilePlaceholder.innerHTML = userProfileTemplate(response);
+                  artistsPlaceholder.innerHTML = artistsLoadingTemplate();
 
                   $('#login').hide();
                   $('#loggedin').show();
                 }
             });
           } else {
-              // render initial screen
-              $('#login').show();
-              $('#loggedin').hide();
+            $('#login').show();
+            $('#loggedin').hide();
           }
 
           document.getElementById('obtain-new-token').addEventListener('click', function() {
