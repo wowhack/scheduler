@@ -8,10 +8,11 @@
  * Controller of the schedulerApp
  */
 angular.module('schedulerApp')
-  .controller('MainCtrl', function ($scope) {
+  .controller('MainCtrl', function ($http, $window, $scope, $routeParams) {
     $scope.transportationMethod = 'walking';
     $scope.timeOptimist = 500;
     $scope.artistSize = 500;
+    $scope.artists = [];
 
     $scope.days = [
       {
@@ -41,4 +42,25 @@ angular.module('schedulerApp')
         ]
       }
     ];
+
+    $scope.loginToSpotify = function() {
+      var redirect = encodeURIComponent($window.location.href) + '{?}';
+      $window.location.href = 'http://localhost:8888/login?redirect=' + redirect;
+    };
+
+    $scope.fetchArtists = function(access_token) {
+      var artists_url = 'http://localhost:8888/artists?token=' + access_token;
+      $http({ method: 'GET', url: artists_url })
+          .success(function(data, status, headers, config) {
+            $scope.artists = data;
+          })
+          .error(function(data, status, headers, config) {
+            console.log('ERROR', data, status, headers, config);
+          });
+    }
+
+    var access_token = $routeParams.access_token;
+    if (access_token) {
+      $scope.fetchArtists(access_token);
+    }
   });

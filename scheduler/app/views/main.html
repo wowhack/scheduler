@@ -21,6 +21,16 @@
     Prefer large artists
   </div>
 
+  <div class="row">
+    <p><a class="btn btn-lg btn-success" ng-click="loginToSpotify()">Spotify Login</a></p>
+  </div>
+
+  <div class="row">
+    <li ng-repeat="artist in artists">
+      <span>{{artist.name}}</span>
+    </li>
+  </div>
+
   <h1>Concerts</h1>
   <ul class="days" ng-repeat="day in days">
     <li>
