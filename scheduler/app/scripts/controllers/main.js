@@ -9,9 +9,7 @@
  */
 angular.module('schedulerApp')
   .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+    $scope.transportationMethod = 'walking';
+    $scope.timeOptimist = 500;
+    $scope.artistSize = 500;
   });
