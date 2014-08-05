@@ -1,0 +1,1106 @@
+[
+  {
+    "venue": "azalea",
+    "artist-id": "175",
+    "event-day": "torsdag",
+    "event-time": "15:30",
+    "artist-id": "the-horrors",
+    "artist-name": "The Horrors"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "37",
+    "event-day": "torsdag",
+    "event-time": "17:30",
+    "artist-id": "tinariwen",
+    "artist-name": "Tinariwen"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "9",
+    "event-day": "torsdag",
+    "event-time": "20:00",
+    "artist-id": "the-national",
+    "artist-name": "The National"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "152",
+    "event-day": "torsdag",
+    "event-time": "15:00",
+    "artist-id": "sandra-mosh",
+    "artist-name": "Sandra Mosh"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "151",
+    "event-day": "torsdag",
+    "event-time": "15:45",
+    "artist-id": "dnkl",
+    "artist-name": "DNKL"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "150",
+    "event-day": "torsdag",
+    "event-time": "16:15",
+    "artist-id": "ulf-eriksson",
+    "artist-name": "Ulf Eriksson "
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "155",
+    "event-day": "torsdag",
+    "event-time": "17:00",
+    "artist-id": "beldina-bella-boo",
+    "artist-name": "Beldina & Bella Boo"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "153",
+    "event-day": "torsdag",
+    "event-time": "17:30",
+    "artist-id": "silvana-imam",
+    "artist-name": "Silvana Imam"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "154",
+    "event-day": "torsdag",
+    "event-time": "18:00",
+    "artist-id": "yung-lean",
+    "artist-name": "Yung Lean & Sad Boys"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "156",
+    "event-day": "torsdag",
+    "event-time": "18:30",
+    "artist-id": "mando-diao",
+    "artist-name": "Mando Diao (Dj-set)"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "149",
+    "event-day": "torsdag",
+    "event-time": "19:15",
+    "artist-id": "mr-tophat-art-alfie",
+    "artist-name": "Mr. Tophat & Art Alfie "
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "99",
+    "event-day": "torsdag",
+    "event-time": "16:30",
+    "artist-id": "markus-krunegard",
+    "artist-name": "Markus Krunegård"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "139",
+    "event-day": "torsdag",
+    "event-time": "18:45",
+    "artist-id": "motorhead",
+    "artist-name": "Motörhead"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "7",
+    "event-day": "torsdag",
+    "event-time": "21:20",
+    "artist-id": "queens-of-the-stone-age",
+    "artist-name": "Queens of the Stone Age"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "69",
+    "event-day": "torsdag",
+    "event-time": "14:45",
+    "artist-id": "polica",
+    "artist-name": "Poliça"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "18",
+    "event-day": "torsdag",
+    "event-time": "16:15",
+    "artist-id": "brody-dalle",
+    "artist-name": "Brody Dalle"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "71",
+    "event-day": "torsdag",
+    "event-time": "17:30",
+    "artist-id": "neneh-cherry",
+    "artist-name": "Neneh Cherry w/ RocketNumberNine"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "66",
+    "event-day": "torsdag",
+    "event-time": "19:00",
+    "artist-id": "rebecca-och-fiona",
+    "artist-name": "Rebecca & Fiona "
+  },
+  {
+    "venue": "linne",
+    "artist-id": "34",
+    "event-day": "torsdag",
+    "event-time": "20:30",
+    "artist-id": "darkside",
+    "artist-name": "DARKSIDE"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "6",
+    "event-day": "torsdag",
+    "event-time": "22:00",
+    "artist-id": "joey-bada$$",
+    "artist-name": "Joey Bada$$"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "52",
+    "event-day": "torsdag",
+    "event-time": "23:30",
+    "artist-id": "zebra-katz",
+    "artist-name": "Zebra Katz"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "53",
+    "event-day": "torsdag",
+    "event-time": "00:30",
+    "artist-id": "i-am-legion",
+    "artist-name": "I Am Legion [Noisia x Foreign beggars] "
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "135",
+    "event-day": "torsdag",
+    "event-time": "02:00",
+    "artist-id": "teddybears",
+    "artist-name": "Teddybears"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-3",
+    "artist-id": "174",
+    "event-day": "torsdag",
+    "event-time": "22:00",
+    "artist-id": "m-wrecker",
+    "artist-name": "M. Wrecker"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-3",
+    "artist-id": "166",
+    "event-day": "torsdag",
+    "event-time": "00:30",
+    "artist-id": "purpurr-purple",
+    "artist-name": "Purpurr Purple"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-3",
+    "artist-id": "173",
+    "event-day": "torsdag",
+    "event-time": "01:30",
+    "artist-id": "bella-boo",
+    "artist-name": "Bella Boo"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "42",
+    "event-day": "torsdag",
+    "event-time": "23:00",
+    "artist-id": "bo-ningen",
+    "artist-name": "Bo Ningen"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "65",
+    "event-day": "torsdag",
+    "event-time": "00:15",
+    "artist-id": "doa",
+    "artist-name": "D.O.A"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "62",
+    "event-day": "torsdag",
+    "event-time": "01:30",
+    "artist-id": "agent-orange",
+    "artist-name": "Agent Orange"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "59",
+    "event-day": "torsdag",
+    "event-time": "23:00",
+    "artist-id": "speedy-ortiz",
+    "artist-name": "Speedy Ortiz"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "28",
+    "event-day": "torsdag",
+    "event-time": "00:15",
+    "artist-id": "hozier",
+    "artist-name": "Hozier"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "94",
+    "event-day": "torsdag",
+    "event-time": "01:30",
+    "artist-id": "nicole-saboune",
+    "artist-name": "Nicole Sabouné "
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "64",
+    "event-day": "torsdag",
+    "event-time": "23:00",
+    "artist-id": "mendoza",
+    "artist-name": "Mendoza"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "108",
+    "event-day": "torsdag",
+    "event-time": "01:30",
+    "artist-id": "lilla-namo",
+    "artist-name": "Lilla Namo"
+  },
+  {
+    "venue": "pustervik-lilla-scenen",
+    "artist-id": "115",
+    "event-day": "torsdag",
+    "event-time": "23:45",
+    "artist-id": "the-garden",
+    "artist-name": "The Garden"
+  },
+  {
+    "venue": "pustervik-lilla-scenen",
+    "artist-id": "46",
+    "event-day": "torsdag",
+    "event-time": "01:15",
+    "artist-id": "marissa-nadler",
+    "artist-name": "Marissa Nadler"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "47",
+    "event-day": "torsdag",
+    "event-time": "23:00",
+    "artist-id": "highasakite",
+    "artist-name": "Highasakite"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "4",
+    "event-day": "torsdag",
+    "event-time": "00:30",
+    "artist-id": "jonathan-wilson",
+    "artist-name": "Jonathan Wilson"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "54",
+    "event-day": "torsdag",
+    "event-time": "22:15",
+    "artist-id": "amen-dunes",
+    "artist-name": "Amen Dunes"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "110",
+    "event-day": "torsdag",
+    "event-time": "23:15",
+    "artist-id": "les-big-byrd",
+    "artist-name": "Les Big Byrd"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "100",
+    "event-day": "torsdag",
+    "event-time": "00:30",
+    "artist-id": "mattias-alkberg",
+    "artist-name": "Mattias Alkberg/Södra Sverige"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "93",
+    "event-day": "torsdag",
+    "event-time": "01:30",
+    "artist-id": "hurula",
+    "artist-name": "Hurula"
+  },
+  {
+    "venue": "tradgarn-lilla-scen",
+    "artist-id": "104",
+    "event-day": "torsdag",
+    "event-time": "23:00",
+    "artist-id": "colleagues",
+    "artist-name": "Colleagues"
+  },
+  {
+    "artist-id": "21",
+    "event-day": "torsdag",
+    "event-time": "00:30",
+    "artist-id": "forest-swords",
+    "artist-name": "Forest Swords"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "158",
+    "event-day": "torsdag",
+    "event-time": "23:45",
+    "artist-id": "ison-fille",
+    "artist-name": "Ison & Fille"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "157",
+    "event-day": "torsdag",
+    "event-time": "01:15",
+    "artist-id": "oskar-linnros",
+    "artist-name": "Oskar Linnros"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "159",
+    "event-day": "fredag",
+    "event-time": "14:00",
+    "artist-id": "clean-bandit",
+    "artist-name": "Clean Bandit"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "33",
+    "event-day": "fredag",
+    "event-time": "16:15",
+    "artist-id": "bill-callahan",
+    "artist-name": "Bill Callahan"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "27",
+    "event-day": "fredag",
+    "event-time": "18:40",
+    "artist-id": "les-ambassadeurs",
+    "artist-name": "Les Ambassadeurs"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "32",
+    "event-day": "fredag",
+    "event-time": "21:00",
+    "artist-id": "icona-pop",
+    "artist-name": "Icona Pop"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "170",
+    "event-day": "fredag",
+    "event-time": "12:00",
+    "artist-id": "mirja-larsson",
+    "artist-name": "Mirja Larsson"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "87",
+    "event-day": "fredag",
+    "event-time": "13:00",
+    "artist-id": "studio-barnhus",
+    "artist-name": "Studio Barnhus: Axel Boman, Kornél Kovács, Petter Nordkvist"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "85",
+    "event-day": "fredag",
+    "event-time": "14:00",
+    "artist-id": "pional",
+    "artist-name": "Pional"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "86",
+    "event-day": "fredag",
+    "event-time": "15:00",
+    "artist-id": "jamie-xx",
+    "artist-name": "Jamie xx"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "164",
+    "event-day": "fredag",
+    "event-time": "16:00",
+    "artist-id": "boska",
+    "artist-name": "Boska"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "70",
+    "event-day": "fredag",
+    "event-time": "15:10",
+    "artist-id": "neko-case",
+    "artist-name": "Neko Case"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "56",
+    "event-day": "fredag",
+    "event-time": "17:25",
+    "artist-id": "conor-oberst",
+    "artist-name": "Conor Oberst"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "2",
+    "event-day": "fredag",
+    "event-time": "19:45",
+    "artist-id": "janelle-monae",
+    "artist-name": "Janelle Monáe"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "24",
+    "event-day": "fredag",
+    "event-time": "22:10",
+    "artist-id": "outkast",
+    "artist-name": "OutKast"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "39",
+    "event-day": "fredag",
+    "event-time": "13:00",
+    "artist-id": "Sharon-Van-Etten",
+    "artist-name": "Sharon Van Etten"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "14",
+    "event-day": "fredag",
+    "event-time": "14:45",
+    "artist-id": "mo",
+    "artist-name": "MØ"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "10",
+    "event-day": "fredag",
+    "event-time": "16:15",
+    "artist-id": "blood-orange",
+    "artist-name": "Blood Orange"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "45",
+    "event-day": "fredag",
+    "event-time": "17:45",
+    "artist-id": "mapei",
+    "artist-name": "Mapei"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "102",
+    "event-day": "fredag",
+    "event-time": "19:30",
+    "artist-id": "future",
+    "artist-name": "Future"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "26",
+    "event-day": "fredag",
+    "event-time": "21:10",
+    "artist-id": "little-dragon",
+    "artist-name": "Little Dragon"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "50",
+    "event-day": "fredag",
+    "event-time": "23:00",
+    "artist-id": "slowdive",
+    "artist-name": "Slowdive"
+  },
+  {
+    "venue": "goteborgsoperan-lilla-scenen",
+    "artist-id": "106",
+    "event-day": "fredag",
+    "event-time": "23:45",
+    "artist-id": "josefin-ohrn",
+    "artist-name": "Josefin Öhrn & The Liberation"
+  },
+  {
+    "venue": "goteborgsoperan-lilla-scenen",
+    "artist-id": "63",
+    "event-day": "fredag",
+    "event-time": "01:15",
+    "artist-id": "mutual-benefit",
+    "artist-name": "Mutual Benefit"
+  },
+  {
+    "venue": "goteborgsoperan-stora-scenen",
+    "artist-id": "111",
+    "event-day": "fredag",
+    "event-time": "00:30",
+    "artist-id": "broken-twin",
+    "artist-name": "Broken Twin"
+  },
+  {
+    "venue": "goteborgsoperan-stora-scenen",
+    "artist-id": "89",
+    "event-day": "fredag",
+    "event-time": "02:00",
+    "artist-id": "kurt-vile",
+    "artist-name": "Kurt Vile & The Violators"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "112",
+    "event-day": "fredag",
+    "event-time": "00:00",
+    "artist-id": "1987",
+    "artist-name": "1987"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "19",
+    "event-day": "fredag",
+    "event-time": "01:00",
+    "artist-id": "i-break-horses",
+    "artist-name": "I Break Horses"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "23",
+    "event-day": "fredag",
+    "event-time": "02:00",
+    "artist-id": "machinedrum",
+    "artist-name": "Machinedrum (DJ Set)"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "176",
+    "event-day": "fredag",
+    "event-time": "00:45",
+    "artist-id": "mankind",
+    "artist-name": "Mankind "
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "177",
+    "event-day": "fredag",
+    "event-time": "02:00",
+    "artist-id": "satan-takes-a-holiday",
+    "artist-name": "Satan Takes a Holiday"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "57",
+    "event-day": "fredag",
+    "event-time": "23:45",
+    "artist-id": "glowlers",
+    "artist-name": "The Growlers"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "36",
+    "event-day": "fredag",
+    "event-time": "01:00",
+    "artist-id": "royal-blood",
+    "artist-name": "Royal Blood"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "40",
+    "event-day": "fredag",
+    "event-time": "02:00",
+    "artist-id": "mac-demarco",
+    "artist-name": "Mac DeMarco"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "43",
+    "event-day": "fredag",
+    "event-time": "23:00",
+    "artist-id": "hessle-audio",
+    "artist-name": "Hessle Audio Label Night: Pearson Sound, Ben UFO, Pangaea"
+  },
+  {
+    "venue": "pustervik-lilla-scenen",
+    "artist-id": "144",
+    "event-time": "00:30",
+    "event-day": "fredag",
+    "artist-id": "lee-bains-III",
+    "artist-name": "Lee Bains III & The Glory Fires"
+  },
+  {
+    "venue": "pustervik-lilla-scenen",
+    "artist-id": "143",
+    "event-time": "02:00",
+    "event-day": "fredag",
+    "artist-id": "rose-windows",
+    "artist-name": "Rose Windows"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "97",
+    "event-day": "fredag",
+    "event-time": "00:00",
+    "artist-id": "invsn",
+    "artist-name": "INVSN"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "142",
+    "event-day": "fredag",
+    "event-time": "01:30",
+    "artist-id": "metz",
+    "artist-name": "Metz"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "84",
+    "event-day": "fredag",
+    "event-time": "23:30",
+    "artist-id": "yumi-zouma",
+    "artist-name": "Yumi Zouma"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "61",
+    "event-day": "fredag",
+    "event-time": "00:45",
+    "artist-id": "naomi-pilgrim",
+    "artist-name": "Naomi Pilgrim"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "141",
+    "event-day": "fredag",
+    "event-time": "01:45",
+    "artist-id": "how-to-dress-well",
+    "artist-name": "How To Dress Well"
+  },
+  {
+    "venue": "tradgarn-lilla-scen",
+    "artist-id": "48",
+    "event-day": "fredag",
+    "event-time": "23:30",
+    "artist-id": "samantha-crain",
+    "artist-name": "Samantha Crain"
+  },
+  {
+    "venue": "tradgarn-lilla-scen",
+    "artist-id": "105",
+    "event-day": "fredag",
+    "event-time": "01:00",
+    "artist-id": "sumie",
+    "artist-name": "Sumie"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "148",
+    "event-day": "fredag",
+    "event-time": "00:15",
+    "artist-id": "St-Lucia",
+    "artist-name": "St Lucia"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "8",
+    "event-day": "fredag",
+    "event-time": "01:45",
+    "artist-id": "jungle",
+    "artist-name": "Jungle"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "30",
+    "event-day": "lördag",
+    "event-time": "14:00",
+    "artist-id": "mark-ernestus-presents-jeri-jeri",
+    "artist-name": "Mark Ernestus presents Jeri-Jeri"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "68",
+    "event-day": "lördag",
+    "event-time": "16:10",
+    "artist-id": "linda-pira-ladies-first",
+    "artist-name": "Linda Pira – Ladies First"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "3",
+    "event-day": "lördag",
+    "event-time": "18:20",
+    "artist-id": "neutral-milk-hotel",
+    "artist-name": "Neutral Milk Hotel"
+  },
+  {
+    "venue": "azalea",
+    "artist-id": "180",
+    "event-day": "lördag",
+    "event-time": "20:40",
+    "artist-id": "mos-def",
+    "artist-name": "Yasiin Bey aka Mos Def"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "162",
+    "event-day": "lördag",
+    "event-time": "12:00",
+    "artist-id": "julius-sylvest",
+    "artist-name": "Julius Sylvest"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "163",
+    "event-day": "lördag",
+    "event-time": "13:00",
+    "artist-id": "mai-nestor",
+    "artist-name": "Mai Nestor"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "161",
+    "event-day": "lördag",
+    "event-time": "14:00",
+    "artist-id": "planningtorock",
+    "artist-name": "Planningtorock"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "160",
+    "event-day": "lördag",
+    "event-time": "15:00",
+    "artist-id": "jaakko-eino-kalevi",
+    "artist-name": "Jaakko Eino Kalevi"
+  },
+  {
+    "venue": "dungen",
+    "artist-id": "172",
+    "event-day": "lördag",
+    "event-time": "16:00",
+    "artist-id": "harald-bjork",
+    "artist-name": "Harald Björk"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "67",
+    "event-day": "lördag",
+    "event-time": "15:00",
+    "artist-id": "seasick-steve",
+    "artist-name": "Seasick Steve"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "38",
+    "event-day": "lördag",
+    "event-time": "19:30",
+    "artist-id": "veronica-maggio",
+    "artist-name": "Veronica Maggio"
+  },
+  {
+    "venue": "flamingo",
+    "artist-id": "1",
+    "event-day": "lördag",
+    "event-time": "21:50",
+    "artist-id": "royksopp-robyn",
+    "artist-name": "Röyksopp & Robyn"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "11",
+    "event-day": "lördag",
+    "event-time": "13:00",
+    "artist-id": "deafheaven",
+    "artist-name": "Deafheaven"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "101",
+    "event-day": "lördag",
+    "event-time": "15:00",
+    "artist-id": "slint",
+    "artist-name": "Slint"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "44",
+    "event-day": "lördag",
+    "event-time": "17:15",
+    "artist-id": "elliphant",
+    "artist-name": "Elliphant "
+  },
+  {
+    "venue": "linne",
+    "artist-id": "5",
+    "event-day": "lördag",
+    "event-time": "19:00",
+    "artist-id": "jenny-wilson",
+    "artist-name": "Jenny Wilson"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "98",
+    "event-day": "lördag",
+    "event-time": "20:40",
+    "artist-id": "annika-norlin",
+    "artist-name": "Annika Norlin"
+  },
+  {
+    "venue": "linne",
+    "artist-id": "16",
+    "event-day": "lördag",
+    "event-time": "23:00",
+    "artist-id": "pusha-t",
+    "artist-name": "Pusha T"
+  },
+  {
+    "venue": "goteborgsoperan-lilla-scenen",
+    "artist-id": "51",
+    "event-day": "lördag",
+    "event-time": "00:15",
+    "artist-id": "ry-x",
+    "artist-name": "Ry X"
+  },
+  {
+    "venue": "goteborgsoperan-lilla-scenen",
+    "artist-id": "22",
+    "event-day": "lördag",
+    "event-time": "01:45",
+    "artist-id": "holly-herndon",
+    "artist-name": "Holly Herndon"
+  },
+  {
+    "venue": "goteborgsoperan-stora-scenen",
+    "artist-id": "90",
+    "event-day": "lördag",
+    "event-time": "23:30",
+    "artist-id": "nils-frahm",
+    "artist-name": "Nils Frahm"
+  },
+  {
+    "venue": "goteborgsoperan-stora-scenen",
+    "artist-id": "145",
+    "event-day": "lördag",
+    "event-time": "01:00",
+    "artist-id": "daniel-hope",
+    "artist-name": "Re:composed av Max Richter, framförd av Daniel Hope & GSO"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "91",
+    "event-day": "lördag",
+    "event-time": "00:30",
+    "artist-id": "marlene",
+    "artist-name": "Marlene"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "92",
+    "event-day": "lördag",
+    "event-time": "01:30",
+    "artist-id": "zhala",
+    "artist-name": "Zhala"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-1",
+    "artist-id": "88",
+    "event-day": "lördag",
+    "event-time": "02:30",
+    "artist-id": "seinabo-sey",
+    "artist-name": "Seinabo Sey"
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-3",
+    "artist-id": "165",
+    "event-day": "lördag",
+    "event-time": "00:30",
+    "artist-id": "amie-cassandra",
+    "artist-name": "Amie & Cassandra "
+  },
+  {
+    "venue": "gothenburg-film-studios-studio-3",
+    "artist-id": "178",
+    "event-day": "lördag",
+    "event-time": "02:00",
+    "artist-id": "berserk",
+    "artist-name": "Berserk"
+  },
+
+  {
+    "venue": "jazzhuset",
+    "artist-id": "138",
+    "event-day": "lördag",
+    "event-time": "23:30",
+    "artist-id": "vulkano",
+    "artist-name": "Vulkano"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "12",
+    "event-day": "lördag",
+    "event-time": "00:45",
+    "artist-id": "circa-waves",
+    "artist-name": "Circa Waves"
+  },
+  {
+    "venue": "jazzhuset",
+    "artist-id": "103",
+    "event-day": "lördag",
+    "event-time": "02:00",
+    "artist-id": "holograms",
+    "artist-name": "Holograms"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "140",
+    "event-day": "lördag",
+    "event-time": "00:00",
+    "artist-id": "femtastic-sound",
+    "artist-name": "Femtastic Sound"
+  },
+  {
+    "venue": "liseberg-polketten",
+    "artist-id": "95",
+    "event-day": "lördag",
+    "event-time": "02:00",
+    "artist-id": "cleo-kristin-amparo",
+    "artist-name": "Cleo, Kristin Amparo & Broke 'n Tipsy"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "41",
+    "event-day": "lördag",
+    "event-time": "23:30",
+    "artist-id": "john-wizards",
+    "artist-name": "John Wizards"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "113",
+    "event-day": "lördag",
+    "event-time": "00:30",
+    "artist-id": "cristian-dinamarca",
+    "artist-name": "Cristian Dinamarca"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "55",
+    "event-day": "lördag",
+    "event-time": "01:30",
+    "artist-id": "kelela",
+    "artist-name": "Kelela"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "29",
+    "event-day": "lördag",
+    "event-time": "02:30",
+    "artist-id": "nguzunguzu",
+    "artist-name": "NGUZUNGUZU"
+  },
+  {
+    "venue": "pustervik-lilla-scenen",
+    "artist-id": "137",
+    "event-day": "lördag",
+    "event-time": "00:30",
+    "artist-id": "alice-boman",
+    "artist-name": "Alice Boman"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "25",
+    "event-day": "lördag",
+    "event-time": "23:45",
+    "artist-id": "mighty-oaks",
+    "artist-name": "Mighty Oaks"
+  },
+  {
+    "venue": "pustervik-stora-scenen",
+    "artist-id": "58",
+    "event-day": "lördag",
+    "event-time": "01:15",
+    "artist-id": "real-estate",
+    "artist-name": "Real Estate"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "109",
+    "event-day": "lördag",
+    "event-time": "23:30",
+    "artist-id": "christopher-sander",
+    "artist-name": "Christopher Sander"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "60",
+    "event-day": "lördag",
+    "event-time": "00:45",
+    "artist-id": "emilie-nicolas ",
+    "artist-name": "Emilie Nicolas"
+  },
+  {
+    "venue": "rondo",
+    "artist-id": "107",
+    "event-day": "lördag",
+    "event-time": "02:00",
+    "artist-id": "anders-wendin",
+    "artist-name": "Anders Wendin"
+  },
+  {
+    "venue": "tradgarn-lilla-scen",
+    "artist-id": "114",
+    "event-day": "lördag",
+    "event-time": "00:00",
+    "artist-id": "beatrice-eli",
+    "artist-name": "Beatrice Eli"
+  },
+  {
+    "venue": "tradgarn-lilla-scen",
+    "artist-id": "116",
+    "event-day": "lördag",
+    "event-time": "01:15",
+    "artist-id": "dante",
+    "artist-name": "Dante"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "134",
+    "event-day": "lördag",
+    "event-time": "23:30",
+    "artist-id": "chloe-martini",
+    "artist-name": "Chloe Martini"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "17",
+    "event-day": "lördag",
+    "event-time": "00:45",
+    "artist-id": "shlohmo",
+    "artist-name": "Shlohmo"
+  },
+  {
+    "venue": "tradgarn-stora-scen",
+    "artist-id": "82",
+    "event-day": "lördag",
+    "event-time": "02:00",
+    "artist-id": "lorentz",
+    "artist-name": "Lorentz"
+  },
+  {
+    "venue": "nefertiti",
+    "artist-id": "49",
+    "event-day": "onsdag",
+    "event-time": "00:15",
+    "artist-id": "katie-got-bandz",
+    "artist-name": "Katie Got Bandz"
+  }
+]
