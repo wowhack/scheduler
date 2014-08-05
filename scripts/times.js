@@ -11,12 +11,12 @@ concerts.forEach(function(concert) {
   venues[concert['venue']] = [];
 });
 
-var weights = new Object();
-
 function giveweights() {
+  var weights = new Object();
 	for(var i in concerts){
 		weights[concerts[i]['artist-id']] = 1;
 	}
+  return weights;
 }
 
 function distance(a, b) {
@@ -42,7 +42,7 @@ function bestWeightAtTimeAndPlace(time, where) {
   return Array(ret, now);
 }
 
-function findOptimalSchedule() {
+function findOptimalSchedule(weights) {
 	concerts.sort(function(a, b) {
 		return a['start-time'] - b['start-time'];
 	});
@@ -78,5 +78,4 @@ function findOptimalSchedule() {
   schedule.reverse();
   return schedule;
 }
-giveweights();
-findOptimalSchedule();
+findOptimalSchedule(giveweights());
