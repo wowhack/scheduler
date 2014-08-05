@@ -7,7 +7,7 @@ function get_artists(req, res, next) {
   var token16 = req.query.token.substr(0, 16);
 
   function fetch(error, response, body) {
-    if (error) {
+    if (error || response.statusCode !== 200) {
       next(error)
       return;
     }
