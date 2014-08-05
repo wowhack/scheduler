@@ -15,7 +15,7 @@ function get_activities(req, res) {
   var distanceMultiplier = parseFloat(req.query.distance || "1");
 
   var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, distanceMultiplier), concerts, weights.weightsForPopularity(concerts, 5, popularityWeight));
-  res.send(activities.scheduleToActivities(concerts, venues, mode, schedule));
+  res.send({ days: activities.scheduleToActivities(concerts, venues, mode, schedule) });
 }
 
 module.exports = function() {
