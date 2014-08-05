@@ -1,4 +1,5 @@
 <div ng-controller="MainCtrl">
+  <h1>Controls</h1>
   <div class="btn-group">
       <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'driving'">Driving</label>
       <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'walking'">Walking</label>
@@ -14,4 +15,24 @@
     Large vs small artist: <pre>{{ artistSize }}</em></pre>
     <input type="range" ng-model="artistSize" name="points" min="0" max="999">
   </div>
+
+  <h1>Concerts</h1>
+  <ul class="days" ng-repeat="day in days">
+    <li>
+      <h2>{{ day.name }}</h2>
+      <ul class="activities" ng-repeat="activity in day.activities">
+        <li ng-if="activity.type == 'concert'">
+          <strong>{{ activity.artistName }}</strong>
+          <em>{{ activity.venueName }}</em>
+          <strong>{{ activity.startingTime }}</strong>
+          <em>{{ activity.duration }}</em>
+        </li>
+        <li ng-if="activity.type == 'transit'">
+          <em>{{ activity.methodVerb }}</em>
+          from <strong>{{ activity.fromVenueName }}</strong>
+          to <strong>{{ activity.toVenueName }}</strong> (estimated {{ activity.duration}}).
+        </li>
+      </ul>
+    </li>
+  </ul>
 </div>
