@@ -1,0 +1,128 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+  font-family: 'Montserrat';
+  marign: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f03c02;
+  text-decoration: none;
+}
+
+a:active {
+  color: #f03c02;
+  text-decoration: none;
+}
+
+.controls {
+  background-color: black;
+  background-image:
+      url('../images/logo.png'),
+      url('../images/flower.png');
+  background-repeat: no-repeat, no-repeat;
+  background-size: 300px, cover;
+  background-position-x: center, center;
+  background-position-y: 20px, top;
+  padding-top: 180px;
+  width: 100%;
+}
+
+.control-box {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  text-align: center;
+}
+
+.control-transportation .active span {
+  background-position-y: -25px;
+}
+
+.drive-icon {
+  background-image: url('../images/car.png');
+  background-size: 100% auto;
+  display: inline-block;
+  height: 25px;
+  margin-right: 12px;
+  vertical-align: middle;
+  width: 53px;
+}
+
+.bike-icon {
+  background-image: url('../images/bike.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  margin-right: 12px;
+  vertical-align: middle;
+  width: 42px;
+}
+
+.walk-icon {
+  background-image: url('../images/dude.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  margin-right: 12px;
+  vertical-align: middle;
+  width: 17px;
+}
+
+.spotify-login {
+  color: white;
+  display: inline-block;
+  font-size: 28px;
+  line-height: 36px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.spotify-login .icon {
+  background-image: url('../images/spotify.png');
+  background-size: 100% auto;
+  display: inline-block;
+  height: 33px;
+  margin-right: 12px;
+  margin-bottom: 4px;
+  vertical-align: middle;
+  width: 32px;
+}
+
+.spotify-login:hover .icon {
+  background-position-y: -33px;
+}
+
+h1 {
+  color: #f03c02;
+  font-size: 35px;
+  letter-spacing: 10px;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #f03c02;
+  margin-bottom: 0.2em;
+  margin-top: 1em;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+ul.days {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.days li {
+  list-style-type: none;
+}
