@@ -2,1648 +2,1648 @@
   {
     "venue": "azalea",
     "artist-id": "the-horrors",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "The Horrors",
     "spotify-uris": [
       "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
     ],
-    "start-time": "15:30",
-    "end-time": "16:30",
+    "start-time": 930,
+    "end-time": 990,
     "artist-popularity": 44
   },
   {
     "venue": "azalea",
     "artist-id": "tinariwen",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Tinariwen",
     "spotify-uris": [
       "spotify:artist:2sf2owtFSCvz2MLfxmNdkb"
     ],
-    "start-time": "17:30",
-    "end-time": "18:40",
+    "start-time": 1050,
+    "end-time": 1120,
     "artist-popularity": 42
   },
   {
     "venue": "azalea",
     "artist-id": "the-national",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "The National",
     "spotify-uris": [
       "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
     ],
-    "start-time": "20:00",
-    "end-time": "21:15",
+    "start-time": 1200,
+    "end-time": 1275,
     "artist-popularity": 65
   },
   {
     "venue": "dungen",
     "artist-id": "sandra-mosh",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Sandra Mosh",
     "spotify-uris": [],
-    "start-time": "15:00",
-    "end-time": "15:45",
+    "start-time": 900,
+    "end-time": 945,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "dnkl",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "DNKL",
     "spotify-uris": [],
-    "start-time": "15:45",
-    "end-time": "16:15",
+    "start-time": 945,
+    "end-time": 975,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "ulf-eriksson",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Ulf Eriksson",
     "spotify-uris": [],
-    "start-time": "16:15",
-    "end-time": "17:00",
+    "start-time": 975,
+    "end-time": 1020,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "beldina-bella-boo",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Beldina & Bella Boo",
     "spotify-uris": [],
-    "start-time": "17:00",
-    "end-time": "17:30",
+    "start-time": 1020,
+    "end-time": 1050,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "silvana-imam",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Silvana Imam",
     "spotify-uris": [
       "spotify:artist:14vNE9iqS5eGAL6OogiN8g"
     ],
-    "start-time": "17:30",
-    "end-time": "18:00",
+    "start-time": 1050,
+    "end-time": 1080,
     "artist-popularity": 24
   },
   {
     "venue": "dungen",
     "artist-id": "yung-lean",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Yung Lean & Sad Boys",
     "spotify-uris": [],
-    "start-time": "18:00",
-    "end-time": "18:30",
+    "start-time": 1080,
+    "end-time": 1110,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "mando-diao",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Mando Diao (Dj-set)",
     "spotify-uris": [
       "spotify:artist:5I4eibDkC7gg0hmczTZuND"
     ],
-    "start-time": "18:30",
-    "end-time": "19:15",
+    "start-time": 1110,
+    "end-time": 1155,
     "artist-popularity": 55
   },
   {
     "venue": "dungen",
     "artist-id": "mr-tophat-art-alfie",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Mr. Tophat & Art Alfie",
     "spotify-uris": [
       "spotify:artist:1kOFYTseUHhnkFnEwJLIgw",
       "spotify:artist:7g9ewvDvPJxRVRCofG9xRY"
     ],
-    "start-time": "19:15",
-    "end-time": "20:00",
+    "start-time": 1155,
+    "end-time": 1200,
     "artist-popularity": 1
   },
   {
     "venue": "flamingo",
     "artist-id": "markus-krunegard",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Markus Krunegård",
     "spotify-uris": [
       "spotify:artist:3P6ePaE5unCm7vjccfcBAe"
     ],
-    "start-time": "16:30",
-    "end-time": "17:25",
+    "start-time": 990,
+    "end-time": 1045,
     "artist-popularity": 45
   },
   {
     "venue": "flamingo",
     "artist-id": "motorhead",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Motörhead",
     "spotify-uris": [
       "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
     ],
-    "start-time": "18:45",
-    "end-time": "19:55",
+    "start-time": 1125,
+    "end-time": 1195,
     "artist-popularity": 65
   },
   {
     "venue": "flamingo",
     "artist-id": "queens-of-the-stone-age",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Queens of the Stone Age",
     "spotify-uris": [
       "spotify:artist:4pejUc4iciQfgdX6OKulQn"
     ],
-    "start-time": "21:20",
-    "end-time": "23:55",
+    "start-time": 1280,
+    "end-time": 1435,
     "artist-popularity": 66
   },
   {
     "venue": "linne",
     "artist-id": "polica",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Poliça",
     "spotify-uris": [
       "spotify:artist:34vLhockmYhf3LgznwyNaQ"
     ],
-    "start-time": "14:45",
-    "end-time": "15:30",
+    "start-time": 885,
+    "end-time": 930,
     "artist-popularity": 44
   },
   {
     "venue": "linne",
     "artist-id": "brody-dalle",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Brody Dalle",
     "spotify-uris": [
       "spotify:artist:2mGlvfts36oW5O7KKPzfLk"
     ],
-    "start-time": "16:15",
-    "end-time": "17:00",
+    "start-time": 975,
+    "end-time": 1020,
     "artist-popularity": 27
   },
   {
     "venue": "linne",
     "artist-id": "neneh-cherry",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Neneh Cherry w/ RocketNumberNine",
     "spotify-uris": [
       "spotify:artist:3JxCEqL9zjKnDJgUhRuRJD",
       "spotify:artist:2VqYeC6WChqo1ysASy5LG7"
     ],
-    "start-time": "17:30",
-    "end-time": "18:30",
+    "start-time": 1050,
+    "end-time": 1110,
     "artist-popularity": 48
   },
   {
     "venue": "linne",
     "artist-id": "rebecca-och-fiona",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Rebecca & Fiona",
     "spotify-uris": [
       "spotify:artist:6rgEPiKjowlMKZC1DF6W75"
     ],
-    "start-time": "19:00",
-    "end-time": "20:00",
+    "start-time": 1140,
+    "end-time": 1200,
     "artist-popularity": 53
   },
   {
     "venue": "linne",
     "artist-id": "darkside",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "DARKSIDE",
     "spotify-uris": [
       "spotify:artist:2933wDUojoQmvqSdTAE5NB"
     ],
-    "start-time": "20:30",
-    "end-time": "21:30",
+    "start-time": 1230,
+    "end-time": 1290,
     "artist-popularity": 36
   },
   {
     "venue": "linne",
     "artist-id": "joey-bada$$",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Joey Bada$$",
     "spotify-uris": [
       "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
     ],
-    "start-time": "22:00",
-    "end-time": "23:00",
+    "start-time": 1320,
+    "end-time": 1380,
     "artist-popularity": 50
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "zebra-katz",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Zebra Katz",
     "spotify-uris": [
       "spotify:artist:5Tz4zMiRWqiQVAymWZz99a"
     ],
-    "start-time": "23:30",
-    "end-time": "00:30",
+    "start-time": 1410,
+    "end-time": 1470,
     "artist-popularity": 22
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "i-am-legion",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "I Am Legion [Noisia x Foreign beggars]",
     "spotify-uris": [
       "spotify:artist:2wNMk7BiCiuO7hjGZPZYuJ",
       "spotify:artist:4YWj8sohRDjL9deiuRvEEY",
       "spotify:artist:0sQ1wgSdRpoysgsa1VnI4G"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 1470,
+    "end-time": 1530,
     "artist-popularity": 55
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "teddybears",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Teddybears",
     "spotify-uris": [
       "spotify:artist:3gqv1kgivAc92KnUm4elKv"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 1560,
+    "end-time": 1620,
     "artist-popularity": 39
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
     "artist-id": "m-wrecker",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "M. Wrecker",
     "spotify-uris": [],
-    "start-time": "22:00",
-    "end-time": "00:00",
+    "start-time": 1320,
+    "end-time": 1440,
     "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
     "artist-id": "purpurr-purple",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Purpurr Purple",
     "spotify-uris": [],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 1470,
+    "end-time": 1530,
     "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
     "artist-id": "bella-boo",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Bella Boo",
     "spotify-uris": [],
-    "start-time": "01:30",
-    "end-time": "03:00",
+    "start-time": 1530,
+    "end-time": 1620,
     "artist-popularity": 0
   },
   {
     "venue": "jazzhuset",
     "artist-id": "bo-ningen",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Bo Ningen",
     "spotify-uris": [
       "spotify:artist:7bvXpj7XZfmaZ2HOcqgY1a"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 1380,
+    "end-time": 1440,
     "artist-popularity": 10
   },
   {
     "venue": "jazzhuset",
     "artist-id": "doa",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "D.O.A",
     "spotify-uris": [
       "spotify:artist:3g92p1YpivbOqVLiYVd4Yk"
     ],
-    "start-time": "00:15",
-    "end-time": "01:15",
+    "start-time": 1455,
+    "end-time": 1515,
     "artist-popularity": 15
   },
   {
     "venue": "jazzhuset",
     "artist-id": "agent-orange",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Agent Orange",
     "spotify-uris": [
       "spotify:artist:1pBsvSnrhmgDZqisT13SFA"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 1530,
+    "end-time": 1590,
     "artist-popularity": 35
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "speedy-ortiz",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Speedy Ortiz",
     "spotify-uris": [
       "spotify:artist:6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 1380,
+    "end-time": 1440,
     "artist-popularity": 24
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "hozier",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Hozier",
     "spotify-uris": [
       "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     ],
-    "start-time": "00:15",
-    "end-time": "01:15",
+    "start-time": 1455,
+    "end-time": 1515,
     "artist-popularity": 52
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "nicole-saboune",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Nicole Sabouné",
     "spotify-uris": [
       "spotify:artist:2lPG3ptKlBdxvQ8XlH8nEk"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 1530,
+    "end-time": 1590,
     "artist-popularity": 19
   },
   {
     "venue": "nefertiti",
     "artist-id": "mendoza",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Mendoza",
     "spotify-uris": [
       "spotify:artist:27rZm9ZBp2ygQFfa8IgkxK"
     ],
-    "start-time": "23:00",
-    "end-time": "23:45",
+    "start-time": 1380,
+    "end-time": 1425,
     "artist-popularity": 22
   },
   {
     "venue": "nefertiti",
     "artist-id": "lilla-namo",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Lilla Namo",
     "spotify-uris": [
       "spotify:artist:2DsNd8GBB1y1J0XMq0nT6s"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 1530,
+    "end-time": 1590,
     "artist-popularity": 35
   },
   {
     "venue": "pustervik-lilla-scenen",
     "artist-id": "the-garden",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "The Garden",
     "spotify-uris": [
       "spotify:artist:4UVlSeEFDPmlkYKaRMRoOz"
     ],
-    "start-time": "23:45",
-    "end-time": "01:00",
+    "start-time": 1425,
+    "end-time": 1500,
     "artist-popularity": 15
   },
   {
     "venue": "pustervik-lilla-scenen",
     "artist-id": "marissa-nadler",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Marissa Nadler",
     "spotify-uris": [
       "spotify:track:684Zy1Gues4OFxDFNG2mlA"
     ],
-    "start-time": "01:15",
-    "end-time": "02:15",
+    "start-time": 1515,
+    "end-time": 1575,
     "artist-popularity": null
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "highasakite",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Highasakite",
     "spotify-uris": [
       "spotify:artist:5awQWdBpLqN2KFVRN8w56T"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 1380,
+    "end-time": 1440,
     "artist-popularity": 40
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "jonathan-wilson",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Jonathan Wilson",
     "spotify-uris": [
       "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 1470,
+    "end-time": 1530,
     "artist-popularity": 31
   },
   {
     "venue": "rondo",
     "artist-id": "amen-dunes",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Amen Dunes",
     "spotify-uris": [
       "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
     ],
-    "start-time": "22:15",
-    "end-time": "23:15",
+    "start-time": 1335,
+    "end-time": 1395,
     "artist-popularity": 21
   },
   {
     "venue": "rondo",
     "artist-id": "les-big-byrd",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Les Big Byrd",
     "spotify-uris": [
       "spotify:artist:3g2slv6elrXxGnXqy7Q2ap"
     ],
-    "start-time": "23:15",
-    "end-time": "00:15",
+    "start-time": 1395,
+    "end-time": 1455,
     "artist-popularity": 22
   },
   {
     "venue": "rondo",
     "artist-id": "mattias-alkberg",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Mattias Alkberg/Södra Sverige",
     "spotify-uris": [
       "spotify:artist:5p8AjcGi5g19fWNvC2zhqE"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 1470,
+    "end-time": 1530,
     "artist-popularity": 23
   },
   {
     "venue": "rondo",
     "artist-id": "hurula",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Hurula",
     "spotify-uris": [
       "spotify:artist:5haVwjDd8z1dsR0uQewwoP"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 1530,
+    "end-time": 1590,
     "artist-popularity": 22
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "colleagues",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Colleagues",
     "spotify-uris": [
       "spotify:artist:6tANwKMqvV8oW0b7Np1ETB"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 1380,
+    "end-time": 1440,
     "artist-popularity": 9
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "forest-swords",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Forest Swords",
     "spotify-uris": [
       "spotify:artist:2VarlUiM6Lw0SA7BvwVPRP"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 1470,
+    "end-time": 1530,
     "artist-popularity": 23
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "ison-fille",
-    "event-day": "torsdag",
+    "event-day": 0,
     "artist-name": "Ison & Fille",
     "spotify-uris": [
       "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
     ],
-    "start-time": "23:45",
-    "end-time": "00:45",
+    "start-time": 1425,
+    "end-time": 1485,
     "artist-popularity": 46
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "oskar-linnros",
-    "event-day": "torsdag",
+    "event-day": 1,
     "artist-name": "Oskar Linnros",
     "spotify-uris": [
       "spotify:artist:3E8Mx37sikkaFoX5DRecLi"
     ],
-    "start-time": "01:15",
-    "end-time": "02:15",
+    "start-time": 1515,
+    "end-time": 1575,
     "artist-popularity": 43
   },
   {
     "venue": "azalea",
     "artist-id": "clean-bandit",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Clean Bandit",
     "spotify-uris": [
       "spotify:artist:6MDME20pz9RveH9rEXvrOM"
     ],
-    "start-time": "14:00",
-    "end-time": "15:00",
+    "start-time": 2280,
+    "end-time": 2340,
     "artist-popularity": 69
   },
   {
     "venue": "azalea",
     "artist-id": "bill-callahan",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Bill Callahan",
     "spotify-uris": [
       "spotify:artist:682LyslPNQ1DIHmJIN9H1P"
     ],
-    "start-time": "16:15",
-    "end-time": "17:20",
+    "start-time": 2415,
+    "end-time": 2480,
     "artist-popularity": 27
   },
   {
     "venue": "azalea",
     "artist-id": "les-ambassadeurs",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Les Ambassadeurs",
     "spotify-uris": [
       "spotify:artist:3Mt7Zv63zztQhheSXTRa1x"
     ],
-    "start-time": "18:40",
-    "end-time": "19:40",
+    "start-time": 2560,
+    "end-time": 2620,
     "artist-popularity": 14
   },
   {
     "venue": "azalea",
     "artist-id": "icona-pop",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Icona Pop",
     "spotify-uris": [
       "spotify:artist:1VBflYyxBhnDc9uVib98rw"
     ],
-    "start-time": "21:00",
-    "end-time": "22:10",
+    "start-time": 2700,
+    "end-time": 2770,
     "artist-popularity": 71
   },
   {
     "venue": "dungen",
     "artist-id": "mirja-larsson",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Mirja Larsson",
     "spotify-uris": [],
-    "start-time": "12:00",
-    "end-time": "13:00",
+    "start-time": 2160,
+    "end-time": 2220,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "studio-barnhus",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Studio Barnhus: Axel Boman, Kornél Kovács, Petter Nordkvist",
     "spotify-uris": [
       "spotify:artist:59qo8jHDlC1i30HVjQQW3O",
       "spotify:artist:0Ij7th9uWcDVYNAIOn5W22"
     ],
-    "start-time": "13:00",
-    "end-time": "14:00",
+    "start-time": 2220,
+    "end-time": 2280,
     "artist-popularity": 37
   },
   {
     "venue": "dungen",
     "artist-id": "pional",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Pional",
     "spotify-uris": [
       "spotify:artist:49mZfy9v5oNXAxp8FadWwI"
     ],
-    "start-time": "14:00",
-    "end-time": "15:00",
+    "start-time": 2280,
+    "end-time": 2340,
     "artist-popularity": 30
   },
   {
     "venue": "dungen",
     "artist-id": "jamie-xx",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Jamie xx",
     "spotify-uris": [
       "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
     ],
-    "start-time": "15:00",
-    "end-time": "16:00",
+    "start-time": 2340,
+    "end-time": 2400,
     "artist-popularity": 38
   },
   {
     "venue": "dungen",
     "artist-id": "boska",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Boska",
     "spotify-uris": [
       "spotify:artist:4tgvbMpKddL31KuEtIjcJG"
     ],
-    "start-time": "16:00",
-    "end-time": "17:00",
+    "start-time": 2400,
+    "end-time": 2460,
     "artist-popularity": 1
   },
   {
     "venue": "flamingo",
     "artist-id": "neko-case",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Neko Case",
     "spotify-uris": [
       "spotify:artist:4Cedjq5BQL3MhapRvDpFED"
     ],
-    "start-time": "15:10",
-    "end-time": "16:10",
+    "start-time": 2350,
+    "end-time": 2410,
     "artist-popularity": 48
   },
   {
     "venue": "flamingo",
     "artist-id": "conor-oberst",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Conor Oberst",
     "spotify-uris": [
       "spotify:artist:2Z7gV3uEh1ckIaBzTUCE6R"
     ],
-    "start-time": "17:25",
-    "end-time": "18:35",
+    "start-time": 2485,
+    "end-time": 2555,
     "artist-popularity": 44
   },
   {
     "venue": "flamingo",
     "artist-id": "janelle-monae",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Janelle Monáe",
     "spotify-uris": [
       "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
     ],
-    "start-time": "19:45",
-    "end-time": "20:45",
+    "start-time": 2625,
+    "end-time": 2685,
     "artist-popularity": 58
   },
   {
     "venue": "flamingo",
     "artist-id": "outkast",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "OutKast",
     "spotify-uris": [
       "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
     ],
-    "start-time": "22:10",
-    "end-time": "00:00",
+    "start-time": 2770,
+    "end-time": 2880,
     "artist-popularity": 72
   },
   {
     "venue": "linne",
     "artist-id": "Sharon-Van-Etten",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Sharon Van Etten",
     "spotify-uris": [
       "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
     ],
-    "start-time": "13:00",
-    "end-time": "13:50",
+    "start-time": 2220,
+    "end-time": 2270,
     "artist-popularity": 51
   },
   {
     "venue": "linne",
     "artist-id": "mo",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "MØ",
     "spotify-uris": [
       "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
     ],
-    "start-time": "14:45",
-    "end-time": "15:30",
+    "start-time": 2325,
+    "end-time": 2370,
     "artist-popularity": 55
   },
   {
     "venue": "linne",
     "artist-id": "blood-orange",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Blood Orange",
     "spotify-uris": [
       "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
     ],
-    "start-time": "16:15",
-    "end-time": "17:00",
+    "start-time": 2415,
+    "end-time": 2460,
     "artist-popularity": 48
   },
   {
     "venue": "linne",
     "artist-id": "mapei",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Mapei",
     "spotify-uris": [
       "spotify:artist:6baWjwY7WiVPCZcW7pqqhz"
     ],
-    "start-time": "17:45",
-    "end-time": "18:30",
+    "start-time": 2505,
+    "end-time": 2550,
     "artist-popularity": 49
   },
   {
     "venue": "linne",
     "artist-id": "future",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Future",
     "spotify-uris": [
       "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
     ],
-    "start-time": "19:30",
-    "end-time": "20:30",
+    "start-time": 2610,
+    "end-time": 2670,
     "artist-popularity": 77
   },
   {
     "venue": "linne",
     "artist-id": "little-dragon",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Little Dragon",
     "spotify-uris": [
       "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
     ],
-    "start-time": "21:10",
-    "end-time": "22:10",
+    "start-time": 2710,
+    "end-time": 2770,
     "artist-popularity": 64
   },
   {
     "venue": "linne",
     "artist-id": "slowdive",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Slowdive",
     "spotify-uris": [
       "spotify:artist:72X6FHxaShda0XeQw3vbeF"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 2820,
+    "end-time": 2880,
     "artist-popularity": 36
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
     "artist-id": "josefin-ohrn",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Josefin Öhrn & The Liberation",
     "spotify-uris": [
       "spotify:artist:6ExOR6M5umZFfNgXfjPcex"
     ],
-    "start-time": "23:45",
-    "end-time": "00:45",
+    "start-time": 2865,
+    "end-time": 2925,
     "artist-popularity": 3
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
     "artist-id": "mutual-benefit",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Mutual Benefit",
     "spotify-uris": [
       "spotify:artist:0AUwa5xmiy57qdGlOksvea"
     ],
-    "start-time": "01:15",
-    "end-time": "02:15",
+    "start-time": 2955,
+    "end-time": 3015,
     "artist-popularity": 25
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
     "artist-id": "broken-twin",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Broken Twin",
     "spotify-uris": [
       "spotify:artist:4Y1f57EtKq7YF6DfftpopX"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 2910,
+    "end-time": 2970,
     "artist-popularity": 17
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
     "artist-id": "kurt-vile",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Kurt Vile & The Violators",
     "spotify-uris": [
       "spotify:artist:5gspAQIAH8nJUrMYgXjCJ2",
       "spotify:artist:01DgWnCXQI2ZsQBDoPsKXM"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 3000,
+    "end-time": 3060,
     "artist-popularity": 46
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "1987",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "1987",
     "spotify-uris": [
       "spotify:artist:1RTAxeIlQqWBYZoJVHJJvQ"
     ],
-    "start-time": "00:00",
-    "end-time": "01:00",
+    "start-time": 2880,
+    "end-time": 2940,
     "artist-popularity": 13
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "i-break-horses",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "I Break Horses",
     "spotify-uris": [
       "spotify:artist:1H58rS29XotmFJWT3KCnl0"
     ],
-    "start-time": "01:00",
-    "end-time": "02:00",
+    "start-time": 2940,
+    "end-time": 3000,
     "artist-popularity": 26
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "machinedrum",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Machinedrum (DJ Set)",
     "spotify-uris": [
       "spotify:artist:06xa1OLBsMQJFXcl2tQkH4"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 3000,
+    "end-time": 3060,
     "artist-popularity": 37
   },
   {
     "venue": "jazzhuset",
     "artist-id": "mankind",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Mankind",
     "spotify-uris": [
       "spotify:artist:16ejaMBecQr5J0yvDbN1A7"
     ],
-    "start-time": "00:45",
-    "end-time": "01:45",
+    "start-time": 2925,
+    "end-time": 2985,
     "artist-popularity": 1
   },
   {
     "venue": "jazzhuset",
     "artist-id": "satan-takes-a-holiday",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Satan Takes a Holiday",
     "spotify-uris": [
       "spotify:artist:3BZBnC18MJDRtneF9r7Qx7"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 3000,
+    "end-time": 3060,
     "artist-popularity": 12
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "glowlers",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "The Growlers",
     "spotify-uris": [
       "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
     ],
-    "start-time": "23:45",
-    "end-time": "01:00",
+    "start-time": 2865,
+    "end-time": 2940,
     "artist-popularity": 37
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "royal-blood",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Royal Blood",
     "spotify-uris": [
       "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
     ],
-    "start-time": "01:00",
-    "end-time": "02:00",
+    "start-time": 2940,
+    "end-time": 3000,
     "artist-popularity": 28
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "mac-demarco",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Mac DeMarco",
     "spotify-uris": [
       "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 3000,
+    "end-time": 3060,
     "artist-popularity": 46
   },
   {
     "venue": "nefertiti",
     "artist-id": "hessle-audio",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Hessle Audio Label Night: Pearson Sound, Ben UFO, Pangaea",
     "spotify-uris": [
       "spotify:artist:3lN70MoiO9u6b95CsTeB1J"
     ],
-    "start-time": "23:00",
-    "end-time": "02:30",
+    "start-time": 2820,
+    "end-time": 3030,
     "artist-popularity": 1
   },
   {
     "venue": "pustervik-lilla-scenen",
     "artist-id": "lee-bains-III",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Lee Bains III & The Glory Fires",
     "spotify-uris": [
       "spotify:artist:1oTNCl6SRphYGb9NQ0toVE"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 2910,
+    "end-time": 2970,
     "artist-popularity": 12
   },
   {
     "venue": "pustervik-lilla-scenen",
     "artist-id": "rose-windows",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Rose Windows",
     "spotify-uris": [
       "spotify:artist:6G0lSlHIhV5EmNzvCPtwys"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 3000,
+    "end-time": 3060,
     "artist-popularity": 7
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "invsn",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "INVSN",
     "spotify-uris": [
       "spotify:artist:0QT3ZWrppXpw96ZbC2LcSl"
     ],
-    "start-time": "00:00",
-    "end-time": "01:00",
+    "start-time": 2880,
+    "end-time": 2940,
     "artist-popularity": 20
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "metz",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Metz",
     "spotify-uris": [
       "spotify:artist:18TNVFTJ6WfeicsMRrdJHI"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 2970,
+    "end-time": 3030,
     "artist-popularity": 20
   },
   {
     "venue": "rondo",
     "artist-id": "yumi-zouma",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Yumi Zouma",
     "spotify-uris": [
       "spotify:artist:4tPyCwWrsvZ8OKYl7QRavL"
     ],
-    "start-time": "23:30",
-    "end-time": "01:30",
+    "start-time": 2850,
+    "end-time": 2970,
     "artist-popularity": 12
   },
   {
     "venue": "rondo",
     "artist-id": "naomi-pilgrim",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Naomi Pilgrim",
     "spotify-uris": [
       "spotify:artist:5QpXKWRjxAVZlmn5trAa16"
     ],
-    "start-time": "00:45",
-    "end-time": "01:45",
+    "start-time": 2925,
+    "end-time": 2985,
     "artist-popularity": 25
   },
   {
     "venue": "rondo",
     "artist-id": "how-to-dress-well",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "How To Dress Well",
     "spotify-uris": [
       "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"
     ],
-    "start-time": "01:45",
-    "end-time": "02:45",
+    "start-time": 2985,
+    "end-time": 3045,
     "artist-popularity": 52
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "samantha-crain",
-    "event-day": "fredag",
+    "event-day": 1,
     "artist-name": "Samantha Crain",
     "spotify-uris": [
       "spotify:artist:5dpLK5cD7FwWyDKv4qbodS"
     ],
-    "start-time": "23:30",
-    "end-time": "01:30",
+    "start-time": 2850,
+    "end-time": 2970,
     "artist-popularity": 23
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "sumie",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Sumie",
     "spotify-uris": [
       "spotify:artist:1oEHAWdn0GWyRaL8JGOlan"
     ],
-    "start-time": "01:00",
-    "end-time": "02:00",
+    "start-time": 2940,
+    "end-time": 3000,
     "artist-popularity": 18
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "St-Lucia",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "St Lucia",
     "spotify-uris": [
       "spotify:artist:5WId4o5jdGVhptNU0uqKxu"
     ],
-    "start-time": "00:15",
-    "end-time": "01:15",
+    "start-time": 2895,
+    "end-time": 2955,
     "artist-popularity": 53
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "jungle",
-    "event-day": "fredag",
+    "event-day": 2,
     "artist-name": "Jungle",
     "spotify-uris": [
       "spotify:artist:59oA5WbbQvomJz2BuRG071"
     ],
-    "start-time": "01:45",
-    "end-time": "02:45",
+    "start-time": 2985,
+    "end-time": 3045,
     "artist-popularity": 40
   },
   {
     "venue": "azalea",
     "artist-id": "mark-ernestus-presents-jeri-jeri",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Mark Ernestus presents Jeri-Jeri",
     "spotify-uris": [
       "spotify:artist:4PJXLZh1FKCCiNlGy8vrel",
       "spotify:artist:2bWestatk0Cn1YeUG8PZhp"
     ],
-    "start-time": "14:00",
-    "end-time": "15:00",
+    "start-time": 3720,
+    "end-time": 3780,
     "artist-popularity": 4
   },
   {
     "venue": "azalea",
     "artist-id": "linda-pira-ladies-first",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Linda Pira – Ladies First",
     "spotify-uris": [
       "spotify:artist:0qeei9KQnptjwb8MgkqEoy"
     ],
-    "start-time": "16:10",
-    "end-time": "17:10",
+    "start-time": 3850,
+    "end-time": 3910,
     "artist-popularity": 42
   },
   {
     "venue": "azalea",
     "artist-id": "neutral-milk-hotel",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Neutral Milk Hotel",
     "spotify-uris": [
       "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
     ],
-    "start-time": "18:20",
-    "end-time": "19:25",
+    "start-time": 3980,
+    "end-time": 4045,
     "artist-popularity": 40
   },
   {
     "venue": "azalea",
     "artist-id": "mos-def",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Yasiin Bey aka Mos Def",
     "spotify-uris": [
       "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
     ],
-    "start-time": "20:40",
-    "end-time": "21:40",
+    "start-time": 4120,
+    "end-time": 4180,
     "artist-popularity": 66
   },
   {
     "venue": "dungen",
     "artist-id": "julius-sylvest",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Julius Sylvest",
     "spotify-uris": [
       "spotify:artist:533nJfX56F25FOytbE46tU"
     ],
-    "start-time": "12:00",
-    "end-time": "13:00",
+    "start-time": 3600,
+    "end-time": 3660,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "mai-nestor",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Mai Nestor",
     "spotify-uris": [
       "spotify:artist:4skVMdBBN0FyFIYAKiZlKX"
     ],
-    "start-time": "13:00",
-    "end-time": "14:00",
+    "start-time": 3660,
+    "end-time": 3720,
     "artist-popularity": 0
   },
   {
     "venue": "dungen",
     "artist-id": "planningtorock",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Planningtorock",
     "spotify-uris": [
       "spotify:artist:7qHOphlWaJrfFa0BqpayDG"
     ],
-    "start-time": "14:00",
-    "end-time": "15:00",
+    "start-time": 3720,
+    "end-time": 3780,
     "artist-popularity": 25
   },
   {
     "venue": "dungen",
     "artist-id": "jaakko-eino-kalevi",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Jaakko Eino Kalevi",
     "spotify-uris": [
       "spotify:artist:20o7mwLphfnviZKGPw1gi3"
     ],
-    "start-time": "15:00",
-    "end-time": "16:00",
+    "start-time": 3780,
+    "end-time": 3840,
     "artist-popularity": 23
   },
   {
     "venue": "dungen",
     "artist-id": "harald-bjork",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Harald Björk",
     "spotify-uris": [
       "spotify:artist:2VvFUDg4FDXzEQkQdgWz9h"
     ],
-    "start-time": "16:00",
-    "end-time": "17:00",
+    "start-time": 3840,
+    "end-time": 3900,
     "artist-popularity": 3
   },
   {
     "venue": "flamingo",
     "artist-id": "seasick-steve",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Seasick Steve",
     "spotify-uris": [
       "spotify:artist:6OVkHZQP8QoBYqr1ejCGDv"
     ],
-    "start-time": "15:00",
-    "end-time": "16:00",
+    "start-time": 3780,
+    "end-time": 3840,
     "artist-popularity": 44
   },
   {
     "venue": "flamingo",
     "artist-id": "veronica-maggio",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Veronica Maggio",
     "spotify-uris": [
       "spotify:artist:2OIWxN9xUhgUHkeUCWCaNs"
     ],
-    "start-time": "19:30",
-    "end-time": "20:40",
+    "start-time": 4050,
+    "end-time": 4120,
     "artist-popularity": 60
   },
   {
     "venue": "flamingo",
     "artist-id": "royksopp-robyn",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Röyksopp & Robyn",
     "spotify-uris": [
       "spotify:artist:5nPOO9iTcrs9k6yFffPxjH",
       "spotify:artist:7eGM3URjZqSVLzIdj9KPK4",
       "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
     ],
-    "start-time": "21:50",
-    "end-time": "23:55",
+    "start-time": 4190,
+    "end-time": 4315,
     "artist-popularity": 72
   },
   {
     "venue": "linne",
     "artist-id": "deafheaven",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Deafheaven",
     "spotify-uris": [
       "spotify:artist:4XpPveeg7RuYS3CgLo75t9"
     ],
-    "start-time": "13:00",
-    "end-time": "14:00",
+    "start-time": 3660,
+    "end-time": 3720,
     "artist-popularity": 22
   },
   {
     "venue": "linne",
     "artist-id": "slint",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Slint",
     "spotify-uris": [
       "spotify:artist:4IwOItqRhsIoRuD5HP4vyC"
     ],
-    "start-time": "15:00",
-    "end-time": "16:00",
+    "start-time": 3780,
+    "end-time": 3840,
     "artist-popularity": 21
   },
   {
     "venue": "linne",
     "artist-id": "elliphant",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Elliphant",
     "spotify-uris": [
       "spotify:artist:134GdR5tUtxJrf8cpsfpyY"
     ],
-    "start-time": "17:15",
-    "end-time": "18:15",
+    "start-time": 3915,
+    "end-time": 3975,
     "artist-popularity": 37
   },
   {
     "venue": "linne",
     "artist-id": "jenny-wilson",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Jenny Wilson",
     "spotify-uris": [
       "spotify:artist:3axEmcxTibioxD1rZi1IOB"
     ],
-    "start-time": "19:00",
-    "end-time": "20:00",
+    "start-time": 4020,
+    "end-time": 4080,
     "artist-popularity": 35
   },
   {
     "venue": "linne",
     "artist-id": "annika-norlin",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Annika Norlin",
     "spotify-uris": [
       "spotify:artist:5BEuyZUof5F3Nu9pjcWwD1"
     ],
-    "start-time": "20:40",
-    "end-time": "21:50",
+    "start-time": 4120,
+    "end-time": 4190,
     "artist-popularity": 6
   },
   {
     "venue": "linne",
     "artist-id": "pusha-t",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Pusha T",
     "spotify-uris": [
       "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
     ],
-    "start-time": "23:00",
-    "end-time": "00:00",
+    "start-time": 4260,
+    "end-time": 4320,
     "artist-popularity": 76
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
     "artist-id": "ry-x",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Ry X",
     "spotify-uris": [
       "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
     ],
-    "start-time": "00:15",
-    "end-time": "02:15",
+    "start-time": 4335,
+    "end-time": 4455,
     "artist-popularity": 34
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
     "artist-id": "holly-herndon",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Holly Herndon",
     "spotify-uris": [
       "spotify:artist:2c9yn5DJQd5es7YMY92ikZ"
     ],
-    "start-time": "01:45",
-    "end-time": "02:45",
+    "start-time": 4425,
+    "end-time": 4485,
     "artist-popularity": 0
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
     "artist-id": "nils-frahm",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Nils Frahm",
     "spotify-uris": [
       "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
     ],
-    "start-time": "23:30",
-    "end-time": "01:00",
+    "start-time": 4290,
+    "end-time": 4380,
     "artist-popularity": 47
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
     "artist-id": "daniel-hope",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Re:composed av Max Richter, framförd av Daniel Hope & GSO",
     "spotify-uris": [
       "spotify:artist:2VZNmg4vCnew4Pavo8zDdW",
       "spotify:artist:59r5UU2HOytn9V5uMZ5Vur"
     ],
-    "start-time": "01:00",
-    "end-time": "02:00",
+    "start-time": 4380,
+    "end-time": 4440,
     "artist-popularity": 56
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "marlene",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Marlene",
     "spotify-uris": [
       "spotify:artist:0pAV5GaO9ak8wk1NnF37Cl"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 4350,
+    "end-time": 4410,
     "artist-popularity": 30
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "zhala",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Zhala",
     "spotify-uris": [
       "spotify:artist:2vI70V5Tc6jB3d2uzb2UEA"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 4410,
+    "end-time": 4470,
     "artist-popularity": 9
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
     "artist-id": "seinabo-sey",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Seinabo Sey",
     "spotify-uris": [
       "spotify:artist:4X0v8sFoDZ6rIfkeOeVm2i"
     ],
-    "start-time": "02:30",
-    "end-time": "03:30",
+    "start-time": 4470,
+    "end-time": 4530,
     "artist-popularity": 56
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
     "artist-id": "amie-cassandra",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Amie & Cassandra",
     "spotify-uris": [],
-    "start-time": "00:30",
-    "end-time": "02:00",
+    "start-time": 4350,
+    "end-time": 4440,
     "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
     "artist-id": "berserk",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Berserk",
     "spotify-uris": [],
-    "start-time": "02:00",
-    "end-time": "04:00",
+    "start-time": 4440,
+    "end-time": 4560,
     "artist-popularity": 0
   },
   {
     "venue": "jazzhuset",
     "artist-id": "vulkano",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Vulkano",
     "spotify-uris": [
       "spotify:artist:2S4n5c3lzji3iJcUxV4cIX"
     ],
-    "start-time": "23:30",
-    "end-time": "00:30",
+    "start-time": 4290,
+    "end-time": 4350,
     "artist-popularity": 8
   },
   {
     "venue": "jazzhuset",
     "artist-id": "circa-waves",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Circa Waves",
     "spotify-uris": [
       "spotify:artist:6hl5k4gLl1p3sjhHcb57t2"
     ],
-    "start-time": "00:45",
-    "end-time": "01:45",
+    "start-time": 4365,
+    "end-time": 4425,
     "artist-popularity": 27
   },
   {
     "venue": "jazzhuset",
     "artist-id": "holograms",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Holograms",
     "spotify-uris": [
       "spotify:artist:5cRFFVu55n63SFAByWg112"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 4440,
+    "end-time": 4500,
     "artist-popularity": 10
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "femtastic-sound",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Femtastic Sound",
     "spotify-uris": [
       "spotify:artist:6SOCt3ro1bHvjDxcE7UCH9",
       "spotify:artist:2M9IqVwUrFZktWx0MO3Tsd",
       "spotify:artist:1eFBWrAF8Vu18ey4zdRqIA"
     ],
-    "start-time": "00:00",
-    "end-time": "01:00",
+    "start-time": 4320,
+    "end-time": 4380,
     "artist-popularity": 24
   },
   {
     "venue": "liseberg-polketten",
     "artist-id": "cleo-kristin-amparo",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Cleo, Kristin Amparo & Broke 'n Tipsy",
     "spotify-uris": [
       "spotify:artist:1Uwxr18BU3oKllK1ipkEef",
       "spotify:artist:2vxWDuk2inw00eo3Hag2QR"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 4440,
+    "end-time": 4500,
     "artist-popularity": 56
   },
   {
     "venue": "nefertiti",
     "artist-id": "john-wizards",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "John Wizards",
     "spotify-uris": [
       "spotify:artist:4sPLhyVBoVtdlX0MaetdVK"
     ],
-    "start-time": "23:30",
-    "end-time": "01:30",
+    "start-time": 4290,
+    "end-time": 4410,
     "artist-popularity": 12
   },
   {
     "venue": "nefertiti",
     "artist-id": "cristian-dinamarca",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Cristian Dinamarca",
     "spotify-uris": [
       "spotify:artist:6wAIR0sfzXRdiDBu65qSpp"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 4350,
+    "end-time": 4410,
     "artist-popularity": 1
   },
   {
     "venue": "nefertiti",
     "artist-id": "kelela",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Kelela",
     "spotify-uris": [
       "spotify:artist:1U0sIzpRtDkvu1hXXzxh60"
     ],
-    "start-time": "01:30",
-    "end-time": "02:30",
+    "start-time": 4410,
+    "end-time": 4470,
     "artist-popularity": 32
   },
   {
     "venue": "nefertiti",
     "artist-id": "nguzunguzu",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "NGUZUNGUZU",
     "spotify-uris": [
       "spotify:artist:5wJl2eFe6LqoSHSlk73vRr"
     ],
-    "start-time": "02:30",
-    "end-time": "03:30",
+    "start-time": 4470,
+    "end-time": 4530,
     "artist-popularity": 18
   },
   {
     "venue": "pustervik-lilla-scenen",
     "artist-id": "alice-boman",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Alice Boman",
     "spotify-uris": [
       "spotify:artist:3WiytRnvoL0kT3oAGl9TCt"
     ],
-    "start-time": "00:30",
-    "end-time": "01:30",
+    "start-time": 4350,
+    "end-time": 4410,
     "artist-popularity": 29
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "mighty-oaks",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Mighty Oaks",
     "spotify-uris": [
       "spotify:artist:5AVJt6VYXT4hMRP8D3MRAC"
     ],
-    "start-time": "23:45",
-    "end-time": "00:45",
+    "start-time": 4305,
+    "end-time": 4365,
     "artist-popularity": 41
   },
   {
     "venue": "pustervik-stora-scenen",
     "artist-id": "real-estate",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Real Estate",
     "spotify-uris": [
       "spotify:artist:41SQP16hv1TioVYqdckmxT"
     ],
-    "start-time": "01:15",
-    "end-time": "02:15",
+    "start-time": 4395,
+    "end-time": 4455,
     "artist-popularity": 53
   },
   {
     "venue": "rondo",
     "artist-id": "christopher-sander",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Christopher Sander",
     "spotify-uris": [
       "spotify:artist:0LguImbYE4ZsVaSTJAB7YT"
     ],
-    "start-time": "23:30",
-    "end-time": "00:30",
+    "start-time": 4290,
+    "end-time": 4350,
     "artist-popularity": 11
   },
   {
     "venue": "rondo",
     "artist-id": "emilie-nicolas ",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Emilie Nicolas",
     "spotify-uris": [
       "spotify:artist:4cXE1g28uYrIaUisUx5cJt"
     ],
-    "start-time": "00:45",
-    "end-time": "01:45",
+    "start-time": 4365,
+    "end-time": 4425,
     "artist-popularity": 18
   },
   {
     "venue": "rondo",
     "artist-id": "anders-wendin",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Anders Wendin",
     "spotify-uris": [
       "spotify:artist:3PDQFW0WKHjKs6gY2b2rFJ"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 4440,
+    "end-time": 4500,
     "artist-popularity": 15
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "beatrice-eli",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Beatrice Eli",
     "spotify-uris": [
       "spotify:artist:1lzoEy8yiIBiHOuaO4h5Wj"
     ],
-    "start-time": "00:00",
-    "end-time": "01:00",
+    "start-time": 4320,
+    "end-time": 4380,
     "artist-popularity": 29
   },
   {
     "venue": "tradgarn-lilla-scen",
     "artist-id": "dante",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Dante",
     "spotify-uris": [
       "spotify:artist:6pLczwiw7MRvvstnzGrp7A"
     ],
-    "start-time": "01:15",
-    "end-time": "02:15",
+    "start-time": 4395,
+    "end-time": 4455,
     "artist-popularity": 28
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "chloe-martini",
-    "event-day": "lördag",
+    "event-day": 2,
     "artist-name": "Chloe Martini",
     "spotify-uris": [
       "spotify:artist:6vhgsnZ2dLDaLDog3pqP2d"
     ],
-    "start-time": "23:30",
-    "end-time": "00:30",
+    "start-time": 4290,
+    "end-time": 4350,
     "artist-popularity": 0
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "shlohmo",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Shlohmo",
     "spotify-uris": [
       "spotify:artist:6y80I9YZi4DOpbaSUlL725"
     ],
-    "start-time": "00:45",
-    "end-time": "01:45",
+    "start-time": 4365,
+    "end-time": 4425,
     "artist-popularity": 34
   },
   {
     "venue": "tradgarn-stora-scen",
     "artist-id": "lorentz",
-    "event-day": "lördag",
+    "event-day": 3,
     "artist-name": "Lorentz",
     "spotify-uris": [
       "spotify:artist:2QDnY1LY2mnzeeKGZLHoc7"
     ],
-    "start-time": "02:00",
-    "end-time": "03:00",
+    "start-time": 4440,
+    "end-time": 4500,
     "artist-popularity": 26
   },
   {
     "venue": "nefertiti",
     "artist-id": "katie-got-bandz",
-    "event-day": "onsdag",
+    "event-day": 0,
     "artist-name": "Katie Got Bandz",
     "spotify-uris": [
       "spotify:artist:48ObYO3GM7R76nRcfyvnM9"
     ],
-    "start-time": "00:15",
-    "end-time": "01:15",
+    "start-time": 15,
+    "end-time": 75,
     "artist-popularity": 13
   }
 ]
