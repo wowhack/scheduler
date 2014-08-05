@@ -48,7 +48,7 @@ function distance(a, b) {
 	else return 1;
 }
 
-function x(time, where) {
+function bestWeightAtTimeAndPlace(time, where) {
   // return maximum weightsum that can be obtained by concerts finishing before time
   var ret = 0;
   var now = -1;
@@ -72,7 +72,7 @@ function findOptimalSchedule() {
 
   for(var now in concerts){
     var where = concerts[now]['venue'];
-    var y = x(concerts[now]['start-time'], where);
+    var y = bestWeightAtTimeAndPlace(concerts[now]['start-time'], where);
     var p = {
       'begin': concerts[now]['start-time'],
       'end': concerts[now]['end-time'],
