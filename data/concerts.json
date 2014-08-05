@@ -8,7 +8,8 @@
       "spotify:artist:7EFB09NxZrMi9pGlOnuBpd"
     ],
     "start-time": "15:30",
-    "end-time": "16:30"
+    "end-time": "16:30",
+    "artist-popularity": 44
   },
   {
     "venue": "azalea",
@@ -19,7 +20,8 @@
       "spotify:artist:2sf2owtFSCvz2MLfxmNdkb"
     ],
     "start-time": "17:30",
-    "end-time": "18:40"
+    "end-time": "18:40",
+    "artist-popularity": 42
   },
   {
     "venue": "azalea",
@@ -30,7 +32,8 @@
       "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
     ],
     "start-time": "20:00",
-    "end-time": "21:15"
+    "end-time": "21:15",
+    "artist-popularity": 65
   },
   {
     "venue": "dungen",
@@ -39,7 +42,8 @@
     "artist-name": "Sandra Mosh",
     "spotify-uris": [],
     "start-time": "15:00",
-    "end-time": "15:45"
+    "end-time": "15:45",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -48,7 +52,8 @@
     "artist-name": "DNKL",
     "spotify-uris": [],
     "start-time": "15:45",
-    "end-time": "16:15"
+    "end-time": "16:15",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -57,7 +62,8 @@
     "artist-name": "Ulf Eriksson",
     "spotify-uris": [],
     "start-time": "16:15",
-    "end-time": "17:00"
+    "end-time": "17:00",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -66,7 +72,8 @@
     "artist-name": "Beldina & Bella Boo",
     "spotify-uris": [],
     "start-time": "17:00",
-    "end-time": "17:30"
+    "end-time": "17:30",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -77,7 +84,8 @@
       "spotify:artist:14vNE9iqS5eGAL6OogiN8g"
     ],
     "start-time": "17:30",
-    "end-time": "18:00"
+    "end-time": "18:00",
+    "artist-popularity": 24
   },
   {
     "venue": "dungen",
@@ -86,7 +94,8 @@
     "artist-name": "Yung Lean & Sad Boys",
     "spotify-uris": [],
     "start-time": "18:00",
-    "end-time": "18:30"
+    "end-time": "18:30",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -97,7 +106,8 @@
       "spotify:artist:5I4eibDkC7gg0hmczTZuND"
     ],
     "start-time": "18:30",
-    "end-time": "19:15"
+    "end-time": "19:15",
+    "artist-popularity": 55
   },
   {
     "venue": "dungen",
@@ -109,7 +119,8 @@
       "spotify:artist:7g9ewvDvPJxRVRCofG9xRY"
     ],
     "start-time": "19:15",
-    "end-time": "20:00"
+    "end-time": "20:00",
+    "artist-popularity": 1
   },
   {
     "venue": "flamingo",
@@ -120,7 +131,8 @@
       "spotify:artist:3P6ePaE5unCm7vjccfcBAe"
     ],
     "start-time": "16:30",
-    "end-time": "17:25"
+    "end-time": "17:25",
+    "artist-popularity": 45
   },
   {
     "venue": "flamingo",
@@ -131,7 +143,8 @@
       "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
     ],
     "start-time": "18:45",
-    "end-time": "19:55"
+    "end-time": "19:55",
+    "artist-popularity": 65
   },
   {
     "venue": "flamingo",
@@ -142,7 +155,8 @@
       "spotify:artist:4pejUc4iciQfgdX6OKulQn"
     ],
     "start-time": "21:20",
-    "end-time": "23:55"
+    "end-time": "23:55",
+    "artist-popularity": 66
   },
   {
     "venue": "linne",
@@ -153,7 +167,8 @@
       "spotify:artist:34vLhockmYhf3LgznwyNaQ"
     ],
     "start-time": "14:45",
-    "end-time": "15:30"
+    "end-time": "15:30",
+    "artist-popularity": 44
   },
   {
     "venue": "linne",
@@ -164,7 +179,8 @@
       "spotify:artist:2mGlvfts36oW5O7KKPzfLk"
     ],
     "start-time": "16:15",
-    "end-time": "17:00"
+    "end-time": "17:00",
+    "artist-popularity": 27
   },
   {
     "venue": "linne",
@@ -176,7 +192,8 @@
       "spotify:artist:2VqYeC6WChqo1ysASy5LG7"
     ],
     "start-time": "17:30",
-    "end-time": "18:30"
+    "end-time": "18:30",
+    "artist-popularity": 48
   },
   {
     "venue": "linne",
@@ -187,7 +204,8 @@
       "spotify:artist:6rgEPiKjowlMKZC1DF6W75"
     ],
     "start-time": "19:00",
-    "end-time": "20:00"
+    "end-time": "20:00",
+    "artist-popularity": 53
   },
   {
     "venue": "linne",
@@ -198,7 +216,8 @@
       "spotify:artist:2933wDUojoQmvqSdTAE5NB"
     ],
     "start-time": "20:30",
-    "end-time": "21:30"
+    "end-time": "21:30",
+    "artist-popularity": 36
   },
   {
     "venue": "linne",
@@ -209,7 +228,8 @@
       "spotify:artist:2P5sC9cVZDToPxyomzF1UH"
     ],
     "start-time": "22:00",
-    "end-time": "23:00"
+    "end-time": "23:00",
+    "artist-popularity": 50
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -220,7 +240,8 @@
       "spotify:artist:5Tz4zMiRWqiQVAymWZz99a"
     ],
     "start-time": "23:30",
-    "end-time": "00:30"
+    "end-time": "00:30",
+    "artist-popularity": 22
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -233,7 +254,8 @@
       "spotify:artist:0sQ1wgSdRpoysgsa1VnI4G"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 55
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -244,7 +266,8 @@
       "spotify:artist:3gqv1kgivAc92KnUm4elKv"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 39
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -253,7 +276,8 @@
     "artist-name": "M. Wrecker",
     "spotify-uris": [],
     "start-time": "22:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -262,7 +286,8 @@
     "artist-name": "Purpurr Purple",
     "spotify-uris": [],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -271,7 +296,8 @@
     "artist-name": "Bella Boo",
     "spotify-uris": [],
     "start-time": "01:30",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 0
   },
   {
     "venue": "jazzhuset",
@@ -282,7 +308,8 @@
       "spotify:artist:7bvXpj7XZfmaZ2HOcqgY1a"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 10
   },
   {
     "venue": "jazzhuset",
@@ -293,7 +320,8 @@
       "spotify:artist:3g92p1YpivbOqVLiYVd4Yk"
     ],
     "start-time": "00:15",
-    "end-time": "01:15"
+    "end-time": "01:15",
+    "artist-popularity": 15
   },
   {
     "venue": "jazzhuset",
@@ -304,7 +332,8 @@
       "spotify:artist:1pBsvSnrhmgDZqisT13SFA"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 35
   },
   {
     "venue": "liseberg-polketten",
@@ -315,7 +344,8 @@
       "spotify:artist:6YHfq8Pg3lZPo1u0PaQ8ob"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 24
   },
   {
     "venue": "liseberg-polketten",
@@ -326,7 +356,8 @@
       "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     ],
     "start-time": "00:15",
-    "end-time": "01:15"
+    "end-time": "01:15",
+    "artist-popularity": 52
   },
   {
     "venue": "liseberg-polketten",
@@ -337,7 +368,8 @@
       "spotify:artist:2lPG3ptKlBdxvQ8XlH8nEk"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 19
   },
   {
     "venue": "nefertiti",
@@ -348,7 +380,8 @@
       "spotify:artist:27rZm9ZBp2ygQFfa8IgkxK"
     ],
     "start-time": "23:00",
-    "end-time": "23:45"
+    "end-time": "23:45",
+    "artist-popularity": 22
   },
   {
     "venue": "nefertiti",
@@ -359,7 +392,8 @@
       "spotify:artist:2DsNd8GBB1y1J0XMq0nT6s"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 35
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -370,7 +404,8 @@
       "spotify:artist:4UVlSeEFDPmlkYKaRMRoOz"
     ],
     "start-time": "23:45",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 15
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -381,7 +416,8 @@
       "spotify:track:684Zy1Gues4OFxDFNG2mlA"
     ],
     "start-time": "01:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": null
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -392,7 +428,8 @@
       "spotify:artist:5awQWdBpLqN2KFVRN8w56T"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 40
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -403,7 +440,8 @@
       "spotify:artist:6KJIIOCWsWtNc7ICINtPEw"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 31
   },
   {
     "venue": "rondo",
@@ -414,7 +452,8 @@
       "spotify:artist:1jwOuEBcOKq0BeudSarbEM"
     ],
     "start-time": "22:15",
-    "end-time": "23:15"
+    "end-time": "23:15",
+    "artist-popularity": 21
   },
   {
     "venue": "rondo",
@@ -425,7 +464,8 @@
       "spotify:artist:3g2slv6elrXxGnXqy7Q2ap"
     ],
     "start-time": "23:15",
-    "end-time": "00:15"
+    "end-time": "00:15",
+    "artist-popularity": 22
   },
   {
     "venue": "rondo",
@@ -436,7 +476,8 @@
       "spotify:artist:5p8AjcGi5g19fWNvC2zhqE"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 23
   },
   {
     "venue": "rondo",
@@ -447,7 +488,8 @@
       "spotify:artist:5haVwjDd8z1dsR0uQewwoP"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 22
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -458,7 +500,8 @@
       "spotify:artist:6tANwKMqvV8oW0b7Np1ETB"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 9
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -469,7 +512,8 @@
       "spotify:artist:2VarlUiM6Lw0SA7BvwVPRP"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 23
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -480,7 +524,8 @@
       "spotify:artist:1fhvwCr1HKEZgZYOrfsHyk"
     ],
     "start-time": "23:45",
-    "end-time": "00:45"
+    "end-time": "00:45",
+    "artist-popularity": 46
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -491,7 +536,8 @@
       "spotify:artist:3E8Mx37sikkaFoX5DRecLi"
     ],
     "start-time": "01:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": 43
   },
   {
     "venue": "azalea",
@@ -502,7 +548,8 @@
       "spotify:artist:6MDME20pz9RveH9rEXvrOM"
     ],
     "start-time": "14:00",
-    "end-time": "15:00"
+    "end-time": "15:00",
+    "artist-popularity": 69
   },
   {
     "venue": "azalea",
@@ -513,7 +560,8 @@
       "spotify:artist:682LyslPNQ1DIHmJIN9H1P"
     ],
     "start-time": "16:15",
-    "end-time": "17:20"
+    "end-time": "17:20",
+    "artist-popularity": 27
   },
   {
     "venue": "azalea",
@@ -524,7 +572,8 @@
       "spotify:artist:3Mt7Zv63zztQhheSXTRa1x"
     ],
     "start-time": "18:40",
-    "end-time": "19:40"
+    "end-time": "19:40",
+    "artist-popularity": 14
   },
   {
     "venue": "azalea",
@@ -535,7 +584,8 @@
       "spotify:artist:1VBflYyxBhnDc9uVib98rw"
     ],
     "start-time": "21:00",
-    "end-time": "22:10"
+    "end-time": "22:10",
+    "artist-popularity": 71
   },
   {
     "venue": "dungen",
@@ -544,7 +594,8 @@
     "artist-name": "Mirja Larsson",
     "spotify-uris": [],
     "start-time": "12:00",
-    "end-time": "13:00"
+    "end-time": "13:00",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -556,7 +607,8 @@
       "spotify:artist:0Ij7th9uWcDVYNAIOn5W22"
     ],
     "start-time": "13:00",
-    "end-time": "14:00"
+    "end-time": "14:00",
+    "artist-popularity": 37
   },
   {
     "venue": "dungen",
@@ -567,7 +619,8 @@
       "spotify:artist:49mZfy9v5oNXAxp8FadWwI"
     ],
     "start-time": "14:00",
-    "end-time": "15:00"
+    "end-time": "15:00",
+    "artist-popularity": 30
   },
   {
     "venue": "dungen",
@@ -578,7 +631,8 @@
       "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
     ],
     "start-time": "15:00",
-    "end-time": "16:00"
+    "end-time": "16:00",
+    "artist-popularity": 38
   },
   {
     "venue": "dungen",
@@ -589,7 +643,8 @@
       "spotify:artist:4tgvbMpKddL31KuEtIjcJG"
     ],
     "start-time": "16:00",
-    "end-time": "17:00"
+    "end-time": "17:00",
+    "artist-popularity": 1
   },
   {
     "venue": "flamingo",
@@ -600,7 +655,8 @@
       "spotify:artist:4Cedjq5BQL3MhapRvDpFED"
     ],
     "start-time": "15:10",
-    "end-time": "16:10"
+    "end-time": "16:10",
+    "artist-popularity": 48
   },
   {
     "venue": "flamingo",
@@ -611,7 +667,8 @@
       "spotify:artist:2Z7gV3uEh1ckIaBzTUCE6R"
     ],
     "start-time": "17:25",
-    "end-time": "18:35"
+    "end-time": "18:35",
+    "artist-popularity": 44
   },
   {
     "venue": "flamingo",
@@ -622,7 +679,8 @@
       "spotify:artist:6ueGR6SWhUJfvEhqkvMsVs"
     ],
     "start-time": "19:45",
-    "end-time": "20:45"
+    "end-time": "20:45",
+    "artist-popularity": 58
   },
   {
     "venue": "flamingo",
@@ -633,7 +691,8 @@
       "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
     ],
     "start-time": "22:10",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 72
   },
   {
     "venue": "linne",
@@ -644,7 +703,8 @@
       "spotify:artist:2wJ4vsxWd7df7dRU4KcoDe"
     ],
     "start-time": "13:00",
-    "end-time": "13:50"
+    "end-time": "13:50",
+    "artist-popularity": 51
   },
   {
     "venue": "linne",
@@ -655,7 +715,8 @@
       "spotify:artist:0bdfiayQAKewqEvaU6rXCv"
     ],
     "start-time": "14:45",
-    "end-time": "15:30"
+    "end-time": "15:30",
+    "artist-popularity": 55
   },
   {
     "venue": "linne",
@@ -666,7 +727,8 @@
       "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
     ],
     "start-time": "16:15",
-    "end-time": "17:00"
+    "end-time": "17:00",
+    "artist-popularity": 48
   },
   {
     "venue": "linne",
@@ -677,7 +739,8 @@
       "spotify:artist:6baWjwY7WiVPCZcW7pqqhz"
     ],
     "start-time": "17:45",
-    "end-time": "18:30"
+    "end-time": "18:30",
+    "artist-popularity": 49
   },
   {
     "venue": "linne",
@@ -688,7 +751,8 @@
       "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
     ],
     "start-time": "19:30",
-    "end-time": "20:30"
+    "end-time": "20:30",
+    "artist-popularity": 77
   },
   {
     "venue": "linne",
@@ -699,7 +763,8 @@
       "spotify:artist:6Tyzp9KzpiZ04DABQoedps"
     ],
     "start-time": "21:10",
-    "end-time": "22:10"
+    "end-time": "22:10",
+    "artist-popularity": 64
   },
   {
     "venue": "linne",
@@ -710,7 +775,8 @@
       "spotify:artist:72X6FHxaShda0XeQw3vbeF"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 36
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -721,7 +787,8 @@
       "spotify:artist:6ExOR6M5umZFfNgXfjPcex"
     ],
     "start-time": "23:45",
-    "end-time": "00:45"
+    "end-time": "00:45",
+    "artist-popularity": 3
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -732,7 +799,8 @@
       "spotify:artist:0AUwa5xmiy57qdGlOksvea"
     ],
     "start-time": "01:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": 25
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -743,7 +811,8 @@
       "spotify:artist:4Y1f57EtKq7YF6DfftpopX"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 17
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -755,7 +824,8 @@
       "spotify:artist:01DgWnCXQI2ZsQBDoPsKXM"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 46
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -766,7 +836,8 @@
       "spotify:artist:1RTAxeIlQqWBYZoJVHJJvQ"
     ],
     "start-time": "00:00",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 13
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -777,7 +848,8 @@
       "spotify:artist:1H58rS29XotmFJWT3KCnl0"
     ],
     "start-time": "01:00",
-    "end-time": "02:00"
+    "end-time": "02:00",
+    "artist-popularity": 26
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -788,7 +860,8 @@
       "spotify:artist:06xa1OLBsMQJFXcl2tQkH4"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 37
   },
   {
     "venue": "jazzhuset",
@@ -799,7 +872,8 @@
       "spotify:artist:16ejaMBecQr5J0yvDbN1A7"
     ],
     "start-time": "00:45",
-    "end-time": "01:45"
+    "end-time": "01:45",
+    "artist-popularity": 1
   },
   {
     "venue": "jazzhuset",
@@ -810,7 +884,8 @@
       "spotify:artist:3BZBnC18MJDRtneF9r7Qx7"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 12
   },
   {
     "venue": "liseberg-polketten",
@@ -821,7 +896,8 @@
       "spotify:artist:2RhgnQNC74QoBlaUvT4MEe"
     ],
     "start-time": "23:45",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 37
   },
   {
     "venue": "liseberg-polketten",
@@ -832,7 +908,8 @@
       "spotify:artist:2S5hlvw4CMtMGswFtfdK15"
     ],
     "start-time": "01:00",
-    "end-time": "02:00"
+    "end-time": "02:00",
+    "artist-popularity": 28
   },
   {
     "venue": "liseberg-polketten",
@@ -843,7 +920,8 @@
       "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 46
   },
   {
     "venue": "nefertiti",
@@ -854,7 +932,8 @@
       "spotify:artist:3lN70MoiO9u6b95CsTeB1J"
     ],
     "start-time": "23:00",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 1
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -865,7 +944,8 @@
       "spotify:artist:1oTNCl6SRphYGb9NQ0toVE"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 12
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -876,7 +956,8 @@
       "spotify:artist:6G0lSlHIhV5EmNzvCPtwys"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 7
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -887,7 +968,8 @@
       "spotify:artist:0QT3ZWrppXpw96ZbC2LcSl"
     ],
     "start-time": "00:00",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 20
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -898,7 +980,8 @@
       "spotify:artist:18TNVFTJ6WfeicsMRrdJHI"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 20
   },
   {
     "venue": "rondo",
@@ -909,7 +992,8 @@
       "spotify:artist:4tPyCwWrsvZ8OKYl7QRavL"
     ],
     "start-time": "23:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 12
   },
   {
     "venue": "rondo",
@@ -920,7 +1004,8 @@
       "spotify:artist:5QpXKWRjxAVZlmn5trAa16"
     ],
     "start-time": "00:45",
-    "end-time": "01:45"
+    "end-time": "01:45",
+    "artist-popularity": 25
   },
   {
     "venue": "rondo",
@@ -931,7 +1016,8 @@
       "spotify:artist:4jLcgJjDGmW0HmvbSf6lEI"
     ],
     "start-time": "01:45",
-    "end-time": "02:45"
+    "end-time": "02:45",
+    "artist-popularity": 52
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -942,7 +1028,8 @@
       "spotify:artist:5dpLK5cD7FwWyDKv4qbodS"
     ],
     "start-time": "23:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 23
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -953,7 +1040,8 @@
       "spotify:artist:1oEHAWdn0GWyRaL8JGOlan"
     ],
     "start-time": "01:00",
-    "end-time": "02:00"
+    "end-time": "02:00",
+    "artist-popularity": 18
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -964,7 +1052,8 @@
       "spotify:artist:5WId4o5jdGVhptNU0uqKxu"
     ],
     "start-time": "00:15",
-    "end-time": "01:15"
+    "end-time": "01:15",
+    "artist-popularity": 53
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -975,7 +1064,8 @@
       "spotify:artist:59oA5WbbQvomJz2BuRG071"
     ],
     "start-time": "01:45",
-    "end-time": "02:45"
+    "end-time": "02:45",
+    "artist-popularity": 40
   },
   {
     "venue": "azalea",
@@ -987,7 +1077,8 @@
       "spotify:artist:2bWestatk0Cn1YeUG8PZhp"
     ],
     "start-time": "14:00",
-    "end-time": "15:00"
+    "end-time": "15:00",
+    "artist-popularity": 4
   },
   {
     "venue": "azalea",
@@ -998,7 +1089,8 @@
       "spotify:artist:0qeei9KQnptjwb8MgkqEoy"
     ],
     "start-time": "16:10",
-    "end-time": "17:10"
+    "end-time": "17:10",
+    "artist-popularity": 42
   },
   {
     "venue": "azalea",
@@ -1009,7 +1101,8 @@
       "spotify:artist:2ooIqOf4X2uz4mMptXCtie"
     ],
     "start-time": "18:20",
-    "end-time": "19:25"
+    "end-time": "19:25",
+    "artist-popularity": 40
   },
   {
     "venue": "azalea",
@@ -1020,7 +1113,8 @@
       "spotify:artist:0Mz5XE0kb1GBnbLQm2VbcO"
     ],
     "start-time": "20:40",
-    "end-time": "21:40"
+    "end-time": "21:40",
+    "artist-popularity": 66
   },
   {
     "venue": "dungen",
@@ -1031,7 +1125,8 @@
       "spotify:artist:533nJfX56F25FOytbE46tU"
     ],
     "start-time": "12:00",
-    "end-time": "13:00"
+    "end-time": "13:00",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -1042,7 +1137,8 @@
       "spotify:artist:4skVMdBBN0FyFIYAKiZlKX"
     ],
     "start-time": "13:00",
-    "end-time": "14:00"
+    "end-time": "14:00",
+    "artist-popularity": 0
   },
   {
     "venue": "dungen",
@@ -1053,7 +1149,8 @@
       "spotify:artist:7qHOphlWaJrfFa0BqpayDG"
     ],
     "start-time": "14:00",
-    "end-time": "15:00"
+    "end-time": "15:00",
+    "artist-popularity": 25
   },
   {
     "venue": "dungen",
@@ -1064,7 +1161,8 @@
       "spotify:artist:20o7mwLphfnviZKGPw1gi3"
     ],
     "start-time": "15:00",
-    "end-time": "16:00"
+    "end-time": "16:00",
+    "artist-popularity": 23
   },
   {
     "venue": "dungen",
@@ -1075,7 +1173,8 @@
       "spotify:artist:2VvFUDg4FDXzEQkQdgWz9h"
     ],
     "start-time": "16:00",
-    "end-time": "17:00"
+    "end-time": "17:00",
+    "artist-popularity": 3
   },
   {
     "venue": "flamingo",
@@ -1086,7 +1185,8 @@
       "spotify:artist:6OVkHZQP8QoBYqr1ejCGDv"
     ],
     "start-time": "15:00",
-    "end-time": "16:00"
+    "end-time": "16:00",
+    "artist-popularity": 44
   },
   {
     "venue": "flamingo",
@@ -1097,7 +1197,8 @@
       "spotify:artist:2OIWxN9xUhgUHkeUCWCaNs"
     ],
     "start-time": "19:30",
-    "end-time": "20:40"
+    "end-time": "20:40",
+    "artist-popularity": 60
   },
   {
     "venue": "flamingo",
@@ -1110,7 +1211,8 @@
       "spotify:artist:6UE7nl9mha6s8z0wFQFIZ2"
     ],
     "start-time": "21:50",
-    "end-time": "23:55"
+    "end-time": "23:55",
+    "artist-popularity": 72
   },
   {
     "venue": "linne",
@@ -1121,7 +1223,8 @@
       "spotify:artist:4XpPveeg7RuYS3CgLo75t9"
     ],
     "start-time": "13:00",
-    "end-time": "14:00"
+    "end-time": "14:00",
+    "artist-popularity": 22
   },
   {
     "venue": "linne",
@@ -1132,7 +1235,8 @@
       "spotify:artist:4IwOItqRhsIoRuD5HP4vyC"
     ],
     "start-time": "15:00",
-    "end-time": "16:00"
+    "end-time": "16:00",
+    "artist-popularity": 21
   },
   {
     "venue": "linne",
@@ -1143,7 +1247,8 @@
       "spotify:artist:134GdR5tUtxJrf8cpsfpyY"
     ],
     "start-time": "17:15",
-    "end-time": "18:15"
+    "end-time": "18:15",
+    "artist-popularity": 37
   },
   {
     "venue": "linne",
@@ -1154,7 +1259,8 @@
       "spotify:artist:3axEmcxTibioxD1rZi1IOB"
     ],
     "start-time": "19:00",
-    "end-time": "20:00"
+    "end-time": "20:00",
+    "artist-popularity": 35
   },
   {
     "venue": "linne",
@@ -1165,7 +1271,8 @@
       "spotify:artist:5BEuyZUof5F3Nu9pjcWwD1"
     ],
     "start-time": "20:40",
-    "end-time": "21:50"
+    "end-time": "21:50",
+    "artist-popularity": 6
   },
   {
     "venue": "linne",
@@ -1176,7 +1283,8 @@
       "spotify:artist:0ONHkAv9pCAFxb0zJwDNTy"
     ],
     "start-time": "23:00",
-    "end-time": "00:00"
+    "end-time": "00:00",
+    "artist-popularity": 76
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -1187,7 +1295,8 @@
       "spotify:artist:2KjAo6wVc9d2WcxdxSArpV"
     ],
     "start-time": "00:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": 34
   },
   {
     "venue": "goteborgsoperan-lilla-scenen",
@@ -1198,7 +1307,8 @@
       "spotify:artist:2c9yn5DJQd5es7YMY92ikZ"
     ],
     "start-time": "01:45",
-    "end-time": "02:45"
+    "end-time": "02:45",
+    "artist-popularity": 0
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -1209,7 +1319,8 @@
       "spotify:artist:5gqhueRUZEa7VDnQt4HODp"
     ],
     "start-time": "23:30",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 47
   },
   {
     "venue": "goteborgsoperan-stora-scenen",
@@ -1221,7 +1332,8 @@
       "spotify:artist:59r5UU2HOytn9V5uMZ5Vur"
     ],
     "start-time": "01:00",
-    "end-time": "02:00"
+    "end-time": "02:00",
+    "artist-popularity": 56
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -1232,7 +1344,8 @@
       "spotify:artist:0pAV5GaO9ak8wk1NnF37Cl"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 30
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -1243,7 +1356,8 @@
       "spotify:artist:2vI70V5Tc6jB3d2uzb2UEA"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 9
   },
   {
     "venue": "gothenburg-film-studios-studio-1",
@@ -1254,7 +1368,8 @@
       "spotify:artist:4X0v8sFoDZ6rIfkeOeVm2i"
     ],
     "start-time": "02:30",
-    "end-time": "03:30"
+    "end-time": "03:30",
+    "artist-popularity": 56
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -1263,7 +1378,8 @@
     "artist-name": "Amie & Cassandra",
     "spotify-uris": [],
     "start-time": "00:30",
-    "end-time": "02:00"
+    "end-time": "02:00",
+    "artist-popularity": 0
   },
   {
     "venue": "gothenburg-film-studios-studio-3",
@@ -1272,7 +1388,8 @@
     "artist-name": "Berserk",
     "spotify-uris": [],
     "start-time": "02:00",
-    "end-time": "04:00"
+    "end-time": "04:00",
+    "artist-popularity": 0
   },
   {
     "venue": "jazzhuset",
@@ -1283,7 +1400,8 @@
       "spotify:artist:2S4n5c3lzji3iJcUxV4cIX"
     ],
     "start-time": "23:30",
-    "end-time": "00:30"
+    "end-time": "00:30",
+    "artist-popularity": 8
   },
   {
     "venue": "jazzhuset",
@@ -1294,7 +1412,8 @@
       "spotify:artist:6hl5k4gLl1p3sjhHcb57t2"
     ],
     "start-time": "00:45",
-    "end-time": "01:45"
+    "end-time": "01:45",
+    "artist-popularity": 27
   },
   {
     "venue": "jazzhuset",
@@ -1305,7 +1424,8 @@
       "spotify:artist:5cRFFVu55n63SFAByWg112"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 10
   },
   {
     "venue": "liseberg-polketten",
@@ -1318,7 +1438,8 @@
       "spotify:artist:1eFBWrAF8Vu18ey4zdRqIA"
     ],
     "start-time": "00:00",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 24
   },
   {
     "venue": "liseberg-polketten",
@@ -1330,7 +1451,8 @@
       "spotify:artist:2vxWDuk2inw00eo3Hag2QR"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 56
   },
   {
     "venue": "nefertiti",
@@ -1341,7 +1463,8 @@
       "spotify:artist:4sPLhyVBoVtdlX0MaetdVK"
     ],
     "start-time": "23:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 12
   },
   {
     "venue": "nefertiti",
@@ -1352,7 +1475,8 @@
       "spotify:artist:6wAIR0sfzXRdiDBu65qSpp"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 1
   },
   {
     "venue": "nefertiti",
@@ -1363,7 +1487,8 @@
       "spotify:artist:1U0sIzpRtDkvu1hXXzxh60"
     ],
     "start-time": "01:30",
-    "end-time": "02:30"
+    "end-time": "02:30",
+    "artist-popularity": 32
   },
   {
     "venue": "nefertiti",
@@ -1374,7 +1499,8 @@
       "spotify:artist:5wJl2eFe6LqoSHSlk73vRr"
     ],
     "start-time": "02:30",
-    "end-time": "03:30"
+    "end-time": "03:30",
+    "artist-popularity": 18
   },
   {
     "venue": "pustervik-lilla-scenen",
@@ -1385,7 +1511,8 @@
       "spotify:artist:3WiytRnvoL0kT3oAGl9TCt"
     ],
     "start-time": "00:30",
-    "end-time": "01:30"
+    "end-time": "01:30",
+    "artist-popularity": 29
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -1396,7 +1523,8 @@
       "spotify:artist:5AVJt6VYXT4hMRP8D3MRAC"
     ],
     "start-time": "23:45",
-    "end-time": "00:45"
+    "end-time": "00:45",
+    "artist-popularity": 41
   },
   {
     "venue": "pustervik-stora-scenen",
@@ -1407,7 +1535,8 @@
       "spotify:artist:41SQP16hv1TioVYqdckmxT"
     ],
     "start-time": "01:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": 53
   },
   {
     "venue": "rondo",
@@ -1418,7 +1547,8 @@
       "spotify:artist:0LguImbYE4ZsVaSTJAB7YT"
     ],
     "start-time": "23:30",
-    "end-time": "00:30"
+    "end-time": "00:30",
+    "artist-popularity": 11
   },
   {
     "venue": "rondo",
@@ -1429,7 +1559,8 @@
       "spotify:artist:4cXE1g28uYrIaUisUx5cJt"
     ],
     "start-time": "00:45",
-    "end-time": "01:45"
+    "end-time": "01:45",
+    "artist-popularity": 18
   },
   {
     "venue": "rondo",
@@ -1440,7 +1571,8 @@
       "spotify:artist:3PDQFW0WKHjKs6gY2b2rFJ"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 15
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -1451,7 +1583,8 @@
       "spotify:artist:1lzoEy8yiIBiHOuaO4h5Wj"
     ],
     "start-time": "00:00",
-    "end-time": "01:00"
+    "end-time": "01:00",
+    "artist-popularity": 29
   },
   {
     "venue": "tradgarn-lilla-scen",
@@ -1462,7 +1595,8 @@
       "spotify:artist:6pLczwiw7MRvvstnzGrp7A"
     ],
     "start-time": "01:15",
-    "end-time": "02:15"
+    "end-time": "02:15",
+    "artist-popularity": 28
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1473,7 +1607,8 @@
       "spotify:artist:6vhgsnZ2dLDaLDog3pqP2d"
     ],
     "start-time": "23:30",
-    "end-time": "00:30"
+    "end-time": "00:30",
+    "artist-popularity": 0
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1484,7 +1619,8 @@
       "spotify:artist:6y80I9YZi4DOpbaSUlL725"
     ],
     "start-time": "00:45",
-    "end-time": "01:45"
+    "end-time": "01:45",
+    "artist-popularity": 34
   },
   {
     "venue": "tradgarn-stora-scen",
@@ -1495,7 +1631,8 @@
       "spotify:artist:2QDnY1LY2mnzeeKGZLHoc7"
     ],
     "start-time": "02:00",
-    "end-time": "03:00"
+    "end-time": "03:00",
+    "artist-popularity": 26
   },
   {
     "venue": "nefertiti",
@@ -1506,6 +1643,7 @@
       "spotify:artist:48ObYO3GM7R76nRcfyvnM9"
     ],
     "start-time": "00:15",
-    "end-time": "01:15"
+    "end-time": "01:15",
+    "artist-popularity": 13
   }
 ]
