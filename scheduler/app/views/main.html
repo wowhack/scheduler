@@ -1,19 +1,24 @@
 <div ng-controller="MainCtrl">
   <h1>Controls</h1>
-  <div class="btn-group">
-      <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'driving'">Driving</label>
-      <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'walking'">Walking</label>
-      <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'bicycling'">Bicycling</label>
+  <div class="well well-lg">
+    Method of transportation:
+    <div class="btn-group">
+        <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'driving'">Driving</label>
+        <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'walking'">Walking</label>
+        <label class="btn btn-primary" ng-model="transportationMethod" btn-radio="'bicycling'">Bicycling</label>
+    </div>
   </div>
 
   <div class="well well-lg">
-    Time optimist level: <pre>{{ timeOptimist }}</em></pre>
+    I like to take my time
     <input type="range" ng-model="timeOptimist" name="points" min="0" max="999">
+    I walk at 120kph
   </div>
 
   <div class="well well-lg">
-    Large vs small artist: <pre>{{ artistSize }}</em></pre>
+    Prefer small artists
     <input type="range" ng-model="artistSize" name="points" min="0" max="999">
+    Prefer large artists
   </div>
 
   <h1>Concerts</h1>
