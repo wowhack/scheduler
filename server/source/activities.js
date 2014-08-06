@@ -18,6 +18,14 @@ var methodVerbs = {
   "bicycling": "Cycle"
 };
 
+function formatMinutesSinceMidnight(minutes) {
+  var h = Math.floor(minutes / 60);
+  var m = (minutes % 60);
+  var H = (h < 10 ? '0' : '') + h;
+  var M = (m < 10 ? '0' : '') + m;
+  return H + ':' + M;
+}
+
 function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) {
   var artists = {};
   concerts.forEach(function(concert) {
@@ -38,7 +46,7 @@ function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedu
       artistId: artist['artist-id'],
       venueName: venues[artist['venue']].name,
       venueId: artist['venue'],
-      startingTime: adjustedEventTime(artist['start-time']),
+      startingTime: formatMinutesSinceMidnight(adjustedEventTime(artist['start-time'])),
       duration: artist['end-time'] - artist['start-time']
     };
   });
