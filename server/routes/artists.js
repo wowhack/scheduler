@@ -12,7 +12,6 @@ function get_artists(req, res, next) {
       return;
     }
 
-    console.log(token16 + ': got ' + body.items.length + ' tracks');
     body.items.forEach(function(item) {
       (item.track.artists || []).forEach(function(artist) {
         if (artists[artist.uri]) {
@@ -29,12 +28,9 @@ function get_artists(req, res, next) {
     }
 
     var count = Object.keys(artists).length;
-    console.log(token16 + ': got ' + count + ' artists; done');
-    console.log(artists);
     res.send(artists);
   };
 
-  console.log(token16 + ': fetching tracks');
   var url = 'https://api.spotify.com/v1/me/tracks?limit=50';
   request.get({ url: url, headers: headers, json: true }, fetch);
 };
