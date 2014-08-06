@@ -36,16 +36,16 @@
           <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>
         </div>
       </script>
-      <div>
-        I really would like to attend these concerts:
-        <button type="button" class="btn btn-sm btn-success" ng-click="openPreferredConcertAdder()">+</button>
-      </div>
-      <ul ng-repeat="concert in preferredConcerts">
+      <p>
+        My priorities:
+      </p>
+      <ul class="list-unstyled" ng-repeat="concert in preferredConcerts">
         <li>
           {{ concert['artist-name'] }}
           <button type="button" class="btn btn-sm btn-danger" ng-click="removePreferredConcert(concert['artist-id'])">X</button>
         </li>
       </ul>
+      <button type="button" class="btn btn-sm btn-success" ng-click="openPreferredConcertAdder()">+</button>
     </div>
   </div>
 
