@@ -50,18 +50,27 @@ angular.module('schedulerApp')
     function updateActivities() {
       var expectedRequestSequenceNumber = ++requestSequenceNumber;
 
-      var url = 'http://localhost:8888/activities?mode='+$scope.transportationMethod+'&popularity='+($scope.artistSize/1000);
-      $http({ method: 'GET', url: url })
-          .success(function(data) {
-            if (expectedRequestSequenceNumber !== requestSequenceNumber) {
-              return;
-            }
+      setTimeout(function() {
+        if (expectedRequestSequenceNumber !== requestSequenceNumber) {
+          // Update has been called since we started the timeout. In order
+          // to avoid bombing the server with requests, cancel this one and
+          // let the next update handle it.
+          return;
+        }
 
-            $scope.activities = data;
-          })
-          .error(function(data, status, headers, config) {
-            console.log('ERROR', data, status, headers, config);
-          });
+        var url = 'http://localhost:8888/activities?mode='+$scope.transportationMethod+'&popularity='+($scope.artistSize/1000);
+        $http({ method: 'GET', url: url })
+            .success(function(data) {
+              if (expectedRequestSequenceNumber !== requestSequenceNumber) {
+                return;
+              }
+
+              $scope.activities = data;
+            })
+            .error(function(data, status, headers, config) {
+              console.log('ERROR', data, status, headers, config);
+            });
+      }, 500);
     }
 
     updateActivities();
