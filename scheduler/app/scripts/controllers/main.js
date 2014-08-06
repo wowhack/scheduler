@@ -10,7 +10,6 @@
 angular.module('schedulerApp')
   .controller('MainCtrl', function ($http, $window, $scope, $routeParams, $resource) {
     $scope.transportationMethod = 'walking';
-    $scope.timeOptimist = 500;
     $scope.artistSize = 500;
     $scope.artists = [];
 
