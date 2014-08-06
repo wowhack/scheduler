@@ -26,6 +26,11 @@ function formatMinutesSinceMidnight(minutes) {
   return H + ':' + M;
 }
 
+function formatEstimatedSeconds(seconds) {
+  var m = Math.ceil(seconds / 60);
+  return '' + m;
+}
+
 function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) {
   var artists = {};
   concerts.forEach(function(concert) {
@@ -89,7 +94,7 @@ function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedu
           toVenueId: currentVenueId,
           toVenueName: currentVenue.name,
           shortTransit: lastVenue['festival-area'] && currentVenue['festival-area'],
-          duration: venues[lastVenueId].distances[mode][currentVenueId].duration * durationMultiplier,
+          duration: formatEstimatedSeconds(venues[lastVenueId].distances[mode][currentVenueId].duration * durationMultiplier),
           distance: venues[lastVenueId].distances[mode][currentVenueId].distance
         });
       }
