@@ -192,3 +192,45 @@ ul.activities li {
   color: rgb(200, 200, 200);
   display: inline-block;
 }
+
+.activity-transit {
+  height: 60px;
+  width: 100%;
+}
+
+.activity-transit .info {
+  height: 100%;
+  line-height: 60px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.activity-transit .info-method {
+  
+}
+
+.activity-transit .info-from {
+  
+}
+
+.activity-transit .info-from-venue {
+  color: #f03c02;
+  text-transform: capitalize;
+}
+
+.activity-transit .info-to {
+  
+}
+
+.activity-transit .info-to-venue {
+  color: #f03c02;
+  text-transform: capitalize; 
+}
+
+.activity-transit .info-in {
+  
+}
+
+.activity-transit .info-in-time {
+  
+}

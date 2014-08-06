@@ -59,9 +59,12 @@
         </div>
         </li>
         <li ng-if="activity.type == 'transit'" class="activity-transit">
-          <em>{{ activity.methodVerb }}</em>
-          from <strong>{{ activity.fromVenueName }}</strong>
-          to <strong>{{ activity.toVenueName }}</strong> in {{ activity.duration}} minutes.
+          <div class="info">
+            <span class="info-method">{{ activity.methodVerb }}</span>
+            <span class="info-from">from <span class="info-from-venue">{{ activity.fromVenueName }}</span></span>
+            <span class="info-to">to <span class="info-to-venue">{{ activity.toVenueName }}</span></span>
+            <span class="info-in">in <span class="info-in-time">{{ activity.duration}} minutes</span>.</span>
+          </div>
         </li>
       </ul>
     </li>
