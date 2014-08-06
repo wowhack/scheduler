@@ -64,6 +64,12 @@ angular.module('schedulerApp')
             '?mode='+$scope.transportationMethod+
             '&popularity='+($scope.artistSize/1000)+
             '&preferred='+$scope.preferredConcerts.map(function(concert) { return concert['artist-id']; }).join(',');
+
+        var accessToken = $routeParams['access_token'];
+        if (accessToken) {
+          url += '&accessToken='+accessToken;
+        }
+
         $http({ method: 'GET', url: url })
             .success(function(data) {
               if (expectedRequestSequenceNumber !== requestSequenceNumber) {
@@ -87,22 +93,6 @@ angular.module('schedulerApp')
       var redirect = encodeURIComponent($window.location.href) + '{?}';
       $window.location.href = 'http://localhost:8888/login?redirect=' + redirect;
     };
-
-    $scope.fetchArtists = function(accessToken) {
-      var artistsUrl = 'http://localhost:8888/artists?token=' + accessToken;
-      $http({ method: 'GET', url: artistsUrl })
-          .success(function(data) {
-            $scope.artists = data;
-          })
-          .error(function(data, status, headers, config) {
-            console.log('ERROR', data, status, headers, config);
-          });
-    };
-
-    var accessToken = $routeParams.accessToken;
-    if (accessToken) {
-      $scope.fetchArtists(accessToken);
-    }
   })
   .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts) {
     $scope.concerts = concerts;

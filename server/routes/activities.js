@@ -13,12 +13,15 @@ function get_activities(req, res) {
   var mode = req.query.mode || "walking";
   var popularityWeight = parseFloat(req.query.popularity || "0.5");
   var preferred = req.query.preferred ? req.query.preferred.split(',') : [];
+  var accessToken = req.query.accessToken;
 
   var durationMultiplier = 1;
   if (mode == "walking_slow") {
     durationMultiplier = 0.5;
     mode = "walking";
   }
+
+  console.log("Access token", accessToken);
 
   var preferredWeights = weights.constantWeights(100, preferred);
   var popularityWeight = weights.weightsForPopularity(concerts, 5, popularityWeight);
