@@ -46,6 +46,12 @@
     </div>
   </div>
 
+  <div class="spinner" id="spinner" ng-show="loading">
+    <div class="bounce1"></div>
+    <div class="bounce2"></div>
+    <div class="bounce3"></div>
+  </div>
+
   <ul class="days" ng-repeat="day in activities.days">
     <li>
       <h2>{{ day.name }}</h2>

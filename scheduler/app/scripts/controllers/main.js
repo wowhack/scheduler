@@ -12,6 +12,7 @@ angular.module('schedulerApp')
     $scope.transportationMethod = 'walking';
     $scope.artistSize = 500;
     $scope.artists = [];
+    $scope.loading = true;
 
     var allConcerts = $resource('http://localhost:8888/concerts').get();
 
@@ -70,12 +71,14 @@ angular.module('schedulerApp')
           url += '&accessToken='+accessToken;
         }
 
+        $scope.loading = true;
         $http({ method: 'GET', url: url })
             .success(function(data) {
               if (expectedRequestSequenceNumber !== requestSequenceNumber) {
                 return;
               }
 
+              $scope.loading = false;
               $scope.activities = data;
             })
             .error(function(data, status, headers, config) {
