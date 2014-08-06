@@ -2,6 +2,7 @@ var request = require('request');
 
 var cache = {};
 
+// Response is in the format {"[artist-id]":{"name":"[artist-name]","count":"[number of tracks]"}}
 function getArtists(token, cb) {
   var cachedData = cache[token];
   if (cachedData) {
