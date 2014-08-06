@@ -15,7 +15,8 @@ function getArtists(token, cb) {
 
   function fetch(error, response, body) {
     if (error || response.statusCode !== 200) {
-      next(error)
+      console.log("Fail", error, response.statusCode);
+      cb(null);
       return;
     }
 

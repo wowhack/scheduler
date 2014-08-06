@@ -25,10 +25,10 @@ function get_activities(req, res) {
 
   function gotMyArtists(myArtists) {
     var spotifyWeights = myArtists ? spotifyweights.calculateWeights(concerts, myArtists) : {};
-
     var preferredWeights = weights.constantWeights(100, preferred);
-    var popularityWeight = weights.weightsForPopularity(concerts, 5, popularityWeight);
-    var combinedWeights = weights.combineWeights(spotifyWeights, weights.combineWeights(preferredWeights, popularityWeight));
+    var popularityWeights = weights.weightsForPopularity(concerts, 5, popularityWeight);
+
+    var combinedWeights = weights.combineWeights(spotifyWeights, weights.combineWeights(preferredWeights, popularityWeights));
 
     var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, combinedWeights);
     res.send({ days: activities.scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) });

@@ -21,7 +21,7 @@ function calculateWeights(concerts, myArtists) {
       });
     });
 
-    weights[concert['artist-id']] = 1 + weight * 5;
+    weights[concert['artist-id']] = 1 + weight * 4;
   });
 
   return weights;
