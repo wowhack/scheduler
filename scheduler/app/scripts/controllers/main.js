@@ -8,40 +8,42 @@
  * Controller of the schedulerApp
  */
 angular.module('schedulerApp')
-  .controller('MainCtrl', function ($http, $window, $scope, $routeParams, $resource) {
+  .controller('MainCtrl', function ($http, $window, $scope, $routeParams, $resource, $modal) {
     $scope.transportationMethod = 'walking';
     $scope.artistSize = 500;
     $scope.artists = [];
 
-    $scope.preferredConcerts = [
-      {
-        'venue': 'azalea',
-        'artist-id': 'the-horrors',
-        'event-day': 0,
-        'artist-name': 'The Horrors',
-        'spotify-uris': [
-          'spotify:artist:7EFB09NxZrMi9pGlOnuBpd'
-        ],
-        'start-time': 930,
-        'end-time': 990,
-        'artist-popularity': 44
-      },
-      {
-        'venue': 'azalea',
-        'artist-id': 'tinariwen',
-        'event-day': 0,
-        'artist-name': 'Tinariwen',
-        'spotify-uris': [
-          'spotify:artist:2sf2owtFSCvz2MLfxmNdkb'
-        ],
-        'start-time': 1050,
-        'end-time': 1120,
-        'artist-popularity': 42
-      }
-    ];
+    var allConcerts = $resource('http://localhost:8888/concerts').get();
+
+    $scope.preferredConcerts = [];
     $scope.removePreferredConcert = function(artistId) {
       $scope.preferredConcerts = $scope.preferredConcerts.filter(function(concert) {
         return concert['artist-id'] !== artistId;
+      });
+    };
+    $scope.openPreferredConcertAdder = function() {
+      var modalInstance = $modal.open({
+        templateUrl: 'preferredConcertsAdder.html',
+        controller: 'ModalInstanceCtrl',
+        size: 'lg',
+        resolve: {
+          concerts: function() {
+            return allConcerts.concerts.filter(function(concert) {
+              var found = false;
+              $scope.preferredConcerts.forEach(function(innerConcert) {
+                if (concert['artist-id'] === innerConcert['artist-id']) {
+                  found = true;
+                }
+              });
+              return !found;
+            });
+          }
+        }
+      });
+
+      modalInstance.result.then(function(selectedConcert) {
+        $scope.preferredConcerts.push(selectedConcert);
+      }, function () {
       });
     };
 
@@ -58,7 +60,10 @@ angular.module('schedulerApp')
           return;
         }
 
-        var url = 'http://localhost:8888/activities?mode='+$scope.transportationMethod+'&popularity='+($scope.artistSize/1000);
+        var url = 'http://localhost:8888/activities'+
+            '?mode='+$scope.transportationMethod+
+            '&popularity='+($scope.artistSize/1000)+
+            '&preferred='+$scope.preferredConcerts.map(function(concert) { return concert['artist-id']; }).join(',');
         $http({ method: 'GET', url: url })
             .success(function(data) {
               if (expectedRequestSequenceNumber !== requestSequenceNumber) {
@@ -74,7 +79,7 @@ angular.module('schedulerApp')
     }
 
     updateActivities();
-    ['artistSize', 'transportationMethod', 'preferredConcerts'].forEach(function(name) {
+    ['artistSize', 'transportationMethod', 'preferredConcerts.length'].forEach(function(name) {
       $scope.$watch(name, updateActivities);
     });
 
@@ -98,4 +103,15 @@ angular.module('schedulerApp')
     if (accessToken) {
       $scope.fetchArtists(accessToken);
     }
+  })
+  .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts) {
+    $scope.concerts = concerts;
+
+    $scope.select = function(concert) {
+      $modalInstance.close(concert);
+    };
+
+    $scope.dismiss = function () {
+      $modalInstance.dismiss('dismiss');
+    };
   });

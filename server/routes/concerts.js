@@ -5,7 +5,7 @@ var fs = require('fs');
 var concerts = JSON.parse(String(fs.readFileSync(__dirname + "/../data/concerts.json")));
 
 function get_concerts(req, res) {
-  res.send(concerts);
+  res.send({ concerts: concerts });
 }
 
 module.exports = function() {
