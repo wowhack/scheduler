@@ -13,14 +13,14 @@ function get_activities(req, res) {
   var mode = req.query.mode || "walking";
   var popularityWeight = parseFloat(req.query.popularity || "0.5");
 
-  var distanceMultiplier = 1;
+  var durationMultiplier = 1;
   if (mode == "walking_slow") {
-    distanceMultiplier = 0.5;
+    durationMultiplier = 0.5;
     mode = "walking";
   }
 
-  var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, distanceMultiplier), concerts, weights.weightsForPopularity(concerts, 5, popularityWeight));
-  res.send({ days: activities.scheduleToActivities(concerts, venues, mode, schedule) });
+  var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, weights.weightsForPopularity(concerts, 5, popularityWeight));
+  res.send({ days: activities.scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) });
 }
 
 module.exports = function() {

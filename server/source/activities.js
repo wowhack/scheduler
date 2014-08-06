@@ -18,7 +18,7 @@ var methodVerbs = {
   "bicycling": "Cycle"
 };
 
-function scheduleToActivities(concerts, venues, mode, schedule) {
+function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) {
   var artists = {};
   concerts.forEach(function(concert) {
     artists[concert['artist-id']] = concert;
@@ -77,7 +77,7 @@ function scheduleToActivities(concerts, venues, mode, schedule) {
           fromVenueName: venues[lastVenueId].name,
           toVenueId: currentVenueId,
           toVenueName: venues[currentVenueId].name,
-          duration: venues[lastVenueId].distances[mode][currentVenueId].duration,
+          duration: venues[lastVenueId].distances[mode][currentVenueId].duration * durationMultiplier,
           distance: venues[lastVenueId].distances[mode][currentVenueId].distance
         });
       }
