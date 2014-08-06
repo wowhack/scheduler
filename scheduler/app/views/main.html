@@ -40,8 +40,7 @@
       <button class="add-button" ng-click="openPreferredConcertAdder()">I really need to see this ...</button>
       <ul ng-repeat="concert in preferredConcerts">
         <li>
-          <span class="preferred-artist">{{ concert['artist-name'] }}</span>
-          <button class="remove-button" ng-click="removePreferredConcert(concert['artist-id'])"></button>
+          <span class="preferred-artist" ng-click="removePreferredConcert(concert['artist-id'])">{{ concert['artist-name'] }}</span>
         </li>
       </ul>
     </div>

@@ -156,6 +156,7 @@ a:active {
 }
 
 .control-preferences .preferred-artist {
+  cursor: pointer;
   display: block;
   font-size: 20px;
   letter-spacing: 2px;
@@ -164,6 +165,11 @@ a:active {
   text-align: center;
   text-transform: uppercase;
   white-space: nowrap;
+}
+
+.control-preferences .preferred-artist:hover {
+  color: #f03c02;
+  text-decoration: line-through;
 }
 
 .control-preferences button {
