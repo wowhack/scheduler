@@ -16,11 +16,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: #f03c02;
-  text-decoration: none;
-}
-
+a:hover,
 a:active {
   color: #f03c02;
   text-decoration: none;
@@ -158,6 +154,15 @@ ul.activities li {
   color: white;
   height: 80px;
   width: 100%;
+}
+
+.activity-concert a {
+  color: inherit;
+}
+
+.activity-concert a:hover,
+.activity-concert a:active {
+  color: #f03c02;
 }
 
 .activity-concert .info {

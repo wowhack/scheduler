@@ -58,7 +58,7 @@
       <ul class="activities" ng-repeat="activity in day.activities">
         <li ng-if="activity.type == 'concert'" class="activity-concert" style="background-image: url('images/artists_640/{{ activity.artistId }}_thumb.jpg');">
           <div class="info">
-            <span class="info-artist">{{ activity.artistName }}</span>
+            <span class="info-artist"><a href="http://wayoutwest.se/artist/{{ activity.artistId }}">{{ activity.artistName }}</a></span>
             <span class="info-start">{{ activity.startingTime }}</span>
             <span class="info-venue">{{ activity.venueName }}</span>
             <span class="info-duration">{{ activity.duration }} minutes</span>
