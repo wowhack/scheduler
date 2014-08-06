@@ -13,8 +13,6 @@ angular.module('schedulerApp')
     $scope.artistSize = 500;
     $scope.artists = [];
 
-    $scope.activities = $resource('http://localhost:8888/activities').get();
-
     $scope.preferredConcerts = [
       {
         'venue': 'azalea',
@@ -46,6 +44,30 @@ angular.module('schedulerApp')
         return concert['artist-id'] !== artistId;
       });
     };
+
+
+    var requestSequenceNumber = 0;
+    function updateActivities() {
+      var expectedRequestSequenceNumber = ++requestSequenceNumber;
+
+      var url = 'http://localhost:8888/activities?mode='+$scope.transportationMethod+'&popularity='+($scope.artistSize/1000);
+      $http({ method: 'GET', url: url })
+          .success(function(data) {
+            if (expectedRequestSequenceNumber !== requestSequenceNumber) {
+              return;
+            }
+
+            $scope.activities = data;
+          })
+          .error(function(data, status, headers, config) {
+            console.log('ERROR', data, status, headers, config);
+          });
+    }
+
+    updateActivities();
+    ['artistSize', 'transportationMethod', 'preferredConcerts'].forEach(function(name) {
+      $scope.$watch(name, updateActivities);
+    });
 
     $scope.loginToSpotify = function() {
       var redirect = encodeURIComponent($window.location.href) + '{?}';
