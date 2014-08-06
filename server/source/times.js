@@ -20,7 +20,7 @@ function bestWeightAtTimeAndPlace(distance, venues, time, where) {
   return Array(ret, now);
 }
 
-function findOptimalSchedule(distance, concerts, weights) {
+function findOptimalSchedule(distance, concerts, weights, clock) {
   var venues = {};
 
   concerts.forEach(function(concert) {
@@ -31,6 +31,7 @@ function findOptimalSchedule(distance, concerts, weights) {
   });
 
   for(var now in concerts){
+    if(concerts[now]['start-time'] < clock) continue;
     var where = concerts[now]['venue'];
     var y = bestWeightAtTimeAndPlace(distance, venues, concerts[now]['start-time'], where);
     var p = {
