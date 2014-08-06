@@ -26,11 +26,9 @@
           <h3 class="modal-title">Select a concert</h3>
         </div>
         <div class="modal-body">
-          <div ng-repeat="concert in concerts">
-            <button type="button" class="btn btn-sm btn-default" ng-click="select(concert)">
-              {{ concert['artist-name'] }}
-            </button>
-          </div>
+          <button type="button" class="btn btn-sm btn-default" ng-click="select(concert)" ng-repeat="concert in concerts">
+            {{ concert['artist-name'] }}
+          </button>
         </div>
         <div class="modal-footer">
           <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>
