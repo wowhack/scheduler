@@ -69,7 +69,7 @@
             <span class="info-method">{{ activity.methodVerb }}</span>
             <span class="info-from">from <span class="info-from-venue">{{ activity.fromVenueName }}</span></span>
             <span class="info-to">to <span class="info-to-venue">{{ activity.toVenueName }}</span></span>
-            <span class="info-in">(<span class="info-in-time">{{ activity.duration}} minutes</span>)</span>
+            <span class="info-in" ng-if="!activity.shortTransit">(<span class="info-in-time">{{ activity.duration}} minutes</span>)</span>
           </div>
         </li>
       </ul>

@@ -85,15 +85,16 @@ function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedu
       if (lastVenueId !== null && lastVenueId != currentVenueId) {
         var lastVenue = venues[lastVenueId];
         var currentVenue = venues[currentVenueId];
+        var shortTransit = lastVenue['festival-area'] && currentVenue['festival-area'];
 
         thingsToAdd.push({
           type: 'transit',
-          methodVerb: methodVerbs[mode],
+          methodVerb: methodVerbs[shortTransit ? 'walking' : mode],
           fromVenueId: lastVenueId,
           fromVenueName: lastVenue.name,
           toVenueId: currentVenueId,
           toVenueName: currentVenue.name,
-          shortTransit: lastVenue['festival-area'] && currentVenue['festival-area'],
+          shortTransit: shortTransit,
           duration: formatEstimatedSeconds(venues[lastVenueId].distances[mode][currentVenueId].duration * durationMultiplier),
           distance: venues[lastVenueId].distances[mode][currentVenueId].distance
         });
