@@ -19,7 +19,7 @@ var methodVerbs = {
 };
 
 function formatMinutesSinceMidnight(minutes) {
-  var h = Math.floor(minutes / 60);
+  var h = Math.floor(minutes / 60) % 24;
   var m = (minutes % 60);
   var H = (h < 10 ? '0' : '') + h;
   var M = (m < 10 ? '0' : '') + m;
