@@ -166,6 +166,27 @@ a:active {
   white-space: nowrap;
 }
 
+.control-preferences button {
+  background: transparent;
+  border: 2px solid white;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  outline: none !important;
+  padding: 4px;
+  width: 264px;
+}
+
+.control-preferences button:hover {
+  border-color: #bbbbbb;
+  color: #bbbbbb;
+}
+
+.control-preferences button:active {
+  border-color: #f03c02;
+  color: #f03c02;
+}
+
 h1 {
   color: #f03c02;
   font-size: 35px;

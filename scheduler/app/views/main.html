@@ -37,14 +37,13 @@
           <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>
         </div>
       </script>
-      <p>
-        My priorities:
-        <span ng-repeat="concert in preferredConcerts">
-          {{ concert['artist-name'] }}<span ng-show="!$last">, </span>
-        </span>
-        <span ng-if="preferredConcerts.length == 0">None</span>
-      </p>
-      <button type="button" class="btn btn-sm btn-primary" ng-click="openPreferredConcertAdder()">Edit Priorities</button>
+      <button class="add-button" ng-click="openPreferredConcertAdder()">I really need to see this ...</button>
+      <ul ng-repeat="concert in preferredConcerts">
+        <li>
+          <span class="preferred-artist">{{ concert['artist-name'] }}</span>
+          <button class="remove-button" ng-click="removePreferredConcert(concert['artist-id'])"></button>
+        </li>
+      </ul>
     </div>
   </div>
 
