@@ -64,7 +64,7 @@
             <span class="info-artist"><a href="http://wayoutwest.se/artist/{{ activity.artistId }}">{{ activity.artistName }}</a></span>
             <span class="info-start">{{ activity.startingTime }}</span>
             <span class="info-venue"><a href="http://wayoutwest.se/map">{{ activity.venueName }}</a></span>
-            <span class="info-duration">{{ activity.duration }} minutes</span>
+            <span class="info-duration">{{ activity.duration }}</span>
         </div>
         </li>
         <li ng-if="activity.type == 'transit'" class="activity-transit">
@@ -72,7 +72,7 @@
             <span class="info-method">{{ activity.methodVerb }}</span>
             <span class="info-from">from <span class="info-from-venue"><a href="http://wayoutwest.se/map">{{ activity.fromVenueName }}</a></span></span>
             <span class="info-to">to <span class="info-to-venue"><a href="http://wayoutwest.se/map">{{ activity.toVenueName }}</a></span></span>
-            <span class="info-in" ng-if="!activity.shortTransit">(<span class="info-in-time">{{ activity.duration}} minutes</span>)</span>
+            <span class="info-in" ng-if="!activity.shortTransit">(<span class="info-in-time">{{ activity.duration}}</span>)</span>
           </div>
         </li>
       </ul>

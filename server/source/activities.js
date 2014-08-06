@@ -27,8 +27,16 @@ function formatMinutesSinceMidnight(minutes) {
 }
 
 function formatEstimatedSeconds(seconds) {
-  var m = Math.ceil(seconds / 60);
-  return '' + m;
+  var m = Math.floor(seconds / 60);
+
+  if (m < 60) {
+    return m + ' minutes';
+  } else if (m == 60) {
+    return '1:00 hour';
+  } else {
+    var minutes = m%60;
+    return Math.floor(m / 60)+':'+(minutes < 10 ? '0':'')+minutes+' hours';
+  }
 }
 
 function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) {
@@ -52,7 +60,7 @@ function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedu
       venueName: venues[artist['venue']].name,
       venueId: artist['venue'],
       startingTime: formatMinutesSinceMidnight(adjustedEventTime(artist['start-time'])),
-      duration: artist['end-time'] - artist['start-time']
+      duration: formatEstimatedSeconds((artist['end-time'] - artist['start-time'])*60)
     };
   });
 
