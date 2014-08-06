@@ -43,6 +43,10 @@ a:active {
   text-align: center;
 }
 
+.control-box .active {
+  box-shadow: none;
+}
+
 .control-transportation .active span {
   background-position-y: -25px;
 }
