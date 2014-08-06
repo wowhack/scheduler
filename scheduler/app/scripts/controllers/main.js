@@ -14,6 +14,9 @@ angular.module('schedulerApp')
     $scope.artists = [];
     $scope.loading = true;
 
+    var tokenStr = 'token'; // Fool linter
+    $scope.accessToken = $routeParams['access_'+tokenStr];
+
     $scope.preferredConcerts = [];
 
     var allConcerts = $resource('http://localhost:8888/concerts').get({}, function() {
@@ -82,10 +85,8 @@ angular.module('schedulerApp')
             '&popularity='+($scope.artistSize)+
             '&preferred='+preferredConcertsJoined;
 
-        var tokenStr = 'token'; // Fool linter
-        var accessToken = $routeParams['access_'+tokenStr];
-        if (accessToken) {
-          url += '&accessToken='+accessToken;
+        if ($scope.accessToken) {
+          url += '&accessToken='+$scope.accessToken;
         }
 
         $scope.loading = true;
@@ -113,12 +114,15 @@ angular.module('schedulerApp')
       var redirect = encodeURIComponent($window.location.href) + '{?}';
       $window.location.href = 'http://localhost:8888/login?redirect=' + redirect;
     };
+    $scope.logoutFromSpotify = function() {
+      $window.location.href = '/';
+    };
   })
   .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts, selectedConcerts) {
     $scope.concerts = concerts.sort(function(a, b) {
       var an = a['artist-name'];
       var bn = b['artist-name'];
-      return an == bn ? 0 : an < bn ? -1 : 1;
+      return an === bn ? 0 : an < bn ? -1 : 1;
     }).map(function(concert) {
       var selected = false;
       selectedConcerts.forEach(function(selectedConcert) {

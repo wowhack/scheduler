@@ -1,7 +1,8 @@
 <div ng-controller="MainCtrl">
   <div class="controls">
     <div class="control-box">
-      <a class="spotify-login" ng-click="loginToSpotify()"><span class="icon"></span>Spotify Login</a>
+      <a ng-if="!accessToken" class="spotify-login" ng-click="loginToSpotify()"><span class="icon"></span>Spotify Login</a>
+      <a ng-if="accessToken" class="spotify-login" ng-click="logoutFromSpotify()"><span class="icon"></span>Logout</a>
     </div>
 
     <div class="control-box control-transportation">
