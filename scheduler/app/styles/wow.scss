@@ -56,7 +56,6 @@ a:active {
   background-size: 100% auto;
   display: inline-block;
   height: 25px;
-  margin-right: 12px;
   vertical-align: middle;
   width: 53px;
 }
@@ -71,6 +70,16 @@ a:active {
   width: 42px;
 }
 
+.fast-icon {
+  background-image: url('../images/fast.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  margin-right: 12px;
+  vertical-align: middle;
+  width: 20px;
+}
+
 .walk-icon {
   background-image: url('../images/dude.png');
   background-size: 100%;
@@ -78,7 +87,7 @@ a:active {
   height: 25px;
   margin-right: 12px;
   vertical-align: middle;
-  width: 17px;
+  width: 20px;
 }
 
 .spotify-login {
