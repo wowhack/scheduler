@@ -8,9 +8,9 @@
  * Controller of the schedulerApp
  */
 angular.module('schedulerApp')
-  .controller('MainCtrl', function ($http, $window, $scope, $routeParams, $resource, $modal) {
-    $scope.transportationMethod = 'walking';
-    $scope.artistSize = 500;
+  .controller('MainCtrl', function ($http, $window, $scope, $routeParams, $resource, $cookies, $modal) {
+    $scope.transportationMethod = $cookies.transportationMethod || 'walking';
+    $scope.artistSize = $cookies.artistSize || 500;
     $scope.artists = [];
     $scope.loading = true;
 
@@ -60,6 +60,9 @@ angular.module('schedulerApp')
           // let the next update handle it.
           return;
         }
+
+        $cookies.transportationMethod = $scope.transportationMethod;
+        $cookies.artistSize = $scope.artistSize;
 
         var url = 'http://localhost:8888/activities'+
             '?mode='+$scope.transportationMethod+
