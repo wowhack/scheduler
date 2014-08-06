@@ -233,6 +233,15 @@ a:active {
   margin-right: 10px;
 }
 
+@media only screen and (max-device-width: 767px) {
+  .modal-content li {
+  display: block;
+}
+.modal-content .artist-option-dot {
+  display: none;
+}
+}
+
 h1 {
   color: #f03c02;
   font-size: 35px;
