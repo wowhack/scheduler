@@ -193,6 +193,23 @@ ul.activities li {
   display: inline-block;
 }
 
+@media only screen and (min-device-width: 768px) {
+.activity-concert {
+  font-size: 18px;
+  height: 120px;
+  margin-bottom: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.activity-concert .info-artist {
+  font-size: 30px;
+  letter-spacing: 10px;
+  margin-bottom: 4px;
+  padding-top: 20px;
+}
+}
+
 .activity-transit {
   height: 60px;
   width: 100%;
@@ -203,6 +220,16 @@ ul.activities li {
   line-height: 60px;
   text-align: center;
   vertical-align: middle;
+}
+
+@media only screen and (min-device-width: 768px) {
+.activity-transit {
+  font-size: 18px;
+  height: 80px;
+}
+.activity-transit .info {
+  line-height: 80px;
+}
 }
 
 .activity-transit .info-method {
