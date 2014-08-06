@@ -12,7 +12,12 @@ var venues = JSON.parse(String(fs.readFileSync(__dirname + "/../data/venues.json
 function get_activities(req, res) {
   var mode = req.query.mode || "walking";
   var popularityWeight = parseFloat(req.query.popularity || "0.5");
-  var distanceMultiplier = parseFloat(req.query.distance || "1");
+
+  var distanceMultiplier = 1;
+  if (mode == "walking_slow") {
+    distanceMultiplier = 0.5;
+    mode = "walking";
+  }
 
   var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, distanceMultiplier), concerts, weights.weightsForPopularity(concerts, 5, popularityWeight));
   res.send({ days: activities.scheduleToActivities(concerts, venues, mode, schedule) });
