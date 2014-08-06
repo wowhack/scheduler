@@ -1,5 +1,9 @@
 <div ng-controller="MainCtrl">
   <div class="controls">
+    <div class="control-box">
+      <a class="spotify-login" ng-click="loginToSpotify()"><span class="icon"></span>Spotify Login</a>
+    </div>
+
     <div class="control-box control-transportation">
       <div class="btn-group">
         <label class="btn" ng-model="transportationMethod" btn-radio="'walking'"><span class="fast-icon"></span></label>
@@ -42,10 +46,6 @@
           <button type="button" class="btn btn-sm btn-danger" ng-click="removePreferredConcert(concert['artist-id'])">X</button>
         </li>
       </ul>
-    </div>
-
-    <div class="control-box">
-      <a class="spotify-login" ng-click="loginToSpotify()"><span class="icon"></span>Spotify Login</a>
     </div>
   </div>
 
