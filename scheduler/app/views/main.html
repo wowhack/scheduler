@@ -23,15 +23,12 @@
 
     <div class="control-box control-preferences">
       <script type="text/ng-template" id="preferredConcertsAdder.html">
-        <div class="modal-header">
-          <h3 class="modal-title">Select a concert</h3>
-        </div>
         <div class="modal-body">
-          <span ng-repeat="concert in concerts">
-            <button type="button" class="btn btn-sm btn-default" ng-model="concert.selected" btn-checkbox>
-              {{ concert.concert['artist-name'] }}
-            </button>
-          </span>
+          <ul>
+            <li ng-repeat="concert in concerts">
+              <button type="button" class="btn artist-option" ng-model="concert.selected" btn-checkbox>{{ concert.concert['artist-name'] }}</button><span class="artist-option-dot" ng-show="!$last">•</span>
+            </li>
+          </ul>
         </div>
         <div class="modal-footer">
           <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>

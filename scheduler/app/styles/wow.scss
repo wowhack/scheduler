@@ -197,6 +197,42 @@ a:active {
   color: #f03c02;
 }
 
+.modal-content {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 0px;
+  text-align: center;
+}
+
+.modal-content ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.modal-content li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.modal-content .artist-option {
+  background: none;
+  font-size: 20px;
+}
+
+.modal-content .artist-option.active {
+  background: #f03c02;
+  box-shadow: none;
+  color: white;
+  font-size: 20px;
+}
+
+.modal-content .artist-option-dot {
+  color: #f03c02;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 h1 {
   color: #f03c02;
   font-size: 35px;
