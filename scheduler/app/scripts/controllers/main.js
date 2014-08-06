@@ -14,9 +14,22 @@ angular.module('schedulerApp')
     $scope.artists = [];
     $scope.loading = true;
 
-    var allConcerts = $resource('http://localhost:8888/concerts').get();
-
     $scope.preferredConcerts = [];
+
+    var allConcerts = $resource('http://localhost:8888/concerts').get({}, function() {
+      if (!$cookies.preferredConcerts) return;
+
+      $scope.preferredConcerts = $cookies.preferredConcerts.split(/,/).map(function(artistId) {
+        var concert = null;
+        allConcerts.concerts.forEach(function(innerConcert) {
+          if (innerConcert['artist-id'] == artistId) {
+            concert = innerConcert;
+          }
+        });
+        return concert;
+      });
+    });
+
     $scope.removePreferredConcert = function(artistId) {
       $scope.preferredConcerts = $scope.preferredConcerts.filter(function(concert) {
         return concert['artist-id'] !== artistId;
@@ -61,13 +74,16 @@ angular.module('schedulerApp')
           return;
         }
 
+        var preferredConcertsJoined = $scope.preferredConcerts.map(function(concert) { return concert['artist-id']; }).join(',');
+
         $cookies.transportationMethod = $scope.transportationMethod;
         $cookies.artistSize = $scope.artistSize;
+        $cookies.preferredConcerts = preferredConcertsJoined;
 
         var url = 'http://localhost:8888/activities'+
             '?mode='+$scope.transportationMethod+
             '&popularity='+($scope.artistSize)+
-            '&preferred='+$scope.preferredConcerts.map(function(concert) { return concert['artist-id']; }).join(',');
+            '&preferred='+preferredConcertsJoined;
 
         var accessToken = $routeParams['access_token'];
         if (accessToken) {
