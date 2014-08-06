@@ -220,6 +220,15 @@ ul.activities li {
   width: 100%;
 }
 
+.activity-transit a {
+  color: inherit;
+}
+
+.activity-transit a:hover,
+.activity-transit a:active {
+  color: #f03c02;
+}
+
 .activity-transit .info {
   height: 100%;
   line-height: 60px;
