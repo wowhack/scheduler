@@ -53,7 +53,7 @@ a:active {
   display: inline-block;
   height: 25px;
   vertical-align: middle;
-  width: 53px;
+  width: 50px;
 }
 
 .bike-icon {
@@ -61,9 +61,9 @@ a:active {
   background-size: 100%;
   display: inline-block;
   height: 25px;
-  margin-right: 12px;
+  margin-right: 20px;
   vertical-align: middle;
-  width: 42px;
+  width: 50px;
 }
 
 .fast-icon {
@@ -71,9 +71,9 @@ a:active {
   background-size: 100%;
   display: inline-block;
   height: 25px;
-  margin-right: 12px;
+  margin-right: 20px;
   vertical-align: middle;
-  width: 20px;
+  width: 50px;
 }
 
 .walk-icon {
@@ -81,9 +81,38 @@ a:active {
   background-size: 100%;
   display: inline-block;
   height: 25px;
-  margin-right: 12px;
+  margin-right: 20px;
   vertical-align: middle;
-  width: 20px;
+  width: 50px;
+}
+
+.small-icon {
+  background-image: url('../images/artist_small.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  margin-right: 20px;
+  vertical-align: middle;
+  width: 50px;
+}
+
+.medium-icon {
+  background-image: url('../images/artist_medium.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  margin-right: 20px;
+  vertical-align: middle;
+  width: 50px;
+}
+
+.big-icon {
+  background-image: url('../images/artist_big.png');
+  background-size: 100%;
+  display: inline-block;
+  height: 25px;
+  vertical-align: middle;
+  width: 50px;
 }
 
 .spotify-login {
