@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "main": "download.js",
   "dependencies": {
-    "request": "~2.34.0"
+    "request": "~2.34.0",
+    "node-thumbnail": "~0.4.0"
   }
 }
