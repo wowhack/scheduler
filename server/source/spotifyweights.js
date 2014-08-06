@@ -1,6 +1,6 @@
 var fs = require("fs");
 
-var relation = JSON.parse(String(fs.readFileSync("server/data/relation.json")));
+var relation = JSON.parse(String(fs.readFileSync(__dirname + "/../data/relation.json")));
 
 var minDistance = 0.3;
 

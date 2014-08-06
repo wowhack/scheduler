@@ -5,6 +5,8 @@ var times = require("../source/times");
 var distance = require("../source/distance");
 var weights = require("../source/weights");
 var activities = require("../source/activities");
+var artists = require('../source/artists');
+var spotifyweights = require('../source/spotifyweights');
 
 var concerts = JSON.parse(String(fs.readFileSync(__dirname + "/../data/concerts.json")));
 var venues = JSON.parse(String(fs.readFileSync(__dirname + "/../data/venues.json")));
@@ -21,14 +23,22 @@ function get_activities(req, res) {
     mode = "walking";
   }
 
-  console.log("Access token", accessToken);
+  function gotMyArtists(myArtists) {
+    var spotifyWeights = myArtists ? spotifyweights.calculateWeights(concerts, myArtists) : {};
 
-  var preferredWeights = weights.constantWeights(100, preferred);
-  var popularityWeight = weights.weightsForPopularity(concerts, 5, popularityWeight);
-  var combinedWeights = weights.combineWeights(preferredWeights, popularityWeight);
+    var preferredWeights = weights.constantWeights(100, preferred);
+    var popularityWeight = weights.weightsForPopularity(concerts, 5, popularityWeight);
+    var combinedWeights = weights.combineWeights(spotifyWeights, weights.combineWeights(preferredWeights, popularityWeight));
 
-  var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, combinedWeights);
-  res.send({ days: activities.scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) });
+    var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, combinedWeights);
+    res.send({ days: activities.scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) });
+  };
+
+  if (accessToken) {
+    artists.getArtists(accessToken, gotMyArtists);
+  } else {
+    gotMyArtists(null);
+  }
 }
 
 module.exports = function() {
