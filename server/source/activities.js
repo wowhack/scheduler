@@ -70,13 +70,17 @@ function scheduleToActivities(concerts, venues, mode, durationMultiplier, schedu
       var thingsToAdd = [];
 
       if (lastVenueId !== null && lastVenueId != currentVenueId) {
+        var lastVenue = venues[lastVenueId];
+        var currentVenue = venues[currentVenueId];
+
         thingsToAdd.push({
           type: 'transit',
           methodVerb: methodVerbs[mode],
           fromVenueId: lastVenueId,
-          fromVenueName: venues[lastVenueId].name,
+          fromVenueName: lastVenue.name,
           toVenueId: currentVenueId,
-          toVenueName: venues[currentVenueId].name,
+          toVenueName: currentVenue.name,
+          shortTransit: lastVenue['festival-area'] && currentVenue['festival-area'],
           duration: venues[lastVenueId].distances[mode][currentVenueId].duration * durationMultiplier,
           distance: venues[lastVenueId].distances[mode][currentVenueId].distance
         });
