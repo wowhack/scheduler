@@ -141,3 +141,54 @@ ul.days {
 ul.days li {
   list-style-type: none;
 }
+
+ul.activities {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.activities li {
+  list-style-type: none;
+}
+
+.activity-concert {
+  background-color: black;
+  background-size: cover;
+  color: white;
+  height: 80px;
+  width: 100%;
+}
+
+.activity-concert .info {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 100%;
+  text-align: center;
+}
+
+.activity-concert .info-artist {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 4px;
+  padding-top: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.activity-concert .info-start {
+  color: rgb(200, 200, 200);
+  display: inline-block;
+}
+
+.activity-concert .info-venue {
+  color: #f03c02;
+  display: inline-block;
+  text-transform: capitalize;
+}
+
+.activity-concert .info-duration {
+  color: rgb(200, 200, 200);
+  display: inline-block;
+}
