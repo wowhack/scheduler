@@ -34,5 +34,6 @@ app.use(concerts());
 app.use(auth_callback(settings, login));
 app.use(refresh_token(settings));
 
-console.log('Listening on 8888');
-app.listen(8888);
+var port = 'PORT' in process.env ? process.env.PORT : 8888;
+console.log('Listening on ' + port);
+app.listen(port);
