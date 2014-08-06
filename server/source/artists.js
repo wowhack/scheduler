@@ -1,6 +1,13 @@
 var request = require('request');
 
+var cache = {};
+
 function getArtists(token, cb) {
+  var cachedData = cache[token];
+  if (cachedData) {
+    return cb(cachedData);
+  }
+
   var artists = {};
   var headers = { 'Authorization': 'Bearer ' + token };
   var token16 = token.substr(0, 16);
@@ -27,6 +34,8 @@ function getArtists(token, cb) {
     }
 
     var count = Object.keys(artists).length;
+
+    cache[token] = artists;
     cb(artists);
   };
 
