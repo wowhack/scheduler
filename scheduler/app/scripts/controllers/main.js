@@ -115,7 +115,11 @@ angular.module('schedulerApp')
     };
   })
   .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts, selectedConcerts) {
-    $scope.concerts = concerts.map(function(concert) {
+    $scope.concerts = concerts.sort(function(a, b) {
+      var an = a['artist-name'];
+      var bn = b['artist-name'];
+      return an == bn ? 0 : an < bn ? -1 : 1;
+    }).map(function(concert) {
       var selected = false;
       selectedConcerts.forEach(function(selectedConcert) {
         selected = selected || selectedConcert['artist-id'] === concert['artist-id'];
