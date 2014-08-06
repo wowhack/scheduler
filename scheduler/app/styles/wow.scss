@@ -233,12 +233,34 @@ a:active {
   margin-right: 10px;
 }
 
+.modal-footer {
+  text-align: center;
+}
+
+.modal-content .dismiss {
+  background: none;
+  border: 0px;
+  color: #f03c02;
+  display: inline-block;
+  font-size: 20px;
+  outline: none !important;
+  text-transform: uppercase;
+}
+
+.modal-content .dismiss:active {
+  color: black;
+}
+
 @media only screen and (max-device-width: 767px) {
-  .modal-content li {
+.modal-content li {
   display: block;
 }
 .modal-content .artist-option-dot {
   display: none;
+}
+.modal-content .dismiss {
+  font-size: 18px;
+  white-space: nowrap;
 }
 }
 

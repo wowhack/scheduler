@@ -31,10 +31,10 @@
           </ul>
         </div>
         <div class="modal-footer">
-          <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>
+          <button ng-click="dismiss()" class="dismiss">Go to these concerts</button>
         </div>
       </script>
-      <button class="add-button" ng-click="openPreferredConcertAdder()">I really need to see this ...</button>
+      <button class="add-button" ng-click="openPreferredConcertAdder()">I really need to go to these ...</button>
       <ul ng-repeat="concert in preferredConcerts">
         <li>
           <span class="preferred-artist" ng-click="removePreferredConcert(concert['artist-id'])">{{ concert['artist-name'] }}</span>
