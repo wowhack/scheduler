@@ -86,6 +86,9 @@ a:active {
   width: 50px;
 }
 
+.control-size .active span {
+  background-position-y: -25px;
+}
 .small-icon {
   background-image: url('../images/artist_small.png');
   background-size: 100%;
@@ -137,6 +140,30 @@ a:active {
 
 .spotify-login:hover .icon {
   background-position-y: -33px;
+}
+
+.control-preferences {
+}
+
+.control-preferences ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.control-preferences li {
+  list-style-type: none;
+}
+
+.control-preferences .preferred-artist {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 4px;
+  padding-top: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 h1 {
