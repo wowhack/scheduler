@@ -12,6 +12,7 @@ var venues = JSON.parse(String(fs.readFileSync(__dirname + "/../data/venues.json
 function get_activities(req, res) {
   var mode = req.query.mode || "walking";
   var popularityWeight = parseFloat(req.query.popularity || "0.5");
+  var preferred = req.query.preferred ? req.query.preferred.split(',') : [];
 
   var durationMultiplier = 1;
   if (mode == "walking_slow") {
@@ -19,7 +20,11 @@ function get_activities(req, res) {
     mode = "walking";
   }
 
-  var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, weights.weightsForPopularity(concerts, 5, popularityWeight));
+  var preferredWeights = weights.constantWeights(100, preferred);
+  var popularityWeight = weights.weightsForPopularity(concerts, 5, popularityWeight);
+  var combinedWeights = weights.combineWeights(preferredWeights, popularityWeight);
+
+  var schedule = times.findOptimalSchedule(distance.makeDistanceFunction(venues, mode, durationMultiplier), concerts, combinedWeights);
   res.send({ days: activities.scheduleToActivities(concerts, venues, mode, durationMultiplier, schedule) });
 }
 

@@ -1,10 +1,10 @@
 // File with utilities for weights that are supplied to the scheduler function
 
-function unityWeights(concerts) {
+function constantWeights(weight, artistIds) {
   var weights = new Object();
-  for(var i in concerts){
-    weights[concerts[i]['artist-id']] = 1;
-  }
+  artistIds.forEach(function(artistId) {
+    weights[artistId] = weight;
+  });
   return weights;
 }
 
@@ -41,6 +41,6 @@ function combineWeights(a, b) {
   return result;
 }
 
-exports.unityWeights = unityWeights;
+exports.constantWeights = constantWeights;
 exports.weightsForPopularity = weightsForPopularity;
 exports.combineWeights = combineWeights;
