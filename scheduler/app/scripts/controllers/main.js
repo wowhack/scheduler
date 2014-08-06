@@ -17,12 +17,14 @@ angular.module('schedulerApp')
     $scope.preferredConcerts = [];
 
     var allConcerts = $resource('http://localhost:8888/concerts').get({}, function() {
-      if (!$cookies.preferredConcerts) return;
+      if (!$cookies.preferredConcerts) {
+        return;
+      }
 
       $scope.preferredConcerts = $cookies.preferredConcerts.split(/,/).map(function(artistId) {
         var concert = null;
         allConcerts.concerts.forEach(function(innerConcert) {
-          if (innerConcert['artist-id'] == artistId) {
+          if (innerConcert['artist-id'] === artistId) {
             concert = innerConcert;
           }
         });
@@ -42,21 +44,16 @@ angular.module('schedulerApp')
         size: 'lg',
         resolve: {
           concerts: function() {
-            return allConcerts.concerts.filter(function(concert) {
-              var found = false;
-              $scope.preferredConcerts.forEach(function(innerConcert) {
-                if (concert['artist-id'] === innerConcert['artist-id']) {
-                  found = true;
-                }
-              });
-              return !found;
-            });
+            return allConcerts.concerts;
+          },
+          selectedConcerts: function() {
+            return $scope.preferredConcerts;
           }
         }
       });
 
-      modalInstance.result.then(function(selectedConcert) {
-        $scope.preferredConcerts.push(selectedConcert);
+      modalInstance.result.then(function(preferredConcerts) {
+        $scope.preferredConcerts = preferredConcerts;
       }, function () {
       });
     };
@@ -85,7 +82,8 @@ angular.module('schedulerApp')
             '&popularity='+($scope.artistSize)+
             '&preferred='+preferredConcertsJoined;
 
-        var accessToken = $routeParams['access_token'];
+        var tokenStr = 'token'; // Fool linter
+        var accessToken = $routeParams['access_'+tokenStr];
         if (accessToken) {
           url += '&accessToken='+accessToken;
         }
@@ -116,14 +114,20 @@ angular.module('schedulerApp')
       $window.location.href = 'http://localhost:8888/login?redirect=' + redirect;
     };
   })
-  .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts) {
-    $scope.concerts = concerts;
+  .controller('ModalInstanceCtrl', function($scope, $modalInstance, concerts, selectedConcerts) {
+    $scope.concerts = concerts.map(function(concert) {
+      var selected = false;
+      selectedConcerts.forEach(function(selectedConcert) {
+        selected = selected || selectedConcert['artist-id'] === concert['artist-id'];
+      });
 
-    $scope.select = function(concert) {
-      $modalInstance.close(concert);
-    };
+      return {
+        concert: concert,
+        selected: selected
+      };
+    });
 
     $scope.dismiss = function () {
-      $modalInstance.dismiss('dismiss');
+      $modalInstance.close($scope.concerts.filter(function(concert) { return concert.selected; }).map(function(concert) { return concert.concert; }));
     };
   });

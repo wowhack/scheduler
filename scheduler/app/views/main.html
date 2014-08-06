@@ -26,9 +26,11 @@
           <h3 class="modal-title">Select a concert</h3>
         </div>
         <div class="modal-body">
-          <button type="button" class="btn btn-sm btn-default" ng-click="select(concert)" ng-repeat="concert in concerts">
-            {{ concert['artist-name'] }}
-          </button>
+          <span ng-repeat="concert in concerts">
+            <button type="button" class="btn btn-sm btn-default" ng-model="concert.selected" btn-checkbox>
+              {{ concert.concert['artist-name'] }}
+            </button>
+          </span>
         </div>
         <div class="modal-footer">
           <button class="btn btn-primary" ng-click="dismiss()">Dismiss</button>
@@ -36,14 +38,12 @@
       </script>
       <p>
         My priorities:
+        <span ng-repeat="concert in preferredConcerts">
+          {{ concert['artist-name'] }}<span ng-show="!$last">, </span>
+        </span>
+        <span ng-if="preferredConcerts.length == 0">None</span>
       </p>
-      <ul class="list-unstyled" ng-repeat="concert in preferredConcerts">
-        <li>
-          {{ concert['artist-name'] }}
-          <button type="button" class="btn btn-sm btn-danger" ng-click="removePreferredConcert(concert['artist-id'])">X</button>
-        </li>
-      </ul>
-      <button type="button" class="btn btn-sm btn-success" ng-click="openPreferredConcertAdder()">+</button>
+      <button type="button" class="btn btn-sm btn-primary" ng-click="openPreferredConcertAdder()">Edit Priorities</button>
     </div>
   </div>
 
