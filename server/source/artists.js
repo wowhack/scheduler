@@ -35,7 +35,9 @@ function getArtists(token, cb) {
 
     var count = Object.keys(artists).length;
 
-    cache[token] = artists;
+    if (count > 0) {  // As a safety measure in case stuff goes wrong
+      cache[token] = artists;
+    }
     cb(artists);
   };
 
