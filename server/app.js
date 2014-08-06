@@ -5,6 +5,7 @@ var cookies = require('cookie-parser');
 var login = require('./routes/login');
 var artists = require('./routes/artists');
 var activities = require('./routes/activities');
+var concerts = require('./routes/concerts');
 var auth_callback = require('./routes/auth_callback');
 var refresh_token = require('./routes/refresh_token');
 
@@ -29,6 +30,7 @@ app.use(cookies());
 app.use(login(settings));
 app.use(artists());
 app.use(activities());
+app.use(concerts());
 app.use(auth_callback(settings, login));
 app.use(refresh_token(settings));
 
