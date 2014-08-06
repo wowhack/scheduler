@@ -9,8 +9,12 @@
       </div>
     </div>
 
-    <div class="control-box">
-      <input type="range" ng-model="artistSize" name="points" min="0" max="1000">
+    <div class="control-box control-transportation">
+      <div class="btn-group">
+        <label class="btn" ng-model="artistSize" btn-radio="'0.3'"><span class="walk-icon"></span></label>
+        <label class="btn" ng-model="artistSize" btn-radio="'0.5'"><span class="bike-icon"></span></label>
+        <label class="btn" ng-model="artistSize" btn-radio="'0.9'"><span class="drive-icon"></span></label>
+      </div>
     </div>
 
     <div class="control-box">

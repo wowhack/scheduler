@@ -66,7 +66,7 @@ angular.module('schedulerApp')
 
         var url = 'http://localhost:8888/activities'+
             '?mode='+$scope.transportationMethod+
-            '&popularity='+($scope.artistSize/1000)+
+            '&popularity='+($scope.artistSize)+
             '&preferred='+$scope.preferredConcerts.map(function(concert) { return concert['artist-id']; }).join(',');
 
         var accessToken = $routeParams['access_token'];
